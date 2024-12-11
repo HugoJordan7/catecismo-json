@@ -1,0 +1,1133 @@
+{
+    "nome": "p1_s1_c2",
+    "primeiroParagrafo": 50,
+    "ultimoParagrafo": 141,
+    "conteudo": [
+        {
+            "tipo": "título",
+            "texto": "PRIMEIRA PARTE"
+        },
+        {
+            "tipo": "título",
+            "texto": "A PROFISSÃO DA FÉ\n\n"
+        },
+        {
+            "tipo": "título",
+            "texto": "PRIMEIRA SECÇÃO"
+        },
+        {
+            "tipo": "título",
+            "texto": "«EU CREIO» – «NÓS CREMOS»\n\n"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "CAPÍTULO SEGUNDO"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "DEUS AO ENCONTRO DO HOMEM"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "50. Pela razão natural, o homem pode conhecer Deus com certeza, a partir das suas obras. Mas existe outra ordem de conhecimento, que o homem de modo nenhum pode atingir por suas próprias forças: a da Revelação divina (1). Por uma vontade absolutamente livre, Deus revela-Se e dá-Se ao homem. E fá-lo revelando o seu mistério, o desígnio benevolente que, desde toda a eternidade, estabeleceu em Cristo, em favor de todos os homens. Revela plenamente o seu desígnio, enviando o seu Filho bem-amado, nosso Senhor Jesus Cristo, e o Espírito Santo.",
+            "paragrafo": 50
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 1"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A REVELAÇÃO DE DEUS"
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. Deus revela o seu «desígnio benevolente»"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "51. «Aprouve a Deus, na sua sabedoria e bondade, revelar-Se a Si mesmo e dar a conhecer o mistério da sua vontade, segundo o qual os homens, por meio de Cristo, Verbo encarnado, têm acesso ao Pai no Espírito Santo e se tomam participantes da natureza divina»(2).",
+            "paragrafo": 51
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "52. Deus, que «habita numa luz inacessível» (1 Tm 6, 16), quer comunicar a sua própria vida divina aos homens que livremente criou, para fazer deles, no seu Filho único, filhos adoptivos (3). Revelando-Se a Si mesmo, Deus quer tornar os homens capazes de Lhe responderem, de O conhecerem e de O amarem, muito para além de tudo o que seriam capazes por si próprios.",
+            "paragrafo": 52
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "53. O desígnio divino da Revelação realiza-se, ao mesmo tempo, «por meio de acções e palavras, intrinsecamente relacionadas entre si» (4) e esclarecendo-se mutuamente. Comporta uma particular «pedagogia divina»: Deus comunica-Se gradualmente ao homem e prepara-o, por etapas, para receber a Revelação sobrenatural que faz de Si próprio e que vai culminar na Pessoa e missão do Verbo encarnado, Jesus Cristo.\n\nSanto Ireneu de Lião fala várias vezes desta pedagogia divina, sob a imagem da familiaridade mútua entre Deus e o homem: «O Verbo de Deus [...] habitou no homem e fez-Se Filho do Homem, para acostumar o homem a apreender Deus e Deus a habitar no homem, segundo o beneplácito do Pai» (5).",
+            "paragrafo": 53
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. As etapas da Revelação"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "DESDE A ORIGEM, DEUS DÁ-SE A CONHECER"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "54. «Deus, criando e conservando todas as coisas pelo Verbo, oferece aos homens um testemunho perene de Si mesmo nas coisas criadas, e, além disso, decidindo abrir o caminho da salvação sobrenatural, manifestou-se a Si mesmo, desde o princípio, aos nossos primeiros pais» (6). Convidou-os a uma comunhão íntima consigo, revestindo-os de uma graça e justiça resplandecentes.",
+            "paragrafo": 54
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "55. Esta Revelação não foi interrompida pelo pecado dos nossos primeiros pais. Com efeito, Deus, «depois da sua queda, com a promessa de redenção, deu-lhes a esperança da salvação, e cuidou continuamente do género humano, para dar a vida eterna a todos aqueles que, perseverando na prática das boas obras, procuram a salvação»(7).\n\n«E quando, por desobediência, perdeu a vossa amizade, não o abandonastes ao poder da morte [...] Repetidas vezes fizestes aliança com os homens (8)».",
+            "paragrafo": 55
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A ALIANÇA COM NOÉ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "56. Desfeita a unidade do género humano pelo pecado, Deus procurou imediatamente, salvar a humanidade intervindo com cada uma das suas partes. A aliança com Noé, a seguir ao dilúvio (9), exprime o princípio da economia divina em relação às «nações», quer dizer, em relação aos homens reagrupados «por países e línguas, por famílias e nações» (Gn 10, 5) (10).",
+            "paragrafo": 56
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "57. Esta ordem, ao mesmo tempo cósmica, social e religiosa da pluralidade das nações (11), destinava-se a limitar o orgulho duma humanidade decaída, que, unânime na sua perversidade (12), pretendia refazer por si mesma a própria unidade, à maneira de Babel (13). Mas, por causa do pecado (14), quer o politeísmo quer a idolatria da nação e do seu chefe são uma contínua ameaça de perversão pagã a esta economia provisória.",
+            "paragrafo": 57
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "58. A aliança com Noé permanece em vigor enquanto durar o tempo das nações (15), até à proclamação universal do Evangelho. A Bíblia venera algumas grandes figuras das «nações», como «o justo Abel», o rei e sacerdote Melquisedec (16), figura de Cristo (17), ou os justos «Noé, Danel e Job» (Ez 14, 14). Deste modo, a Escritura exprime o alto grau de santidade que podem atingir os que vivem segundo a aliança de Noé, na expectativa de que Cristo «reúna, na unidade, todos os filhos de Deus dispersos» (Jo 11, 52).",
+            "paragrafo": 58
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "DEUS ELEGE ABRAÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "59. Para reunir a humanidade dispersa, Deus escolhe Abrão, chamando-o para «deixar a sua terra, a sua família e a casa de seu pai» (Gn 12, 1), para o fazer Abraão, quer dizer, «pai de um grande número de nações» (Gn 17, 5): «Em ti serão abençoadas todas as nações da Terra» (Gn 12, 3) (18).",
+            "paragrafo": 59
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "60. O povo descendente de Abraão será o depositário da promessa feita aos patriarcas, o povo eleito (19), chamado a preparar a reunião, um dia, de todos os filhos de Deus na unidade da Igreja (20). Será o tronco em que serão enxertados os pagãos tornados crentes (21).",
+            "paragrafo": 60
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "61. Os patriarcas, os profetas e outras personagens do Antigo Testamento foram, e serão sempre, venerados como santos em todas as tradições litúrgicas da Igreja.",
+            "paragrafo": 61
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "DEUS FORMA O SEU POVO ISRAEL"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "62. Depois dos patriarcas, Deus formou Israel como seu povo, salvando-o da escravidão do Egipto. Concluiu com ele a aliança do Sinai e deu-lhe, por Moisés, a sua Lei, para que Israel O reconhecesse e O servisse como único Deus vivo e verdadeiro, Pai providente e justo Juiz, e vivesse na expectativa do Salvador prometido (22).",
+            "paragrafo": 62
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "63. Israel é o povo sacerdotal de Deus (23), sobre o qual «foi invocado o Nome do Senhor» (Dt 28, 10). É o povo daqueles «a quem Deus falou em primeiro lugar»(24), o povo dos «irmãos mais velhos» na fé de Abraão (25).",
+            "paragrafo": 63
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "64. Pelos profetas, Deus forma o seu povo na esperança da salvação, na expectativa duma aliança nova e eterna, destinada a todos os homens (26), e que será gravada nos corações (27). Os profetas anunciam uma redenção radical do povo de Deus, a purificação de todas as suas infidelidades (28), uma salvação que abrangerá todas as nações (29). Serão sobretudo os pobres e os humildes do Senhor (30) os portadores desta esperança. As mulheres santas como Sara, Rebeca, Raquel, Míriam, Débora, Ana, Judite e Ester conservaram viva a esperança da salvação de Israel. Maria é a imagem puríssima desta esperança (31).",
+            "paragrafo": 64
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. Jesus Cristo – «Mediador e plenitude de toda a Revelação» (32)"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "NO SEU VERBO, DEUS DISSE TUDO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "65. «Muitas vezes e de muitos modos falou Deus antigamente aos nossos pais, pelos Profetas. Nestes dias, que são os últimos, falou-nos pelo seu Filho» (Heb 1, 1-2). Cristo, Filho de Deus feito homem, é a Palavra única, perfeita e insuperável do Pai.\n\nN'Ele, o Pai disse tudo. Não haverá outra palavra além dessa. São João da Cruz, após tantos outros, exprime-o de modo luminoso, ao comentar Heb 1, 1-2:\n\n«Ao dar-nos, como nos deu, o seu Filho, que é a sua Palavra – e não tem outra – (Deus) disse-nos tudo ao mesmo tempo e de uma só vez nesta Palavra única e já nada mais tem para dizer. [...] Porque o que antes disse parcialmente pelos profetas, revelou-o totalmente, dando-nos o Todo que é o seu Filho. E por isso, quem agora quisesse consultar a Deus ou pedir-Lhe alguma visão ou revelação, não só cometeria um disparate, mas faria agravo a Deus, por não pôr os olhos totalmente em Cristo e buscar fora d'Ele outra realidade ou novidade» (33).",
+            "paragrafo": 65
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "JÁ NÃO HAVERÁ OUTRA REVELAÇÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "66. «Portanto, a economia cristã, como nova e definitiva aliança, jamais passará, e já não se há-de esperar nenhuma nova revelação pública antes da gloriosa manifestação de nosso Senhor Jesus Cristo»(34). No entanto, apesar de a Revelação já estar completa, ainda não está plenamente explicitada. E está reservado à fé cristã apreender gradualmente todo o seu alcance, no decorrer dos séculos.",
+            "paragrafo": 66
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "67. No decurso dos séculos tem havido revelações ditas «privadas», algumas das quais foram reconhecidas pela autoridade da Igreja. Todavia, não pertencem ao depósito da fé. O seu papel não é «aperfeiçoar» ou «completar» a Revelação definitiva de Cristo, mas ajudar a vivê-la mais plenamente, numa determinada época da história. Guiado pelo Magistério da Igreja, o sentir dos fiéis sabe discernir e guardar o que nestas revelações constitui um apelo autêntico de Cristo ou dos seus santos à Igreja.\n\nA fé cristã não pode aceitar «revelações» que pretendam ultrapassar ou corrigir a Revelação de que Cristo é a plenitude. É o caso de certas religiões não-cristãs, e também de certas seitas recentes. fundadas sobre tais «revelações».",
+            "paragrafo": 67
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "68. Por amor, Deus revelou-Se e deu-Se ao homem. Dá assim uma resposta definitiva e superabundante às questões que o homem se põe a si próprio sobre o sentido e o fim da sua vida.",
+            "paragrafo": 68
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "69. Deus revelou-Se ao homem, comunicando-lhe gradualmente o seu próprio mistério, por acções e por palavras.",
+            "paragrafo": 69
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "70. Além do testemunho que dá de Si mesmo através das coisas criadas, Deus manifestou-Se a Si próprio aos nossos primeiros pais. Falou-lhes e, depois da queda, prometeu-lhes a salvação (35) e ofereceu-lhes a sua aliança.",
+            "paragrafo": 70
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "71. Deus concluiu com Noé uma aliança eterna entre Si e todos os seres vivos (36). Essa aliança durará enquanto durar o mundo.",
+            "paragrafo": 71
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "72. Deus escolheu Abraão e concluiu uma aliança com ele e os seus descendentes. Fez deles o seu povo, ao qual revelou a sua Lei por meio de Moisés. E preparou-o, pelos profetas, a acolher a salvação destinada a toda a humanidade.",
+            "paragrafo": 72
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "73. Deus revelou-Se plenamente enviando o seu próprio Filho, no qual estabeleceu a sua aliança para sempre. O Filho é a Palavra definitiva do Pai, de modo que, depois d'Ele, não haverá outra Revelação.",
+            "paragrafo": 73
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 2"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A TRANSMISSÃO DA REVELAÇÃO DIVINA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "74. Deus «quer que todos os homens se salvem e cheguem ao conhecimento da verdade» (1 Tm 2, 4), quer dizer, de Cristo Jesus (37). Por isso, é preciso que Cristo seja anunciado a todos os povos e a todos os homens, e que, assim a Revelação chegue aos confins do mundo:\n\nDeus dispôs amorosamente que permanecesse íntegro e fosse transmitido a todas as gerações tudo quanto tinha revelado para salvação de todos os povos (38).",
+            "paragrafo": 74
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. A Tradição apostólica"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "75. «Cristo Senhor, em quem toda a revelação do Deus altíssimo se consuma, tendo cumprido e promulgado pessoalmente o Evangelho antes prometido pelos profetas, mandou aos Apóstolos que o pregassem a todos, como fonte de toda a verdade salutar e de toda a disciplina de costumes, comunicando-lhes assim os dons divinos» (39).",
+            "paragrafo": 75
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A PREGAÇÃO APOSTÓLICA ..."
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "76. A transmissão do Evangelho, segundo a ordem do Senhor, fez-se de duas maneiras:\n\n– oralmente, «pelos Apóstolos, que, na sua pregação oral, exemplos e instituições, transmitiram aquilo que tinham recebido dos lábios, trato e obras de Cristo, e o que tinham aprendido por inspiração do Espírito Santo»;\n\n– por escrito, «por aqueles apóstolos e varões apostólicos que, sob a inspiração do mesmo Espírito Santo, escreveram a mensagem da salvação» (40).",
+            "paragrafo": 76
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "... CONTINUADA NA SUCESSÃO APOSTÓLICA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "77. «Para que o Evangelho fosse perenemente conservado íntegro e vivo na Igreja, os Apóstolos deixaram os bispos como seus sucessores, \"entregando-lhes o seu próprio ofício de magistério\"» (41). Com efeito, «a pregação apostólica, que se exprime de modo especial nos livros inspirados, devia conservar-se, por uma sucessão ininterrupta, até à consumação dos tempos» (42).",
+            "paragrafo": 77
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "78. Esta transmissão viva, realizada no Espírito Santo, denomina-se Tradição, enquanto distinta da Sagrada Escritura, embora estreitamente a ela ligada. Pela Tradição, «a Igreja, na sua doutrina, vida e culto, perpetua e transmite a todas as gerações tudo aquilo que ela é e tudo em que acredita» (43). «Afirmações dos santos Padres testemunham a presença vivificadora desta Tradição, cujas riquezas entram na prática e na vida da Igreja crente e orante» (44).",
+            "paragrafo": 78
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "79. Assim, a comunicação que o Pai fez de Si próprio, pelo seu Verbo, no Espírito Santo, continua presente e activa na Igreja: «Deus, que outrora falou, dialoga sem interrupção com a esposa do seu amado Filho; e o Espírito Santo – por quem ressoa a voz do Evangelho na Igreja, e, pela Igreja, no mundo – introduz os crentes na verdade plena e faz com que a palavra de Cristo neles habite em toda a sua riqueza» (45).",
+            "paragrafo": 79
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. A relação entre a Tradição e a Sagrada Escritura"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "UMA FONTE COMUM..."
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "80. «A Tradição sagrada e a Sagrada Escritura estão intimamente unidas e compenetradas entre si. Com efeito, derivando ambas da mesma fonte divina, fazem como que uma coisa só e tendem ao mesmo fim» (46). Uma e outra tornam presente e fecundo na Igreja o mistério de Cristo, que prometeu estar com os seus, «sempre, até ao fim do mundo» (Mt 28, 20).",
+            "paragrafo": 80
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "... DUAS FORMAS DE TRANSMISSÃO DISTINTAS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "81. «A Sagrada Escritura é a Palavra de Deus enquanto foi escrita por inspiração do Espírito divino».\n\n«A sagrada Tradição, por sua vez, conserva a Palavra de Deus, confiada por Cristo Senhor e pelo Espírito Santo aos Apóstolos, e transmite-a integralmente aos seus sucessores, para que eles, com a luz do Espírito da verdade, fielmente a conservem, exponham e difundam na sua pregação» (47).",
+            "paragrafo": 81
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "82. Daí resulta que a Igreja, a quem está confiada a transmissão e interpretação da Revelação, «não tira só da Sagrada Escritura a sua certeza a respeito de todas as coisas reveladas. Por isso, ambas devem ser recebidas e veneradas com igual espírito de piedade e reverência» (48).",
+            "paragrafo": 82
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "TRADIÇÃO APOSTÓLICA E TRADIÇÕES ECLESIAIS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "83. A Tradição de que falamos aqui é a que vem dos Apóstolos. Ela transmite o que estes receberam do ensino e do exemplo de Jesus e aprenderam pelo Espírito Santo. De facto, a primeira geração de cristãos não tinha ainda um Novo Testamento escrito, e o próprio Novo Testamento testemunha o processo da Tradição viva.\n\nÉ preciso distinguir, desta Tradição, as «tradições» teológicas, disciplinares, litúrgicas ou devocionais, nascidas no decorrer do tempo nas Igrejas locais. Elas constituem formas particulares, sob as quais a grande Tradição recebe expressões adaptadas aos diversos lugares e às diferentes épocas. É à sua luz que estas podem ser mantidas, modificadas e até abandonadas, sob a direcção do Magistério da Igreja.",
+            "paragrafo": 83
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. A interpretação da herança da fé"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A HERANÇA DA FÉ CONFIADA À TOTALIDADE DA IGREJA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "84. O depósito da fé (49) («depositum fidei»), contido na Tradição sagrada e na Sagrada Escritura, foi confiado pelos Apóstolos ao conjunto da Igreja. «Apoiando-se nele, todo o povo santo persevera unido aos seus pastores na doutrina dos Apóstolos e na comunhão, na fracção do pão e na oração, de tal modo que, na conservação, actuação e profissão da fé transmitida, haja uma especial concordância dos pastores e dos fiéis» (50).",
+            "paragrafo": 84
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O MAGISTÉRIO DA IGREJA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "85. «O encargo de interpretar autenticamente a Palavra de Deus, escrita ou contida na Tradição, foi confiado só ao Magistério vivo da Igreja, cuja autoridade é exercida em nome de Jesus Cristo (51), isto é, aos bispos em comunhão com o sucessor de Pedro, o bispo de Roma.",
+            "paragrafo": 85
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "86. «Todavia, este Magistério não está acima da Palavra de Deus, mas sim ao seu serviço, ensinando apenas o que foi transmitido, enquanto, por mandato divino e com a assistência do Espírito Santo, a ouve piamente, a guarda religiosamente e a expõe fielmente, haurindo deste depósito único da fé tudo quanto propõe à fé como divinamente revelado» (52).",
+            "paragrafo": 86
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "87. Os fiéis, lembrando-se da palavra de Cristo aos Apóstolos: «Quem vos escuta escuta-me a Mim» (Lc 10, 16) (53), recebem com docilidade os ensinamentos e as directrizes que os seus pastores lhes dão, sob diferentes formas.",
+            "paragrafo": 87
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "OS DOGMAS DA FÉ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "88. O Magistério da Igreja faz pleno uso da autoridade que recebeu de Cristo quando define dogmas, isto é, quando propõe, dum modo que obriga o povo cristão a uma adesão irrevogável de fé, verdades contidas na Revelação divina ou quando propõe, de modo definitivo, verdades que tenham com elas um nexo necessário.",
+            "paragrafo": 88
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "89. Existe uma ligação orgânica entre a nossa vida espiritual e os dogmas. Os dogmas são luzes no caminho da nossa fé: iluminam-no e tornam-no seguro. Por outro lado, se a nossa vida for recta, a nossa inteligência e nosso coração estarão abertos para acolher a luz dos dogmas da fé (54).",
+            "paragrafo": 89
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "90. A interligação e a coerência dos dogmas podem encontrar-se no conjunto da revelação do mistério de Cristo (55). Convém lembrar que «existe uma ordem ou \"hierarquia\" das verdades da doutrina católica, já que o nexo delas com o fundamento da fé cristã é diferente» (56).",
+            "paragrafo": 90
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O SENTIDO SOBRENATURAL DA FÉ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "91. Todos os fiéis participam na compreensão e na transmissão da verdade revelada. Todos receberam a unção do Espírito Santo que os instrui (57) e os conduz «à verdade total» (Jo 16, 13).",
+            "paragrafo": 91
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "92. «A totalidade dos fiéis [...] não pode enganar-se na fé e manifesta esta sua propriedade peculiar por meio do sentir sobrenatural da fé do povo todo, quando, \"desde os bispos até ao último dos fiéis leigos\", exprime consenso universal em matéria de fé e costumes» (58).",
+            "paragrafo": 92
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "93. «Com este sentido da fé, que se desperta e sustenta pela acção do Espírito de verdade, o povo de Deus, sob a direcção do sagrado Magistério [...] adere indefectivelmente à fé, uma vez por todas confiada aos santos; penetra-a mais profundamente com juízo acertado e aplica-a mais totalmente na vida» (59).",
+            "paragrafo": 93
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O CRESCIMENTO NA INTELIGÊNCIA DA FÉ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "94. Graças à assistência do Espírito Santo, a inteligência das realidades e das palavras do depósito da fé pode crescer na vida da Igreja:\n\n– «Pela contemplação e pelo estudo dos crentes, que as meditam no seu coração» (60); e particularmente pela «investigação teológica, que aprofunda o conhecimento da verdade revelada» (61).\n\n– «Pela inteligência interior das coisas espirituais que os crentes experimentam» (62); «Divina eloquia cum legente crescunt» – «As palavras divinas crescem com quem as lê» (63).\n\n– «Pela pregação daqueles que receberam, com a sucessão episcopal, um carisma certo da verdade» (64).",
+            "paragrafo": 94
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "95. «É claro, portanto, que a sagrada Tradição, a Sagrada Escritura e o Magistério da Igreja, segundo um sapientíssimo desígnio de Deus, estão de tal maneira ligados e conjuntos, que nenhum pode subsistir sem os outros e, todos juntos, cada um a seu modo, sob a acção do mesmo Espírito Santo, contribuem eficazmente para a salvação das almas» (65).",
+            "paragrafo": 95
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "96. O que Cristo confiou aos Apóstolos, estes o transmitiram, pela sua pregação e por escrito, sob a inspiração do Espírito Santo, a todas as gerações, até à vinda gloriosa de Cristo.",
+            "paragrafo": 96
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "97. «A sagrada Tradição e a Sagrada Escritura constituem um único depósito sagrado da Palavra de Deus» (66), no qual, como num espelho, a Igreja peregrina contempla Deus, fonte de todas as suas riquezas.",
+            "paragrafo": 97
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "98. «Na sua doutrina, vida e culto, a Igreja perpetua e transmite a todas as gerações tudo aquilo que ela é, tudo aquilo em que acredita» (67).",
+            "paragrafo": 98
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "99. Graças ao sentido sobrenatural da fé, o povo de Deus, no seu todo, não cessa de acolher o dom da Revelação divina, de nele penetrar mais profundamente e de viver dele mais plenamente.",
+            "paragrafo": 99
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "100. O encargo de interpretar autenticamente a Palavra de Deus foi confiado unicamente ao Magistério da Igreja, ao Papa e aos bispos em comunhão com ele.",
+            "paragrafo": 100
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 3"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A SAGRADA ESCRITURA"
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. Cristo – Palavra única da Escritura santa"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "101. Na sua bondade condescendente, para Se revelar aos homens. Deus fala-lhes em palavras humanas: «As palavras de Deus, com efeito, expressas por línguas humanas, tornaram-se semelhantes à linguagem humana, tal como outrora o Verbo do eterno Pai se assemelhou aos homens assumindo a carne da debilidade humana» (68).",
+            "paragrafo": 101
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "102. Através de todas as palavras da Sagrada Escritura. Deus não diz mais que uma só Palavra, o seu Verbo único, em quem totalmente Se diz (69):\n\n«Lembrai-vos de que o discurso de Deus que se desenvolve em todas as Escrituras é um só e um só é o Verbo que Se faz ouvir na boca de todos os escritores sagrados, o qual, sendo no princípio Deus junto de Deus, não tem necessidade de sílabas, pois não está sujeito ao tempo» (70).",
+            "paragrafo": 102
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "103. Por esta razão, a Igreja sempre venerou as divinas Escrituras tal como venera o Corpo do Senhor. Nunca cessa de distribuir aos fiéis o Pão da vida, tornado à mesa quer da Palavra de Deus, quer do Corpo de Cristo (71).",
+            "paragrafo": 103
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "104. Na Sagrada Escritura, a Igreja encontra continuamente o seu alimento e a sua força (72), porque nela não recebe apenas uma palavra humana, mas o que ela é na realidade: a Palavra de Deus (73). «Nos livros sagrados, com efeito, o Pai que está nos Céus vem amorosamente ao encontro dos seus filhos, a conversar com eles» (74).",
+            "paragrafo": 104
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. Inspiração e verdade da Sagrada Escritura"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "105. Deus é o autor da Sagrada Escritura. «A verdade divinamente revelada, que os livros da Sagrada Escritura contêm e apresentam, foi registrada neles sob a inspiração do Espírito Santo».\n\n«Com efeito, a santa Mãe Igreja, segundo a fé apostólica, considera como sagrados e canónicos os livros completos do Antigo e do Novo Testamento com todas as suas partes, porque, escritos por inspiração do Espírito Santo, têm Deus por autor, e como tais foram confiados à própria Igreja» (75).",
+            "paragrafo": 105
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "106. Deus inspirou os autores humanos dos livros sagrados. «Para escrever os livros sagrados, Deus escolheu e serviu-se de homens, na posse das suas faculdades e capacidades, para que, agindo Ele neles e por eles, pusessem por escrito, como verdadeiros autores, tudo aquilo e só aquilo que Ele queria» (76).",
+            "paragrafo": 106
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "107. Os livros inspirados ensinam a verdade. «E assim como tudo o que os autores inspirados ou hagiógrafos afirmam, deve ser tido como afirmado pelo Espírito Santo, por isso mesmo se deve acreditar que os livros da Escritura ensinam com certeza, fielmente e sem erro, a verdade que Deus quis que fosse consignada nas sagradas Letras em ordem à nossa salvação» (77).",
+            "paragrafo": 107
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "108. No entanto, a fé cristã não é uma «religião do Livro». O Cristianismo é a religião da «Palavra» de Deus, «não duma palavra escrita e muda, mas do Verbo encarnado e vivo» (78). Para que não sejam letra morta, é preciso que Cristo, Palavra eterna do Deus vivo, pelo Espírito Santo, nos abra o espírito à inteligência das Escrituras (79).",
+            "paragrafo": 108
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. O Espírito Santo, intérprete da Escritura"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "109. Na Sagrada Escritura, Deus fala ao homem à maneira dos homens. Portanto, para bem interpretar a Escritura, é necessário prestar atenção ao que os autores humanos realmente quiseram dizer, e àquilo que aprouve a Deus manifestar-nos pelas palavras deles (80).",
+            "paragrafo": 109
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "110. Para descobrir a intenção dos autores sagrados, é preciso ter em conta as condições do seu tempo e da sua cultura, os «géneros literários» em uso na respectiva época, os modos de sentir, falar e narrar correntes naquele tempo. «Porque a verdade é proposta e expressa de modos diversos, em textos históricos de vária índole, ou proféticos, ou poéticos ou de outros géneros de expressão»(81).",
+            "paragrafo": 110
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "111. Mas, uma vez que a Sagrada Escritura é inspirada, existe outro princípio de interpretação recta, não menos importante que o anterior, e sem o qual a Escritura seria letra morta: «A Sagrada Escritura deve ser lida e interpretada com o mesmo espírito com que foi escrita» (82).\n\nO II Concílio do Vaticano indica três critérios para uma interpretação da Escritura conforme ao Espírito que a inspirou (83):",
+            "paragrafo": 111
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "112. 1. Prestar grande atenção «ao conteúdo e à unidade de toda a Escritura». Com efeito, por muito diferentes que sejam os livros que a compõem, a Escritura é una, em razão da unidade do desígnio de Deus, de que Jesus Cristo é o centro e o coração, aberto desde a sua Páscoa (84).\n\n«Por coração (85) de Cristo entende-se a Sagrada Escritura que nos dá a conhecer o coração de Cristo. Este coração estava fechado antes da Paixão, porque a Escritura estava cheia de obscuridades. Mas a Escritura ficou aberta depois da Paixão e assim, aqueles que desde então a consideram com inteligência, discernem o modo como as profecias devem ser interpretadas» (86).",
+            "paragrafo": 112
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "113. 2. Ler a Escritura na «tradição viva de toda a Igreja». Segundo uma sentença dos Padres, «Sacra Scriptura principalius est in corde Ecclesiae quam in materialibus instrumentis scripta» – «A Sagrada Escritura está escrita no coração da Igreja, mais do que em instrumentos materiais» (87). Com efeito, a Igreja conserva na sua Tradição a memória viva da Palavra de Deus, e é o Espírito Santo que lhe dá a interpretação espiritual da Escritura («... secundum spiritualem sensum quem Spiritus donat Ecclesiae» «segundo o sentido espiritual que o Espírito Santo dá à Igreja») (88).",
+            "paragrafo": 113
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "114. 3. Estar atento «à analogia da fé» (89). Por «analogia da fé» entendemos a coesão das verdades da fé entre si e no projecto total da Revelação.",
+            "paragrafo": 114
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "OS SENTIDOS DA ESCRITURA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "115. Segundo uma antiga tradição, podemos distinguir dois sentidos da Escritura: o sentido literal e o sentido espiritual, subdividindo-se este último em sentido alegórico, moral e anagógico. A concordância profunda dos quatro sentidos assegura a sua riqueza à leitura viva da Escritura na Igreja:",
+            "paragrafo": 115
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "116. O sentido literal. É o expresso pelas palavras da Escritura e descoberto pela exegese segundo as regras da recta interpretação. «Omnes sensus (sc. Sacrae Scripturae) fundentur super litteralem» – «Todos os sentidos (da Sagrada Escritura) se fundamentam no literal» (90).",
+            "paragrafo": 116
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "117. O sentido espiritual. Graças à unidade do desígnio de Deus, não só o texto da Escritura, mas também as realidades e acontecimentos de que fala, podem ser sinais.\n\n1. O sentido alegórico. Podemos adquirir uma compreensão mais profunda dos acontecimentos, reconhecendo o seu significado em Cristo: por exemplo, a travessia do Mar Vermelho é um sinal da vitória de Cristo e, assim, do Baptismo (91).\n\n2. O sentido moral. Os acontecimentos referidos na Escritura podem conduzir-nos a um comportamento justo. Foram escritos «para nossa instrução» (1 Cor 10, 11) (92).\n\n3. O sentido anagógico. Podemos ver realidades e acontecimentos no seu significado eterno, o qual nos conduz (em grego: «anagoge») em direcção à nossa Pátria. Assim, a Igreja terrestre é sinal da Jerusalém celeste (93).",
+            "paragrafo": 117
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "118. Um dístico medieval resume a significação dos quatro sentidos:\n\n«Littera gesta docet, quid credas allegoria Moralis quid agas, quo tendas anagogia». «A letra ensina-te os factos (passados), a alegoria o que deves crer, a moral o que deves fazer, a anagogia para onde deves tender» (94).",
+            "paragrafo": 118
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "119. «Cabe aos exegetas trabalhar, de harmonia com estas regras, por entender e expor mais profundamente o sentido da Sagrada Escritura, para que, mercê deste estudo, de algum modo preparatório, amadureça o juízo da Igreja. Com efeito, tudo quanto diz respeito à interpretação da Escritura, está sujeito ao juízo último da Igreja, que tem o divino mandato e o ministério de guardar e interpretar a Palavra de Deus» (95):\n\n«Ego vero Evangelio non crederem, nisi me catholicae Ecclesiae commoveret auctoritas» – «Quanto a mim, não acreditaria no Evangelho se não me movesse a isso a autoridade da Igreja católica» (96).",
+            "paragrafo": 119
+        },
+        {
+            "tipo": "tópico",
+            "texto": "IV. O Cânon das Escrituras"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "120. Foi a Tradição Apostólica que levou a Igreja a discernir quais os escritos que deviam ser contados na lista dos livros sagrados (97). Esta lista integral é chamada «Cânon» das Escrituras. Comporta, para o Antigo Testamento, 46 (45, se se contar Jeremias e as Lamentações como um só) escritos, e, para o Novo, 27 (98):\n\nPara o Antigo Testamento: Génesis, Êxodo, Levítico, Números, Deuteronómio, Josué, Juízes, Rute, os dois livros de Samuel, os dois livros dos Reis, os dois livros das Crónicas, Esdras e Neemias, Tobias, Judite, Ester, os dois livros dos Macabeus, Job, os Salmos, os Provérbios, o Eclesiastes (ou Coelet), o Cântico dos Cânticos, a Sabedoria, o livro de Ben-Sirá (ou Eclesiástico), Isaías, Jeremias, as Lamentações, Baruc, Ezequiel, Daniel, Oseias, Joel, Amós, Abdias, Jonas, Miqueias, Nahum, Habacuc, Sofonias, Ageu, Zacarias e Malaquias;\n\nPara o Novo Testamento: Os evangelhos de Mateus, Marcos, Lucas e João; os Actos dos Apóstolos; as epístolas de São Paulo: aos Romanos, primeira e segunda aos Coríntios, aos Gálatas, aos Efésios, aos Filipenses, aos Colossenses, primeira e segunda aos Tessalonicenses, primeira e segunda a Timóteo, a Tito, a Filémon: a Epístola aos Hebreus; a Epístola de Tiago, a primeira e segunda de Pedro, as três epístolas de João, a Epístola de Judas e o Apocalipse.",
+            "paragrafo": 120
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O ANTIGO TESTAMENTO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "121. O Antigo Testamento é uma parte da Sagrada Escritura de que não se pode prescindir. Os seus livros são divinamente inspirados e conservam um valor permanente (99), porque a Antiga Aliança nunca foi revogada.",
+            "paragrafo": 121
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "122. Efectivamente, «a \"economia\"do Antigo Testamento destinava-se, sobretudo, a preparar [...] o advento de Cristo, redentor universal».\n\nOs livros do Antigo Testamento, «apesar de conterem também coisas imperfeitas e transitórias», dão testemunho de toda a divina pedagogia do amor salvífico de Deus: neles «encontram-se sublimes doutrinas a respeito de Deus, uma sabedoria salutar a respeito da vida humana, bem como admiráveis tesouros de preces»; neles, em suma, está latente o mistério da nossa salvação» (100).",
+            "paragrafo": 122
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "123. Os cristãos veneram o Antigo Testamento como verdadeira Palavra de Deus. A Igreja combateu sempre vigorosamente a ideia de rejeitar o Antigo Testamento, sob o pretexto de que o Novo o teria feito caducar (Marcionismo).",
+            "paragrafo": 123
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O NOVO TESTAMENTO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "124. «A Palavra de Deus, que é força de Deus para salvação de quem acredita, apresenta-se e manifesta o seu poder dum modo eminente nos escritos do Novo Testamento»(101). Estes escritos transmitem-nos a verdade definitiva da Revelação divina. O seu objecto central é Jesus Cristo, o Filho de Deus encarnado, os seus actos, os seus ensinamentos, a sua Paixão e glorificação, bem como os primórdios da sua Igreja sob a acção do Espírito Santo (102).",
+            "paragrafo": 124
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "125. Os evangelhos são o coração de todas as Escrituras, «enquanto são o principal testemunho da vida e da doutrina do Verbo encarnado, nosso Salvador» (103).",
+            "paragrafo": 125
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "126. Na formação dos evangelhos podemos distinguir três etapas:\n\n1. A vida e os ensinamentos de Jesus. A Igreja sustenta firmemente que os quatro evangelhos, «cuja historicidade afirma sem hesitações, transmitem fielmente as coisas que Jesus, Filho de Deus, realmente operou e ensinou para salvação eterna dos homens, durante a sua vida terrena, até ao dia em que subiu ao Céu».\n\n2. A tradição oral. «Na verdade, após a Ascensão do Senhor, os Apóstolos transmitiram aos seus ouvintes (com aquela compreensão mais plena de que gozavam, uma vez instruídos pelos acontecimentos gloriosos de Cristo e iluminados pelo Espírito de verdade) as coisas que Ele tinha dito e feito».\n\n3. Os evangelhos escritos. «Os autores sagrados, porém, escreveram os quatro evangelhos, escolhendo algumas coisas, entre as muitas transmitidas por palavra ou por escrito, sintetizando umas, desenvolvendo outras, segundo o estado das Igrejas, conservando, finalmente, o carácter de pregação, mas sempre de maneira a comunicar-nos coisas verdadeiras e sinceras acerca de Jesus» (104).",
+            "paragrafo": 126
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "127. O Evangelho quadriforme ocupa na Igreja um lugar único, de que são testemunhas a veneração de que a Liturgia o rodeia e o atractivo incomparável que em todos os tempos exerceu sobre os santos:\n\n«Não há doutrina melhor, mais preciosa e esplêndida do que o texto do Evangelho. Vede e retende o que nosso Senhor e Mestre, Cristo, ensinou pelas suas palavras e realizou pelos seus actos» (105).\n\n«É sobretudo o Evangelho que me ocupa durante as minhas orações. Nele encontro tudo o que é necessário à minha pobre alma. Nele descubro sempre novas luzes, sentidos escondidos e misteriosos» (106).",
+            "paragrafo": 127
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A UNIDADE DO ANTIGO E DO NOVO TESTAMENTO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "128. A Igreja, já nos tempos apostólicos (107), e depois constantemente na sua Tradição, pôs em evidência a unidade, do plano divino nos dois Testamentos, graças à tipologia. Esta descobre nas obras de Deus, na Antiga Aliança, prefigurações do que o mesmo Deus realizou na plenitude dos tempos, na pessoa do seu Filho encarnado.",
+            "paragrafo": 128
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "129. Os cristãos lêem, pois, o Antigo Testamento à luz de Cristo morto e ressuscitado. Esta leitura tipológica manifesta o conteúdo inesgotável do Antigo Testamento. Mas não deve fazer-nos esquecer de que ele mantém o seu valor próprio de Revelação, reafirmado pelo próprio Jesus, nosso Senhor (108). Aliás, também o Novo Testamento requer ser lido à luz do Antigo. A catequese cristã primitiva recorreu constantemente a este método (109). Segundo um velho adágio, o Novo Testamento está oculto no Antigo, enquanto o Antigo é desvendado no Novo: « Novum in Vetere latet et in Novo Vetus patet» – «O Novo está oculto no Antigo, e o Antigo está patente no Novo» (110).",
+            "paragrafo": 129
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "130. A tipologia significa o dinamismo em ordem ao cumprimento do plano divino, quando «Deus for tudo em todos» (1 Cor 15, 28). Assim, a vocação dos patriarcas e o êxodo do Egipto, por exemplo, não perdem o seu valor próprio no plano de Deus pelo facto de, ao mesmo tempo, serem etapas intermédias desse mesmo plano.",
+            "paragrafo": 130
+        },
+        {
+            "tipo": "tópico",
+            "texto": "V. A Sagrada Escritura na vida da Igreja"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "131. «É tão grande a força e a virtude da Palavra de Deus, que ela se torna para a Igreja apoio e vigor e, para os filhos da Igreja, solidez da fé, alimento da alma, fonte pura e perene de vida espiritual» (111). É necessário que «os fiéis tenham largo acesso à Sagrada Escritura» (112).",
+            "paragrafo": 131
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "132. «O estudo das Páginas sagradas deve ser como que a \"alma\" da sagrada teologia. Também o ministério da Palavra, isto é, a pregação pastoral, a catequese, e toda a espécie de instrução cristã, na qual a homilia litúrgica deve ter um lugar principal, com proveito se alimenta e santamente se revigora com a palavra da Escritura» (113).",
+            "paragrafo": 132
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "133. A Igreja «exorta com ardor e insistência todos os fiéis [...] a que aprendam \"a sublime ciência de Jesus Cristo\" (Fl. 3, 8) na leitura frequente da Sagrada Escritura. Porque \"a ignorância das Escrituras é ignorância de Cristo\"» (114).",
+            "paragrafo": 133
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "134. Omnis Scriptura divina unus liber est, et ille unus liber Christus est, «quia omnis Scriptura divina de Christo loquitur; et omnis Scriptura divina in Christo impletur» – Toda a Escritura divina é um só livro, e esse livro único é Cristo, «porque toda a Escritura divina fala de Cristo e toda a Escritura divina se cumpre em Cristo» (115).",
+            "paragrafo": 134
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "135. «As Sagradas Escrituras contêm a Palavra de Deus; e, pelo facto de serem inspiradas, são verdadeiramente a Palavra de Deus» (116).",
+            "paragrafo": 135
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "136. Deus é o autor da Sagrada Escritura, ao inspirar os seus autores humanos: age neles e por eles. E assim nos dá a garantia de que os seus escritos ensinam, sem erro, a verdade da salvação (117).",
+            "paragrafo": 136
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "137. A interpretação das Escrituras inspiradas deve, antes de mais nada, estar atenta ao que Deus quer revelar, por meio dos autores sagrados, para nossa salvação. O que vem do Espírito não é plenamente entendido senão pela acção do Espírito (118).",
+            "paragrafo": 137
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "138.  A Igreja recebe e venera, como inspirados, os 46 livros do Antigo e os 27 do Novo Testamento.",
+            "paragrafo": 138
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "139. Os quatro evangelhos ocupam um lugar central, dado que Jesus Cristo é o seu centro.",
+            "paragrafo": 139
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "140. A unidade dos dois Testamentos deriva da unidade do plano de Deus e da sua Revelação. O Antigo Testamento prepara o Novo, ao passo que o Novo dá cumprimento ao Antigo. Os dois esclarecem-se mutuamente; ambos são verdadeira Palavra de Deus.",
+            "paragrafo": 140
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "141. «A Igreja sempre venerou as Divinas Escrituras, tal como o próprio Corpo do Senhor» (119) ambos alimentam e regem toda a vida cristã. «A vossa Palavra é farol para os meus passos e luz para os meus caminhos» (Sl 119, 105)(120).",
+            "paragrafo": 141
+        },
+        {
+            "tipo": "referência",
+            "texto": "1. Cf. I Concílio do Vaticano, Const. dogm. Dei Filius, c. 4: DS 3015."
+        },
+        {
+            "tipo": "referência",
+            "texto": "2. II Concílio do Vaticano, Const. dogm. Dei Verbum, 2: AAS 58 (1966) 818."
+        },
+        {
+            "tipo": "referência",
+            "texto": "3. Cf. Ef 1, 4-5."
+        },
+        {
+            "tipo": "referência",
+            "texto": "4.  II Concílio do Vaticano, Const. dogm. Dei Verbum, 2: AAS 58 (1966) 818."
+        },
+        {
+            "tipo": "referência",
+            "texto": "5.  Santo Ireneu de Lião, Adversus haereses III, 20, 2: SC 211, 392 (PG 7, 944); cf. por exemplo, Ibid. III 17, I: SC 211. 330 (PG 7, 929); Ibid. IV, 12. 4: SC 100, 518 (PG 7, 1006); Ibid. IV 21, 3: SC 100, 684 (PG 7, 1046)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "6. II Concílio do Vaticano, Const. dogm. Dei Verbum, 3: AAS 58 (1966) 818."
+        },
+        {
+            "tipo": "referência",
+            "texto": "7. II Concílio do Vaticano, Const. dogm. Dei Verbum, 3: AAS 58 (1966) 818."
+        },
+        {
+            "tipo": "referência",
+            "texto": "8. Oração eucarística IV: Missal Romano, editio typica. Typis Polyglottis Vaticanis. 1970 p. 467. [Gráfica de Coimbra 1992, p. 538]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "9. Cf. Gn 9, 9."
+        },
+        {
+            "tipo": "referência",
+            "texto": "10. Cf. Gn 10, 20-31."
+        },
+        {
+            "tipo": "referência",
+            "texto": "11. Cf. Act 17, 26-27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "12. Cf. Sb 10, 5."
+        },
+        {
+            "tipo": "referência",
+            "texto": "13. Cf. Gn 11, 4-6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "14. Cf. Rm 1, 18-25."
+        },
+        {
+            "tipo": "referência",
+            "texto": "15. Cf. Lc 21, 24."
+        },
+        {
+            "tipo": "referência",
+            "texto": "16. Cf. Gn 14, 18."
+        },
+        {
+            "tipo": "referência",
+            "texto": "17. Cf. Heb 7, 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "18. Cf. Gl 3, 8."
+        },
+        {
+            "tipo": "referência",
+            "texto": "19. Cf. Rm 11, 28."
+        },
+        {
+            "tipo": "referência",
+            "texto": "20. Cf. Jo 11, 52; 10, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "21. Cf. Rm 11, 17-18. 24."
+        },
+        {
+            "tipo": "referência",
+            "texto": "22. II Concílio do Vaticano, Const. dogm. Dei Verbum, 3: AAS 58 (1966) 818."
+        },
+        {
+            "tipo": "referência",
+            "texto": "23. Cf. Ex 19, 6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "24. Sexta-Feira da Paixão do Senhor. Oração universal VI: Missale Romanum. editio typica. Typis Polyglottis Vaticanis 1975, p. 254 [a tradução oficial portuguesa omite este particular: Missal Romano. Gráfica de Coimbra 1992. p. 259.267]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "25. João Paulo II, Discurso na sinagoga durante o encontro com a comunidade hebraica da cidade de Roma (13 de Abril de 1986), 4: Insegnamenti di Giovanni Paolo II, IX/1, 1027."
+        },
+        {
+            "tipo": "referência",
+            "texto": "26.  Cf. Is 2, 2-4."
+        },
+        {
+            "tipo": "referência",
+            "texto": "27. Cf. Jr 31, 31-34: Heb 10, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "28. Cf. Ez 36."
+        },
+        {
+            "tipo": "referência",
+            "texto": "29. Cf. Is 49, 5-6: 53, 11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "30. Cf. Sf  2, 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "31. Cf. Lc 1, 38."
+        },
+        {
+            "tipo": "referência",
+            "texto": "32. II Concílio do Vaticano, Const. dogm. Dei Verbum, 2: AAS 58 (1966) 818."
+        },
+        {
+            "tipo": "referência",
+            "texto": "33. São João da Cruz, Subida del monte Carmelo 2, 22, 3-5: Biblioteca Mística Carmelitana, v. 11, Burgos 1929. p. 184. [ID. Obras Completas (Paço de Arcos, Edições Carmelo 1986) p. 196 = Segunda leitura do Ofício de Leituras da Segunda-Feira da II Semana do Advento]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "34. II Concílio do Vaticano, Const. dogm. Dei Verbum, 4: AAS 58 (1966) 819."
+        },
+        {
+            "tipo": "referência",
+            "texto": "35. Cf. Gn 3, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "36. Cf. Gn 9, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "37. Cf. Jo 14, 6."
+        },
+
+
+        {
+            "tipo": "referência",
+            "texto": "38. II Concílio do Vaticano, Const. dogm. Dei Verbum, 7: AAS 58 (1966) 820."
+        },
+        {
+            "tipo": "referência",
+            "texto": "39. II Concílio do Vaticano, Const. dogm. Dei Verbum, 7: AAS 58 (1966) 820."
+        },
+        {
+            "tipo": "referência",
+            "texto": "40. II Concílio do Vaticano, Const. dogm. Dei Verbum, 7: AAS 58 (1966) 820."
+        },
+        {
+            "tipo": "referência",
+            "texto": "41. II Concílio do Vaticano, Const. dogm. Dei Verbum, 7: AAS 58 (1966) 820."
+        },
+        {
+            "tipo": "referência",
+            "texto": "42. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "43. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "44. II Concílio do Vaticano. Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "45. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "46. II Concílio do Vaticano, Const. dogm. Dei Verbum, 9: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "47. II Concílio do Vaticano, Const. dogm. Dei Verbum, 9: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "48. II Concílio do Vaticano, Const. dogm. Dei Verbum, 9: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "49. Cf. 1 Tm 6, 20; 2 Tm 1, 12-14."
+        },
+        {
+            "tipo": "referência",
+            "texto": "50.  II Concílio do Vaticano, Const. dogm. Dei Verbum, 10: AAS 58 (1966) 822."
+        },
+        {
+            "tipo": "referência",
+            "texto": "51. II Concílio do Vaticano, Const. dogm. Dei Verbum, 10: AAS 58 (1966) 822."
+        },
+        {
+            "tipo": "referência",
+            "texto": "52. II Concílio do Vaticano. Const. dogm. Dei Verbum, 10: AAS 58 (1966) 822."
+        },
+        {
+            "tipo": "referência",
+            "texto": "53. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 20: AAS 57 (1965) 24."
+        },
+        {
+            "tipo": "referência",
+            "texto": "54. Cf. Jo 8, 31-32."
+        },
+        {
+            "tipo": "referência",
+            "texto": "55. Cf. I Concílio do Vaticano, Const. dogm. Dei Filius, c. 4: DS 3016 «mysteriorum nexus». Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 25: AAS 57 (1965) 29."
+        },
+        {
+            "tipo": "referência",
+            "texto": "56. II Concílio do Vaticano, Decr. Unitatis redintegratio, 11: AAS 57 (1965) 99."
+        },
+        {
+            "tipo": "referência",
+            "texto": "57. Cf. 1 Jo 2, 20. 27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "58. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 12: AAS 57 (1965) 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "59. II Concílio do Vaticano. Const. dogm. Lumen Gentium, 12: AAS 57 (1965) 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "60. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "61. II Concílio do Vaticano, Const. past. Gaudium et spes, 62: AAS 58 (1966) 1084: cf. Ibid.. 44: AAS 58 (1966) 1065; Const. dogm. Dei Verbum, 23: AAS 58 (1966) 828; Ibid. 24: AAS 58 (1966) 828-829: Decr. Unitatis redintegratio, 4: AAS 57 (1965) 94."
+        },
+        {
+            "tipo": "referência",
+            "texto": "62. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "63.  São Gregório Magno, Homilia in Ezechielem 1. 7, 8: CCL 142. 87 (PL 76, 843 D)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "64. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "65. II Concílio do Vaticano, Const. dogm. Dei Verbum, 10: AAS 58 (1966) 822."
+        },
+        {
+            "tipo": "referência",
+            "texto": "66. II Concílio do Vaticano, Const. dogm. Dei Verbum, 10: AAS 58 (1966) 822."
+        },
+        {
+            "tipo": "referência",
+            "texto": "67. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "68. II Concílio do Vaticano. Const. dogm. Dei Verbum, 13: AAS 58 (1966) 824."
+        },
+        {
+            "tipo": "referência",
+            "texto": "69. Cf. Heb 1, 1-3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "70.  Santo Agostinho, Enarratio in Psalmum 103, 4, 1: CCL 40, 1521 (PL 37, 1378)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "71. II Concílio do Vaticano, Const. dogm. Dei Verbum, 21: AAS 58 (1966) 827."
+        },
+        {
+            "tipo": "referência",
+            "texto": "72. II Concílio do Vaticano, Const. dogm. Dei Verbum, 24: AAS 58 (1966) 829."
+        },
+        {
+            "tipo": "referência",
+            "texto": "73.  Cf. 1 Ts 2, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "74. II Concílio do Vaticano, Const. dogm. Dei Verbum, 21: AAS 58 (1966) 827-828."
+        },
+        {
+            "tipo": "referência",
+            "texto": "75. II Concílio do Vaticano, Const. dogm. Dei Verbum, 11: AAS 58 (1966) 822-823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "76. II Concílio do Vaticano, Const. dogm. Dei Verbum, 11: AAS 58 (1966) 823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "77. II Concílio do Vaticano, Const. dogm. Dei Verbum, 11: AAS 58 (1966) 823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "78. São Bernardo de Claraval, Homilia super \"Missus est\", 4, 11: Opera, ed. J. Leclercq – H. Rochais, V. 4, Roma 1966, p. 57."
+        },
+        {
+            "tipo": "referência",
+            "texto": "79. Cf. Lc 24, 45."
+        },
+        {
+            "tipo": "referência",
+            "texto": "80. II Concílio do Vaticano, Const. dogm. Dei Verbum 12: AAS 58 11966) 823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "81. II Concílio do Vaticano, Const. dogm. Dei Verbum, 12: AAS 58 (1966) 823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "82. II Concílio do Vaticano, Const. dogm. Dei Verbum, 12: AAS 58 (1966) 824."
+        },
+        {
+            "tipo": "referência",
+            "texto": "83. II Concílio do Vaticano, Const. dogm. Dei Verbum, 12: AAS 58 (1966) 824."
+        },
+        {
+            "tipo": "referência",
+            "texto": "84. Cf. Lc 24. 25-27. 44-46."
+        },
+        {
+            "tipo": "referência",
+            "texto": "85. Cf. Sl 22, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "86.  São Tomás de Aquino, Expositio in Psalmos, 21, 11: Opera omnia. v. 18. Paris 1876, p. 350."
+        },
+        {
+            "tipo": "referência",
+            "texto": "87. Cf. Santo Hilário de Poitiers, Liber ad Constantium Imperatorem 9: CSEL 65. 204 PL 10, 570); São Jerónimo. Commentarius in epistulam ad Galatas I 1, 11-12: PL 26. 347."
+        },
+        {
+            "tipo": "referência",
+            "texto": "88. Orígenes, Homiliae in Leviticum 5, 5: SC 286, 228 (PG 12, 454)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "89. Cf. Rm 12, 6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "90. São Tomás de Aquino, Summa theologiae I, q. 1, a. 10, ad I: Ed. Leon. 4, 25."
+        },
+        {
+            "tipo": "referência",
+            "texto": "91. Cf. 1 Cor 10, 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "92. Cf. Heb 3-4, 11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "93. Cf. Ap 21, 1-22, 5."
+        },
+        {
+            "tipo": "referência",
+            "texto": "94. Agostinho de Dácia, Rotulus pugillaris, I: ed. A. Waltz: Angelicum 6(1929) 256."
+        },
+        {
+            "tipo": "referência",
+            "texto": "95. II Concílio do Vaticano, Const. dogm. Dei Verbum, 12: AAS 58 (1966) 824."
+        },
+        {
+            "tipo": "referência",
+            "texto": "96.  Santo Agostinho, Contra Epistulam Manichaei quam vocant fundamenti 5. 6: CSEL 25, 197 (PL 42, 176)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "97. II Concílio do Vaticano, Const. dogm. Dei Verbum, 8: AAS 58 (1966) 821."
+        },
+        {
+            "tipo": "referência",
+            "texto": "98. Cf. Decretum Damasi: DS 179-180: Concílio de Florença, Decretum pro Iacobitis: DS 1334-1336; Concílio de Trento. Sess. 4ª. Decretum de Libris Sacris et de traditionibus recipiendis: DS 1501-1504."
+        },
+        {
+            "tipo": "referência",
+            "texto": "99. II Concílio do Vaticano, Const. dogm. Dei Verbum, 14: AAS 58 (1966) 825."
+        },
+        {
+            "tipo": "referência",
+            "texto": "100.  II Concílio do Vaticano, Const. dogm. Dei Verbum, 15: AAS 58 (1966) 825."
+        },
+        {
+            "tipo": "referência",
+            "texto": "101. II Concílio do Vaticano, Const. dogm. Dei Verbum, 17: AAS 58 (1966) 826."
+        },
+        {
+            "tipo": "referência",
+            "texto": "102. II Concílio do Vaticano, Const. dogm. Dei Verbum, 20: AAS 58 (1966) 827."
+        },
+        {
+            "tipo": "referência",
+            "texto": "103. II Concílio do Vaticano, Const. dogm. Dei Verbum, 18: AAS 58 (1966) 826."
+        },
+        {
+            "tipo": "referência",
+            "texto": "104. II Concílio do Vaticano, Const. dogm. Dei Verbum, 19: AAS 58 (1966) 826-827."
+        },
+        {
+            "tipo": "referência",
+            "texto": "105. Santa Cesária, A Jovem, Epistula ad Richildam et Radegundem: SC 345, 480."
+        },
+        {
+            "tipo": "referência",
+            "texto": "106. Santa Teresa do Menino Jesus, Manuscrit A, 83v: Manuscrits autobiographiques, Paris 1929, p. 268. [Santa Teresa do Menino Jesus e da Santa Face, Obras Completas (Paço de Arcos. Edições do Carmelo 1996) p. 213]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "107. Cf. 1 Cor 10, 6: Heb 10, 1; 1 Pe 3, 21."
+        },
+        {
+            "tipo": "referência",
+            "texto": "108. Cf. Mc 12, 29-31."
+        },
+        {
+            "tipo": "referência",
+            "texto": "109. Cf. 1 Cor 5, 6-8: 10, 1-11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "110. Santo Agostinho, Quaestiones in Heptateucumt 2, 73: CCL 33. 106 (PL 34, 623); cf. II Concílio do Vaticano, Const. dogm. Dei Verbum, 16: AAS 58 (1966) 825."
+        },
+        {
+            "tipo": "referência",
+            "texto": "111. II Concílio do Vaticano, Const. dogm. Dei Verbum, 21: A AS 58 (1966) 828."
+        },
+        {
+            "tipo": "referência",
+            "texto": "112. II Concílio do Vaticano, Const. dogm. Dei Verbum, 22: AAS 58 (1966) 828."
+        },
+        {
+            "tipo": "referência",
+            "texto": "113. II Concílio do Vaticano, Const. dogm. Dei Verbum, 24: AAS 58 (1966) 829."
+        },
+        {
+            "tipo": "referência",
+            "texto": "114. II Concílio do Vaticano, Const. dogm. Dei Verbum, 25: AAS 58 (1966) 829: cf. São Jerónimo, Commentarii in Isaiam, Prologus: CCL 73, 1 (PL 24, 17)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "115. Hugo de São Vítor, De arca Noe II, 8: PL 176, 642: cf. Ibid. 2. 9: PL 176, 642-643."
+        },
+        {
+            "tipo": "referência",
+            "texto": "116. II Concílio do Vaticano, Const. dogm. Dei Verbum. 24: AAS 58 (1966) 829."
+        },
+        {
+            "tipo": "referência",
+            "texto": "117. II Concílio do Vaticano, Const. dogm. Dei Verbum, 11: AAS 58 (1966) 822-823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "118. Cf. Orígenes, Homiliae in Exodum 4, 5: SC 321, 128 (PG 12, 320)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "119. II Concílio do Vaticano, Const. dogm. Dei Verbum, 21: AAS 58 (1966) 827."
+        },
+        {
+            "tipo": "referência",
+            "texto": "120. Cf. Is 50, 4."
+        }
+    ]
+}
