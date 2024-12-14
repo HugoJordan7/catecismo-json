@@ -172,18 +172,16 @@
             "paragrafo": 24
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "ACIMA DE TUDO — A CARIDADE"
         },
         {
             "tipo": "parágrafo",
             "texto": "25. A concluir esta apresentação, é oportuno Lembrar este princípio pastoral enunciado pelo Catecismo Romano:\n\nEste é sem dúvida o caminho melhor, que o mesmo apóstolo seguia quando fundamentava a sua doutrina e ensino na caridade que não acaba nunca. A finalidade da doutrina e do ensino deve fixar-se toda no amor, que não acaba. Podemos expor muito bem o que se deve crer, esperar ou fazer; mas, sobretudo, devemos pôr sempre em evidência o amor de nosso Senhor, de modo que cada qual compreenda que qualquer acto de virtude perfeitamente cristão, não tem outra origem nem outro fim senão o amor (12).",
             "paragrafo": 25
-        },
-        {
-            "tipo": "tópico",
-            "texto": "Notas"
-        },
+        }
+    ],
+    "referencias": [    
         {
             "tipo": "referência",
             "texto": "1. Cf. Act 2, 42. 2."

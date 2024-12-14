@@ -87,7 +87,7 @@
             "parágrafo": 204
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O DEUS VIVO"
         },
         {
@@ -96,7 +96,7 @@
             "parágrafo": 205
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "«EU SOU AQUELE QUE SOU»"
         },
         {
@@ -124,7 +124,7 @@
             "parágrafo": 209
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "«DEUS DE TERNURA E DE PIEDADE»"
         },
         {
@@ -138,7 +138,7 @@
             "parágrafo": 211
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "SÓ DEUS É"
         },
         {
@@ -161,7 +161,7 @@
             "parágrafo": 214
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS É A VERDADE"
         },
         {
@@ -180,7 +180,7 @@
             "parágrafo": 217
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS É AMOR"
         },
         {
@@ -308,7 +308,7 @@
             "texto": "II. A revelação de Deus como Trindade"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O PAI REVELADO PELO FILHO"
         },
         {
@@ -337,7 +337,7 @@
             "parágrafo": 242
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O PAI E O FILHO REVELADOS PELO ESPÍRITO"
         },
         {
@@ -375,7 +375,7 @@
             "texto": "III. A Santíssima Trindade na doutrina da fé"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A FORMAÇÃO DO DOGMA TRINITÁRIO"
         },
         {
@@ -399,7 +399,7 @@
             "parágrafo": 252
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O DOGMA DA SANTÍSSIMA TRINDADE"
         },
         {
@@ -499,7 +499,7 @@
             "parágrafo": 268
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "«FAZ TUDO QUANTO LHE APRAZ» (Sl 115, 3)"
         },
         {
@@ -508,7 +508,7 @@
             "parágrafo": 269
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "«PORQUE PODEIS TUDO, DE TODOS VOS COMPADECEIS» (Sb 11, 23)"
         },
         {
@@ -522,7 +522,7 @@
             "parágrafo": 271
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O MISTÉRIO DA APARENTE IMPOTÊNCIA DE DEUS"
         },
         {
@@ -669,7 +669,7 @@
             "texto": "IV. O mistério da criação"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS CRIA COM SABEDORIA E POR AMOR"
         },
         {
@@ -678,7 +678,7 @@
             "parágrafo": 295
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS CRIA «DO NADA»-+"
         },
         {
@@ -697,7 +697,7 @@
             "parágrafo": 298
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS CRIA UM MUNDO ORDENADO E BOM"
         },
         {
@@ -706,7 +706,7 @@
             "parágrafo": 299
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS TRANSCENDE A CRIAÇÃO E ESTÁ PRESENTE NELA"
         },
         {
@@ -715,7 +715,7 @@
             "parágrafo": 300
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS SUSTENTA E CONDUZ A CRIAÇÃO"
         },
         {
@@ -748,7 +748,7 @@
             "parágrafo": 305
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A PROVIDÊNCIA E AS CAUSAS SEGUNDAS"
         },
         {
@@ -767,7 +767,7 @@
             "parágrafo": 308
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A PROVIDÊNCIA E O ESCÂNDALO DO MAL"
         },
         {
@@ -882,7 +882,7 @@
             "texto": "I. Os anjos"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A EXISTÊNCIA DOS ANJOS UMA VERDADE DE FÉ"
         },
         {
@@ -891,7 +891,7 @@
             "parágrafo": 328
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "QUEM SÃO OS ANJOS?"
         },
         {
@@ -905,7 +905,7 @@
             "parágrafo": 330
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "CRISTO «COM TODOS OS SEUS ANJOS»"
         },
         {
@@ -924,7 +924,7 @@
             "parágrafo": 333
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "OS ANJOS NA VIDA DA IGREJA"
         },
         {
@@ -1131,7 +1131,7 @@
             "texto": "III. «Homem e mulher os criou»"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "IGUALDADE E DIFERENÇA QUERIDAS POR DEUS"
         },
         {
@@ -1145,7 +1145,7 @@
             "parágrafo": 370
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "«UM PARA O OUTRO» – «UMA UNIDADE A DOIS»"
         },
         {
@@ -1244,7 +1244,7 @@
             "texto": "I. «Onde abundou o pecado, sobreabundou a graça»"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A REALIDADE DO PECADO"
         },
         {
@@ -1258,7 +1258,7 @@
             "parágrafo": 387
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O PECADO ORIGINAL – UMA VERDADE FUNDAMENTAL DA FÉ"
         },
         {
@@ -1272,7 +1272,7 @@
             "parágrafo": 389
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "PARA LER A NARRATIVA DA QUEDA"
         },
         {
@@ -1314,7 +1314,7 @@
             "texto": "III. O pecado original"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A PROVA DA LIBERDADE"
         },
         {
@@ -1323,7 +1323,7 @@
             "parágrafo": 396
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O PRIMEIRO PECADO DO HOMEM"
         },
         {
@@ -1352,7 +1352,7 @@
             "parágrafo": 401
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "CONSEQUÊNCIAS DO PECADO DE ADÃO PARA A HUMANIDADE"
         },
         {
@@ -1381,7 +1381,7 @@
             "parágrafo": 406
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "UM DURO COMBATE"
         },
         {
@@ -1466,7 +1466,9 @@
             "tipo": "parágrafo",
             "texto": "421. «Segundo a fé dos cristãos, este mundo foi criado e continua a ser conservado pelo amor do Criador; é verdade que caiu sob a escravidão do pecado, mas Cristo, pela Cruz e Ressurreição, venceu o poder do Maligno e libertou-o...» (314).",
             "parágrafo": 421
-        },
+        }
+    ],
+    "referencia": [
         {
             "tipo": "referência",
             "texto": "1. CatRom I. 2, 6, p. 23."

@@ -55,7 +55,7 @@
             "parágrafo": 144
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "ABRAÃO – «O PAI DE TODOS OS CRENTES»"
         },
         {
@@ -74,7 +74,7 @@
             "parágrafo": 147
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "MARIA – «FELIZ AQUELA QUE ACREDITOU»"
         },
         {
@@ -92,7 +92,7 @@
             "texto": "II. «Eu sei em quem pus a minha fé» (2 Tm 1, 12)"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "CRER SÓ EM DEUS"
         },
         {
@@ -101,7 +101,7 @@
             "parágrafo": 150
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "CRER EM JESUS CRISTO, FILHO DE DEUS"
         },
         {
@@ -110,7 +110,7 @@
             "parágrafo": 151
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "CRER NO ESPÍRITO SANTO"
         },
         {
@@ -123,7 +123,7 @@
             "texto": "III. As características da fé"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A FÉ É UMA GRAÇA"
         },
         {
@@ -132,7 +132,7 @@
             "parágrafo": 153
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A FÉ É UM ACTO HUMANO"
         },
         {
@@ -146,7 +146,7 @@
             "parágrafo": 155
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A FÉ E A INTELIGÊNCIA"
         },
         {
@@ -170,7 +170,7 @@
             "parágrafo": 159
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A LIBERDADE DA FÉ"
         },
         {
@@ -179,7 +179,7 @@
             "parágrafo": 160
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A NECESSIDADE DA FÉ"
         },
         {
@@ -188,7 +188,7 @@
             "parágrafo": 161
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A PERSEVERANÇA NA FÉ"
         },
         {
@@ -197,7 +197,7 @@
             "parágrafo": 162
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A FÉ – VIDA ETERNA INICIADA"
         },
         {
@@ -333,7 +333,9 @@
             "tipo": "parágrafo",
             "texto": "184. «A fé é um antegozo do conhecimento que nos tornará felizes na vida futura» (57).",
             "parágrafo": 184
-        },
+        }
+    ],
+    "referencias": [
         {
             "tipo": "referência",
             "texto": "1. II Concílio Vaticano, Const. dogm. Dei Verbum, 2: AAS 58 (1966) 818."
