@@ -64,7 +64,7 @@
             "texto": "II. As etapas da Revelação"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DESDE A ORIGEM, DEUS DÁ-SE A CONHECER"
         },
         {
@@ -78,7 +78,7 @@
             "paragrafo": 55
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A ALIANÇA COM NOÉ"
         },
         {
@@ -97,7 +97,7 @@
             "paragrafo": 58
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS ELEGE ABRAÃO"
         },
         {
@@ -116,7 +116,7 @@
             "paragrafo": 61
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "DEUS FORMA O SEU POVO ISRAEL"
         },
         {
@@ -139,7 +139,7 @@
             "texto": "III. Jesus Cristo – «Mediador e plenitude de toda a Revelação» (32)"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "NO SEU VERBO, DEUS DISSE TUDO"
         },
         {
@@ -148,7 +148,7 @@
             "paragrafo": 65
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "JÁ NÃO HAVERÁ OUTRA REVELAÇÃO"
         },
         {
@@ -218,7 +218,7 @@
             "paragrafo": 75
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A PREGAÇÃO APOSTÓLICA ..."
         },
         {
@@ -227,7 +227,7 @@
             "paragrafo": 76
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "... CONTINUADA NA SUCESSÃO APOSTÓLICA"
         },
         {
@@ -250,7 +250,7 @@
             "texto": "II. A relação entre a Tradição e a Sagrada Escritura"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "UMA FONTE COMUM..."
         },
         {
@@ -259,7 +259,7 @@
             "paragrafo": 80
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "... DUAS FORMAS DE TRANSMISSÃO DISTINTAS"
         },
         {
@@ -273,7 +273,7 @@
             "paragrafo": 82
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "TRADIÇÃO APOSTÓLICA E TRADIÇÕES ECLESIAIS"
         },
         {
@@ -286,7 +286,7 @@
             "texto": "III. A interpretação da herança da fé"
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A HERANÇA DA FÉ CONFIADA À TOTALIDADE DA IGREJA"
         },
         {
@@ -295,7 +295,7 @@
             "paragrafo": 84
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O MAGISTÉRIO DA IGREJA"
         },
         {
@@ -314,7 +314,7 @@
             "paragrafo": 87
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "OS DOGMAS DA FÉ"
         },
         {
@@ -333,7 +333,7 @@
             "paragrafo": 90
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O SENTIDO SOBRENATURAL DA FÉ"
         },
         {
@@ -352,7 +352,7 @@
             "paragrafo": 93
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O CRESCIMENTO NA INTELIGÊNCIA DA FÉ"
         },
         {
@@ -485,7 +485,7 @@
             "paragrafo": 114
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "OS SENTIDOS DA ESCRITURA"
         },
         {
@@ -523,7 +523,7 @@
             "paragrafo": 120
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O ANTIGO TESTAMENTO"
         },
         {
@@ -542,7 +542,7 @@
             "paragrafo": 123
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "O NOVO TESTAMENTO"
         },
         {
@@ -566,7 +566,7 @@
             "paragrafo": 127
         },
         {
-            "tipo": "subtítulo",
+            "tipo": "subtópico",
             "texto": "A UNIDADE DO ANTIGO E DO NOVO TESTAMENTO"
         },
         {
@@ -646,7 +646,9 @@
             "tipo": "parágrafo",
             "texto": "141. «A Igreja sempre venerou as Divinas Escrituras, tal como o próprio Corpo do Senhor» (119) ambos alimentam e regem toda a vida cristã. «A vossa Palavra é farol para os meus passos e luz para os meus caminhos» (Sl 119, 105)(120).",
             "paragrafo": 141
-        },
+        }
+    ],
+    "referencias": [
         {
             "tipo": "referência",
             "texto": "1. Cf. I Concílio do Vaticano, Const. dogm. Dei Filius, c. 4: DS 3015."
