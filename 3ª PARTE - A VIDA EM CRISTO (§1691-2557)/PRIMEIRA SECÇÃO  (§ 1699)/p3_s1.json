@@ -1,0 +1,29 @@
+{
+    "nome": "p3_s1",
+    "primeiroParagrafo": 1699,
+    "ultimoParagrafo": 1699,
+    "conteudo": [
+        {
+            "tipo": "título",
+            "texto": "TERCEIRA PARTE"
+        },
+        {
+            "tipo": "título",
+            "texto": "A VIDA EM CRISTO\n\n"
+        },
+        {
+            "tipo": "título",
+            "texto": "PRIMEIRA SECÇÃO"
+        },
+        {
+            "tipo": "título",
+            "texto": "A VOCAÇÃO DO HOMEM: A VIDA NO ESPÍRITO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1699. A vida no Espírito Santo realiza a vocação do homem (Capítulo primeiro). É feita de caridade divina e de solidariedade humana (Capítulo segundo). É concedida gratuitamente como salvação (Capítulo terceiro).",
+            "paragrafo": 1699
+        }
+    ],
+    "referencia": []
+}
