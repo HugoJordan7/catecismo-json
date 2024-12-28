@@ -1,0 +1,657 @@
+{
+    "nome": "p3_s1_c2",
+    "primeiroParagrafo": 1877,
+    "ultimoParagrafo": 1948,
+    "conteudo": [
+        {
+            "tipo": "título",
+            "texto": "TERCEIRA PARTE"
+        },
+        {
+            "tipo": "título",
+            "texto": "A VIDA EM CRISTO\n\n"
+        },
+        {
+            "tipo": "título",
+            "texto": "PRIMEIRA SECÇÃO"
+        },
+        {
+            "tipo": "título",
+            "texto": "A VOCAÇÃO DO HOMEM: A VIDA NO ESPÍRITO\n\n"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "CAPÍTULO PRIMEIRO"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A DIGNIDADE DA PESSOA HUMANA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1877. A vocação da humanidade é manifestar a imagem de Deus e ser transformada à imagem do Filho único do Pai. Esta vocação reveste-se de uma forma pessoal, pois cada um é chamado a entrar na bem-aventurança divina. Mas diz também respeito ao conjunto da comunidade humana.",
+            "paragrafo": 1877
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 1"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A PESSOA E A SOCIEDADE"
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. O carácter comunitário da vocação humana"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1878. Todos os homens são chamados ao mesmo fim, que é o próprio Deus. Existe uma certa semelhança entre a unidade das pessoas divinas e a fraternidade que os homens devem instaurar entre si, na verdade e no amor (1). O amor ao próximo é inseparável do amor a Deus.",
+            "paragrafo": 1878
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1879. A pessoa humana tem necessidade da vida social. Esta não constitui para ela algo de acessório, mas uma exigência da sua natureza. Graças ao contacto com os demais, ao serviço mútuo e ao diálogo com os seus irmãos, o homem desenvolve as suas capacidades, e assim responde à sua vocação (2).",
+            "paragrafo": 1879
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1880. Sociedade é um conjunto de pessoas ligadas de modo orgânico por um princípio de unidade que ultrapassa cada uma delas. Assembleia ao mesmo tempo visível e espiritual, uma sociedade perdura no tempo: assume o passado e prepara o futuro. Através dela, cada homem é constituído «herdeiro», recebe «talentos» que enriquecem a sua identidade e cujos frutos deve desenvolver (3). Com toda a razão, cada um é devedor de dedicação às comunidades de que faz parte e de respeito às autoridades encarregadas do bem comum.",
+            "paragrafo": 1880
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1881. Cada comunidade define-se pelo fim a que tende e, por conseguinte, obedece a regras específicas. Mas « pessoa humana é e deve ser o princípio, o sujeito e o fim de todas as instituições sociais» (4).",
+            "paragrafo": 1881
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1882. Certas sociedades, como a família e a comunidade civil, correspondem de modo mais imediato à natureza do homem. São-lhe necessárias. Para favorecer a participação do maior número possível de pessoas na vida social, deve fomentar-se a criação de associações e instituições de livre iniciativa, «com fins económicos, culturais, sociais, desportivos, recreativos, profissionais, políticos, tanto no interior das comunidades políticas como a nível mundial» (5). Esta «socialização» exprime também a tendência natural que leva os seres humanos a associarem-se, com vista a atingirem objectivos que ultrapassam as capacidades individuais. Desenvolve as qualidades da pessoa, particularmente o sentido de iniciativa e de responsabilidade, e contribui para garantir os seus direitos (6).",
+            "paragrafo": 1882
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1883. Mas a socialização também oferece perigos. Uma intervenção exagerada do Estado pode constituir uma ameaça à liberdade e às iniciativas pessoais. A doutrina da Igreja elaborou o princípio dito da subsidiariedade. Segundo ele, «uma sociedade de ordem superior não deve interferir na vida interna duma sociedade de ordem inferior, privando-a das suas competências, mas deve antes apoiá-la, em caso de necessidade, e ajudá-la a coordenar a sua acção com a dos demais componentes sociais, com vista ao bem comum» (7).",
+            "paragrafo": 1883
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1884. Deus não quis reservar só para Si o exercício de todos os poderes. Confia a cada criatura as funções que ela é capaz de exercer, segundo as capacidades da sua própria natureza. Este modo de governo deve ser imitado na vida social. O procedimento de Deus no governo do mundo, que testemunha tão grande respeito para com a liberdade humana, deveria inspirar a sabedoria daqueles que governam as comunidades humanas. Eles devem actuar como ministros da providência divina.",
+            "paragrafo": 1884
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1885. O princípio da subsidiariedade opõe-se a todas as formas de colectivismo e marca os limites da intervenção do Estado. Visa harmonizar as relações entre os indivíduos e as sociedades e tende a instaurar uma verdadeira ordem internacional.",
+            "paragrafo": 1885
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. Conversão e sociedade"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1886. A sociedade é indispensável à realização da vocação humana. Para atingir esse fim, tem de ser respeitada a justa hierarquia dos valores, que «subordina as dimensões físicas e instintivas às dimensões interiores e espirituais» (8):\n\n«A convivência humana [...] há-de considerar-se, antes de mais, como um facto de ordem principalmente espiritual: como comunicação de conhecimentos, à luz da verdade; exercício de direitos e cumprimento de deveres; incentivo e apelo aos bens do espírito; gozo comum do justo prazer da beleza em todas as suas expressões; permanente disposição para partilhar com os outros o melhor de si mesmo; aspiração a uma mútua e cada vez mais rica assimilação de valores espirituais. Todos estes valores vivificam e, ao mesmo tempo, orientam tudo o que diz respeito às doutrinas, às realidades económicas, à convivência cívica, aos movimentos e regimes políticos, à ordem jurídica e aos demais elementos exteriores através dos quais se articula e se exprime a convivência humana no seu incessante devir» (9).",
+            "paragrafo": 1886
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1887. A inversão dos meios e dos fins (10), que chega a dar valor de fim último ao que não passa de meio para a ele chegar ou a considerar as pessoas como puros meios com vista a um fim, gera estruturas injustas que «tornam árduo e praticamente impossível um procedimento cristão, conforme com os mandamentos do divino legislador» (11).",
+            "paragrafo": 1887
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1888. Deve-se, pois, apelar para as capacidades espirituais e morais da pessoa e para a exigência permanente da sua conversão interior, para se conseguirem mudanças sociais que estejam realmente ao seu serviço. A prioridade reconhecida à conversão do coração, não elimina de modo algum, antes impõe, a obrigação de introduzir nas instituições e nas condições de vida, quando introduzem ao pecado, as correcções convenientes para que elas se conformem com as normas da justiça e favoreçam o bem, em vez de se lhe oporem (12).",
+            "paragrafo": 1888
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1889. Sem a ajuda da graça, os homens não seriam capazes de «descobrir o caminho, muitas vezes estreito, entre a cobardia que cede ao mal e a violência que, julgando combatê-lo, o agrava» (13). É o caminho da caridade, ou seja, do amor de Deus e do próximo. A caridade constitui o maior mandamento social. Ela respeita o outro e os seus direitos, exige a prática da justiça, de que só ela nos torna capazes e inspira-nos uma vida de entrega: «Quem procurar preservar a vida, há-de perdê-la; quem a perder, há-de salvá-la» (Lc 17, 33).",
+            "paragrafo": 1889
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1890. Existe uma certa semelhança entre a unidade das pessoas divinas e a fraternidade que os homens devem instaurar entre si.",
+            "paragrafo": 1890
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1891. Para se desenvolver em conformidade com a sua natureza, a pessoa humana tem necessidade da vida social. Certas sociedades, como a família e a comunidade civil, correspondem, de modo mais imediato, à natureza do homem.",
+            "paragrafo": 1891
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1892. «A pessoa humana é e deve ser o princípio, o sujeito e o fim de todas as instituições sociais» (14).",
+            "paragrafo": 1892
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1893. Deve promover-se uma larga participação nas associações e instituições de livre iniciativa.",
+            "paragrafo": 1893
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1894. Segundo o princípio da subsidiariedade, nem o Estado nem qualquer sociedade mais abrangente devem substituir-se à iniciativa e à responsabilidade das pessoas e dos corpos intermédios.",
+            "paragrafo": 1894
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1895. A sociedade deve favorecer a prática das virtudes, e não impedi-la. Deve inspirar-se numa justa hierarquia de valores.",
+            "paragrafo": 1895
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1896. Onde quer que o pecado perverta o clima social, deve fazer-se apelo à conversão dos corações e à graça de Deus. A caridade incentiva reformas justas. Não existe solução para a questão social fora do Evangelho (15).",
+            "paragrafo": 1896
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 2"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A PARTICIPAÇÃO NA VIDA SOCIAL"
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. A autoridade"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1897. «A sociedade humana não estará bem constituída nem será fecunda, se a ela não presidir uma autoridade legítima que salvaguarde as instituições e dedique o necessário trabalho e esforço ao bem comum» (16).\n\nChama-se «autoridade» àquela qualidade em virtude da qual pessoas ou instituições dão leis e ordens a homens e esperam obediência da parte deles.",
+            "paragrafo": 1897
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1898. Toda a comunidade humana tem necessidade de uma autoridade que a governe (17). Esta tem o seu fundamento na natureza humana. Ela é necessária para a unidade da comunidade civil. O seu papel consiste em assegurar, quanto possível, o bem comum da sociedade.",
+            "paragrafo": 1898
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1899. A autoridade exigida pela ordem moral emana de Deus: «Submeta-se cada qual às autoridades constituídas. Pois não há autoridade que não tenha sido constituída por Deus e as que existem foram estabelecidas por Ele. Quem resiste, pois, à autoridade, opõe-se à ordem estabelecida por Deus, e os que lhe resistem atraem sobre si a condenação» (Rm 13, 1‑2) (18).",
+            "paragrafo": 1899
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1900. O dever de obediência impõe a todos a obrigação de tributar à autoridade as honras que lhe são devidas e de rodear de respeito e, segundo o seu mérito, de gratidão e benevolência, as pessoas que a exercem.\n\nSaída da pena do papa São Clemente de Roma, encontramos a mais antiga oração da Igreja pela autoridade política (19):\n\n«Dai-lhes, Senhor, a saúde, a paz, a concórdia, a estabilidade, para que exerçam sem obstáculos a soberania que lhes confiastes. Sois Vós, ó mestre, celeste rei dos séculos, quem dá aos filhos dos homens glória, honra e poder sobre as coisas da terra. Dirigi, Senhor, o seu conselho segundo o que é bem, segundo o que é agradável aos vossos olhos, para que, exercendo com piedade, na paz e na mansidão, o poder que lhes destes, Vos encontrem propício» (20).",
+            "paragrafo": 1900
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1901. Se a autoridade remete para uma ordem fixada por Deus, já «a determinação dos regimes políticos, tal como a designação dos seus dirigentes, devem ser deixados à livre vontade dos cidadãos» (12).\n\nA diversidade dos regimes políticos é moralmente admissível, desde que concorram para o bem legítimo da comunidade que os adopta. Os regimes cuja natureza for contrária à lei natural, à ordem pública e aos direitos fundamentais das pessoas, não podem promover o bem comum das nações onde se impuseram.",
+            "paragrafo": 1901
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1902. A autoridade não recebe de si mesma a legitimidade moral. Por isso, não deve proceder de maneira despótica, mas agir em prol do bem comum, como uma «força moral fundada na liberdade e no sentido de responsabilidade» (22):\n\n«A legislação humana só se reveste do carácter de lei, na medida em que se conforma com a justa razão; daí ser evidente que ela recebe todo o seu vigor da Lei eterna. Na medida em que se afastar da razão, deve ser declarada injusta, pois não realiza a noção de lei: será, antes, uma forma de violência» (23).",
+            "paragrafo": 1902
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1903. A autoridade só é exercida legitimamente na medida em que procurar o bem comum do respectivo grupo e em que, para o atingir, empregar meios moralmente lícitos. No caso de os dirigentes promulgarem leis injustas ou tomarem medidas contrárias à ordem moral, tais disposições não podem obrigar as consciências. «Neste caso, a própria autoridade deixa de existir e degenera em abuso do poder» (24).",
+            "paragrafo": 1903
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1904. «É preferível que todo o poder seja equilibrado por outros poderes e outras competências que o mantenham no seu justo limite. Este é o princípio do \"Estado de direito\", no qual é soberana a Lei, e não a vontade arbitrária dos homens» (25).",
+            "paragrafo": 1904
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. O bem comum"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1905. Em conformidade com a natureza social do homem, o bem de cada um está necessariamente relacionado com o bem comum. E este não pode definir-se senão em referência à pessoa humana:\n\n«Não vivais isolados, fechados em vós mesmos, como se já estivésseis justificados; mas reuni-vos para procurar em conjunto o que é de interesse comum» (26).",
+            "paragrafo": 1905
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1906. Por bem comum deve entender-se «o conjunto das condições sociais que permitem, tanto aos grupos como a cada um dos seus membros, atingir a sua perfeição, do modo mais completo e adequado» (27). O bem comum interessa à vida de todos. Exige prudência da parte de cada um, sobretudo da parte de quem exerce a autoridade. E inclui três elementos essenciais:",
+            "paragrafo": 1906
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1907. Supõe, em primeiro lugar, o respeito da pessoa como tal. Em nome do bem comum, os poderes públicos são obrigados a respeitar os direitos fundamentais e inalienáveis da pessoa humana. A sociedade humana deve empenhar-se em permitir, a cada um dos seus membros, realizar a própria vocação. De modo particular, o bem comum reside nas condições do exercício das liberdades naturais, indispensáveis à realização da vocação humana: «Por exemplo, o direito de agir segundo a recta norma da sua consciência, o direito à salvaguarda da vida privada e à justa liberdade, mesmo em matéria religiosa» (28).",
+            "paragrafo": 1907
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1908. Em segundo lugar, o bem comum exige o bem-estar social e o desenvolvimento da própria sociedade. O desenvolvimento é o resumo de todos os deveres sociais. Sem dúvida, à autoridade compete arbitrar, em nome do bem comum, entre os diversos interesses particulares; mas deve tornar acessível a cada qual aquilo de que precisa para levar uma vida verdadeiramente humana: alimento, vestuário, saúde, trabalho, educação e cultura, informação conveniente, direito de constituir família (29), etc.",
+            "paragrafo": 1908
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1909. Finalmente, o bem comum implica a paz, quer dizer, a permanência e segurança duma ordem justa. Supõe, portanto, que a autoridade assegure, por meios honestos, a segurança da sociedade e dos seus membros. O bem comum está na base do direito à legítima defesa, pessoal e colectiva.",
+            "paragrafo": 1909
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1910. Se cada comunidade humana possui um bem comum que lhe permite reconhecer-se como tal, é na comunidade política que se encontra a sua realização mais completa. Compete ao Estado defender e promover o bem comum da sociedade civil, dos cidadãos e dos corpos intermédios.",
+            "paragrafo": 1910
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1911. As dependências humanas intensificam-se. Estendem-se, pouco a pouco, a toda a terra. A unidade da família humana, reunindo seres de igual dignidade natural, implica um bem comum universal. E este requer uma organização da comunidade das nações, capaz de «prover às diversas necessidades dos homens, tanto no domínio da vida social (alimentação, saúde, educação...), como para fazer face a múltiplas circunstâncias particulares que podem surgir aqui e ali (por exemplo: [...] acudir às misérias dos refugiados, dar assistência aos migrantes e suas famílias...)» (30).",
+            "paragrafo": 1911
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1912. O bem comum está sempre orientado para o progresso das pessoas: «A ordem das coisas deve estar subordinada à ordem das pessoas, e não o inverso» (31). Esta ordem tem por base a verdade, constrói-se na justiça e é vivificada pelo amor.",
+            "paragrafo": 1912
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. Responsabilidade e participação"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1913. Participação é o empenhamento voluntário e generoso da pessoa nas permutas sociais. É necessário que todos tomem parte, cada qual segundo o lugar que ocupa e o papel que desempenha, na promoção do bem comum. Este é um dever inerente à dignidade da pessoa humana.",
+            "paragrafo": 1913
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1914. A participação realiza-se, primeiro, ao encarregar-se alguém dos sectores de que assume a responsabilidade pessoal: pelo cuidado que põe na educação da família, pela consciência com que realiza o seu trabalho, o homem participa no bem dos outros e da sociedade (32).",
+            "paragrafo": 1914
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1915. Os cidadãos devem, tanto quanto possível, tomar parte activa na vida pública. As modalidades desta participação podem variar de país para país ou de uma cultura para outra. «É de louvar o modo de agir das nações em que, em autêntica liberdade, o maior número possível de cidadãos participa nos assuntos públicos» (33).",
+            "paragrafo": 1915
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1916. A participação de todos na promoção do bem comum implica, como qualquer dever ético, uma conversão incessantemente renovada dos parceiros sociais. A fraude e outros subterfúgios, pelos quais alguns se esquivam às obrigações da lei e às prescrições do dever social, devem ser firmemente condenados como incompatíveis com as exigências da justiça. Importa promover o progresso das instituições que melhorem as condições da vida humana (34).",
+            "paragrafo": 1916
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1917. Incumbe àqueles que exercem cargos de autoridade garantir os valores que atraem a confiança dos membros do grupo e os incitam a colocar-se ao serviço dos seus semelhantes. A participação começa pela educação e pela cultura. «Pode-se legitimamente pensar que o futuro da humanidade está nas mãos daqueles que souberem dar às gerações de amanhã razões de viver e de esperar» (35).",
+            "paragrafo": 1917
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1918. «Não existe autoridade que não venha de Deus, e as que existem foram por Deus estabelecidas» (Rm 13, 1).",
+            "paragrafo": 1918
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1919. Toda a comunidade humana tem necessidade duma autoridade, para se manter e desenvolver:",
+            "paragrafo": 1919
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1920. «A comunidade política e a autoridade pública têm o seu fundamento na natureza humana, e pertencem, por isso, à ordem estabelecida por Deus» (36).",
+            "paragrafo": 1920
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1921. A autoridade exerce-se de modo legítimo, se se dedicar a conseguir o bem comum da sociedade. Para o atingir, deve empregar meios moralmente aceitáveis.",
+            "paragrafo": 1921
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1922. A diversidade dos regimes políticos é legítima, desde que estas concorram para o bem da comunidade.",
+            "paragrafo": 1922
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1923. A autoridade política deve exercer-se dentro dos limites da ordem moral, e garantir as condições necessárias para o exercício da liberdade.",
+            "paragrafo": 1923
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1924. O bem comum abrange «o conjunto das condições sociais que permitem aos grupos e às pessoas atingir a sua perfeição, do modo mais pleno e fácil» (37).",
+            "paragrafo": 1924
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1925. O bem comum inclui três elementos essenciais: o respeito e a promoção dos direitos fundamentais da pessoa; a prosperidade ou desenvolvimento dos bens espirituais e temporais da sociedade; a paz e a segurança do grupo e dos seus membros.",
+            "paragrafo": 1925
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1926. A dignidade da pessoa humana implica a busca do bem comum. Cada qual deve preocupar-se em suscitar e sustentar instituições que melhorem as condições da vida humana.",
+            "paragrafo": 1926
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1927. Compete ao Estado defender e promover o bem comum da sociedade civil. O bem comum de toda a família humana exige uma organização da sociedade internacional.",
+            "paragrafo": 1927
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 3"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "A JUSTIÇA SOCIAL"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1928. A sociedade garante a justiça social, quando realiza as condições que permitem às associações e aos indivíduos obterem o que lhes é devido, segundo a sua natureza e vocação. A justiça social está ligada ao bem comum e ao exercício da autoridade.",
+            "paragrafo": 1928
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. O respeito pela pessoa humana"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1929. A justiça social só pode alcançar-se no respeito da dignidade transcendente do homem. A pessoa constitui o fim último da sociedade, que está ordenada para ela:\n\nA defesa e promoção da dignidade da pessoa humana «foram-nos confiadas pelo Criador, tarefa a que estão rigorosa e responsavelmente obrigados os homens e as mulheres em todas as conjunturas da história (38).",
+            "paragrafo": 1929
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1930. O respeito pela pessoa humana implica o dos direitos que dimanam da sua dignidade de criatura. Esses direitos são anteriores à sociedade e impõem-se-lhe. Estão na base da legitimidade moral de qualquer autoridade: desprezando-os ou recusando reconhecê-los na sua legislação positiva, uma sociedade atenta contra a sua própria legitimidade moral (39). Faltando esse respeito, uma sociedade não tem outra solução, senão o recurso à força e à violência, para obter a obediência dos seus súbitos. É dever da Igreja trazer à memória dos homens de boa vontade aqueles direitos, e distingui-los das reivindicações abusivas ou falsas.",
+            "paragrafo": 1930
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1931. O respeito pela pessoa humana passa pelo respeito pelo princípio: «Que cada um considere o seu próximo, sem qualquer excepção, como «outro ele mesmo», e zele, antes de mais, pela sua existência e pelos meios que lhe são necessários para viver dignamente» (40). Nenhuma legislação será capaz, por si mesma, de fazer desaparecer os temores, os preconceitos, as atitudes de orgulho e egoísmo que são obstáculo ao estabelecimento de sociedades verdadeiramente fraternas. Tais atitudes só desaparecem com a caridade, que vê em cada homem um «próximo», um irmão.",
+            "paragrafo": 1931
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1932. O dever de nos fazermos o «próximo» do outro, e de o servirmos activamente, é tanto mais premente quanto esse outro for mais indefeso, seja em que domínio for. «Quantas vezes o fizestes a um dos meus irmãos mais pequeninos, a Mim o fizestes» (Mt 25, 40).",
+            "paragrafo": 1932
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1933. Este mesmo dever é extensivo a todos os que pensam ou se comportam de modo diferente de nós. A doutrina de Cristo chega a exigir o perdão das ofensas. Ele estende o mandamento do amor, que é o da nova Lei, a todos os inimigos (41). A libertação, no espírito do Evangelho, é incompatível com o ódio ao inimigo, enquanto pessoa; embora não o seja com o ódio ao mal, que ele pode praticar enquanto inimigo.",
+            "paragrafo": 1933
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. Igualdade e diferença entre os homens"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1934. Criados à imagem do Deus único, dotados duma idêntica alma racional, todos os homens têm a mesma natureza e a mesma origem. Resgatados pelo sacrifício de Cristo, todos são chamados a participar da mesma bem-aventurança divina. Todos gozam, portanto, de igual dignidade.",
+            "paragrafo": 1934
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1935. A igualdade entre os homens assenta essencialmente na sua dignidade pessoal e nos direitos que dela dimanam:\n\n«Toda a espécie de discriminação relativamente aos direitos fundamentais da pessoa, quer por razão do sexo, quer da raça, cor, condição social, língua ou religião, deve ser ultrapassada e eliminada como contrária ao desígnio de Deus» (42).",
+            "paragrafo": 1935
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1936. Ao vir ao mundo, o homem não dispõe de tudo o que é necessário para o desenvolvimento da sua vida corporal e espiritual. Precisa dos outros. Há diferenças relacionadas com a idade, as capacidades físicas, as aptidões intelectuais e morais, os intercâmbios de que cada um pôde beneficiar, a distribuição das riquezas (43). Os «talentos» não são distribuídos por igual (44).",
+            "paragrafo": 1936
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1937. Estas diferenças fazem parte do plano de Deus que quer que cada um receba de outrem aquilo de que precisa e que os que dispõem de «talentos» particulares comuniquem os seus benefícios aos que deles precisam. As diferenças estimulam e muitas vezes obrigam as pessoas à magnanimidade, à benevolência e à partilha: e incitam as culturas a enriquecerem-se umas às outras:\n\n«Eu distribuo as virtudes tão diferentemente, que não dou tudo a todos, mas a uns uma e a outros outra [...] A um darei principalmente a caridade, a outro a justiça, a este a humildade, àquele uma fé viva. [...] E assim dei muitos dons e graças de virtudes, espirituais e temporais, com tal diversidade, que não comuniquei tudo a uma só pessoa, a fim de que vós fosseis forçados a usar de caridade uns para com os outros; [...] Eu quis que um tivesse necessidade do outro e todos fossem meus ministros na distribuição das graças e dons de Mim recebidos» (45).",
+            "paragrafo": 1937
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1938. Mas também existem desigualdades iníquas que ferem milhões de homens e de mulheres. Essas estão em contradição frontal com o Evangelho:\n\n«A igual dignidade pessoal postula que se chegue a condições de vida mais humanas e justas. Com efeito, as excessivas desigualdades económicas e sociais entre os membros ou povos da única família humana provocam escândalo e são obstáculo à justiça social, à equidade, à dignidade da pessoa humana e, finalmente, à paz social e internacional» (46).",
+            "paragrafo": 1938
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. A solidariedade humana"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1939. O princípio da solidariedade, também enunciado sob o nome de «amizade» ou de «caridade social», é uma exigência directa da fraternidade humana e cristã (47):\n\nUm erro, «hoje largamente espalhado, é o que esquece esta lei da solidariedade humana e da caridade, ditada e imposta tanto pela comunidade de origem e pela igualdade da natureza racional entre todos os homens, seja qual for o povo a que pertençam, como pelo sacrifício da redenção oferecido por Jesus Cristo no altar da cruz ao Pai celeste, em favor da humanidade pecadora» (48).",
+            "paragrafo": 1939
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1940. A solidariedade manifesta-se, em primeiro lugar, na repartição dos bens e na remuneração do trabalho. Implica também o esforço por uma ordem social mais justa, em que as tensões possam ser resolvidas melhor e os conflitos encontrem mais facilmente uma saída negociada.",
+            "paragrafo": 1940
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1941. Os problemas sócio-económicos só podem ser resolvidos com a ajuda de todas as formas de solidariedade: solidariedade dos pobres entre si, dos ricos com os pobres, dos trabalhadores entre si, dos empresários e empregados na empresa; solidariedade entre as nações e entre os povos. A solidariedade internacional é uma exigência de ordem moral. Dela depende, em parte, a paz do mundo.",
+            "paragrafo": 1941
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1942. A virtude da solidariedade vai além dos bens materiais. Ao difundir os bens espirituais da fé, a Igreja favoreceu, por acréscimo, o desenvolvimento dos bens temporais, a que, muitas vezes, abriu novos caminhos. Assim se verificou, ao longo dos séculos, a Palavra do Senhor: «Procurai primeiro o Reino de Deus e a sua justiça, e tudo o mais vos será dado por acréscimo» (Mt 6, 33):\n\n«Desde há dois mil anos que vive e persevera na alma da Igreja este sentimento, que levou e ainda leva as almas até ao heroísmo caridoso dos monges agricultores, dos libertadores de escravos, dos que cuidam dos doentes, dos mensageiros da fé, da civilização, da ciência a todas as gerações e a todos os povos, em vista a criar condições sociais capazes de a todos tornar possível uma vida digna do homem e do cristão» (49).",
+            "paragrafo": 1942
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1943. A sociedade assegura a justiça social, realizando as condições que permitem às associações e aos indivíduos obterem o que lhes é devido.",
+            "paragrafo": 1943
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1944. O respeito pela pessoa humana considera o outro como «outro eu». Supõe o respeito pelos direitos fundamentais, decorrentes da dignidade intrínseca da pessoa.",
+            "paragrafo": 1944
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1945. A igualdade entre os homens assenta na sua dignidade pessoal e nos direitos que dela dimanam.",
+            "paragrafo": 1945
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1946. As diferenças entre as pessoas fazem parte do desígnio de Deus que quer que precisemos uns dos outros. Devem estimular a caridade.",
+            "paragrafo": 1946
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1947. A igual dignidade das pessoas humanas exige esforços no sentido de reduzir desigualdades sociais e económicas excessivas. Conduza o desaparecimento das desigualdades iníquas.",
+            "paragrafo": 1947
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1948. A solidariedade é uma virtude eminentemente cristã. Pratica a partilha dos bens espirituais, ainda mais que a dos materiais.",
+            "paragrafo": 1948
+        }
+    ],
+    "referencias": [
+        {
+            "tipo": "referência",
+            "texto": "1. Cf. II Concílio do Vaticano, Const. past. Gaudium et spes, 24: AAS 58 (1966) 1045."
+        },
+        {
+            "tipo": "referência",
+            "texto": "2. Cf. II Concílio do Vaticano, Const. past. Gaudium et spes, 25: AAS 58 (1966) 1045."
+        },
+        {
+            "tipo": "referência",
+            "texto": "3. Cf. Lc 19, 13. 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "4. II Concílio do Vaticano, Const. past. Gaudium et spes, 25: AAS 58 (1966) 1045."
+        },
+        {
+            "tipo": "referência",
+            "texto": "5.  João XXIII, Enc. Mater et magistra, 60: AAS 53 (1961) 416."
+        },
+        {
+            "tipo": "referência",
+            "texto": "6. Cf. II Concílio do Vaticano, Const. past. Gaudium et spes, 24: AAS 58 (1966) 1045-1046; João Paulo II, Enc. Centesimus annus, 16: AAS 83 (1991) 813."
+        },
+        {
+            "tipo": "referência",
+            "texto": "7. João Paulo II, Enc. Centesimus annus, 48: AAS 83 (1991) 854: cf. Pio XI, Enc. Quadragesimo anno: AAS 23 (1931) 184-186."
+        },
+        {
+            "tipo": "referência",
+            "texto": "8. João Paulo II, Enc. Centesimus annus, 36: AAS 83 (1991) 838."
+        },
+        {
+            "tipo": "referência",
+            "texto": "9. João XXIII, Enc. Pacem in terris, 36: AAS 55 (1963) 266."
+        },
+        {
+            "tipo": "referência",
+            "texto": "10. Cf. João Paulo II, Enc. Centesimus annus, 41: AAS 83 (1991) 844."
+        },
+        {
+            "tipo": "referência",
+            "texto": "11. Pio XII, Mensagem radiofónica (1 de Junho de 1941): AAS 33 (1941) 197."
+        },
+        {
+            "tipo": "referência",
+            "texto": "12. Cf. II Concílio do Vaticano, Cons. dogm. Lumen Gentium, 36: AAS 57 (1965) 42."
+        },
+        {
+            "tipo": "referência",
+            "texto": "13. João Paulo II, Enc. Centesimus annus, 25 AAS 83 (1991) 823."
+        },
+        {
+            "tipo": "referência",
+            "texto": "14. II Concílio do Vaticano, Const. past. Gaudium et spes, 25 AAS 58 (1966) 1045."
+        },
+        {
+            "tipo": "referência",
+            "texto": "15. Cf. João Paulo II, Enc. Centesimus annus, 5: AAS 83 (1991) 800."
+        },
+        {
+            "tipo": "referência",
+            "texto": "16. João XXIII, Enc. Pacem in terris, 46: AAS 55 (1963) 269."
+        },
+        {
+            "tipo": "referência",
+            "texto": "17. Cf. Leão XIII, Enc. Diuturnum illud: Leonis XIII Acta 2, 271; Id., Enc. Immortale Dei: Leonis XIII Acta, 5, 120."
+        },
+        {
+            "tipo": "referência",
+            "texto": "18. Cf. 1 Pe 2, 13-17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "19 Cf. já 1 Tm 2, 1-2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "20. São Clemente de Roma, Epistula ad Corinthios, 61, 1-2: SC 167, 198-200 (Funk 1, 178-180)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "21. II Concílio do Vaticano, Const. past. Gaudium et spes, 74: AAS 58 (1966) 1096."
+        },
+        {
+            "tipo": "referência",
+            "texto": "22. II Concílio do Vaticano, Const. past. Gaudium et spes, 74: AAS 58 (1966) 1096."
+        },
+        {
+            "tipo": "referência",
+            "texto": "23. São Tomás de Aquino, Summa theologiae, 1-2, q. 93, a. 3. ad 2: Ed. Leon. 7, 164."
+        },
+        {
+            "tipo": "referência",
+            "texto": "24. João XXIII, Enc. Pacem in terris, 51: AAS 55 (1963) 271."
+        },
+        {
+            "tipo": "referência",
+            "texto": "25. João Paulo II, Enc. Centesimus annus, 44: AAS 83 (1991) 848."
+        },
+        {
+            "tipo": "referência",
+            "texto": "26. Pseudo Barnabé, Epistula, 4, 10: SC 172, 100-102 (Funk 1, 48)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "27. Concílio do Vaticano, Const. past. Gaudium et spes, 26: AAS 58 (1966)1046: cf. Ibid., 74: AAS 58 (1966) 1096."
+        },
+        {
+            "tipo": "referência",
+            "texto": "28. II Concílio do Vaticano, Const. past. Gaudium et spes, 26: AAS 58 (1966) 1046."
+        },
+        {
+            "tipo": "referência",
+            "texto": "29.  Cf. II Concílio do Vaticano, Const. past. Gaudium et spes, 26: AAS 58 (1966) 1046."
+        },
+        {
+            "tipo": "referência",
+            "texto": "30. II Concílio do Vaticano, Const. past. Gaudium et spes, 84: AAS 58 (1966) 1107."
+        },
+        {
+            "tipo": "referência",
+            "texto": "31. II Concílio do Vaticano, Const. past. Gaudium et spes, 26: AAS 58 (1966) 1047."
+        },
+        {
+            "tipo": "referência",
+            "texto": "32. Cf. João Paulo II, Enc. Centesimus annus, 31: AAS 83 (1991) 847."
+        },
+        {
+            "tipo": "referência",
+            "texto": "33. II Concílio do Vaticano, Const. past. Gaudium et spes, 3162: AAS 58 (1966) 1050."
+        },
+        {
+            "tipo": "referência",
+            "texto": "34. Cf. II Concílio do Vaticano, Const. past. Gaudium et spes, 30: AAS 58 (1966) 1049."
+        },
+        {
+            "tipo": "referência",
+            "texto": "35. II Concílio do Vaticano, Const. past. Gaudium et spes, 31: AAS 58 (1966) 1050."
+        },
+        {
+            "tipo": "referência",
+            "texto": "36. II Concílio do Vaticano, Const. past. Gaudium et spes, 74: AAS 58 (1966) 1096."
+        },
+        {
+            "tipo": "referência",
+            "texto": "37. II Concílio do Vaticano, Const. past. Gaudium et spes, 26: AAS 58 (1966) 1046."
+        },
+        {
+            "tipo": "referência",
+            "texto": "38. João Paulo II, Enc. Sollicitudo rei socialis, 47: AAS 80 (1988) 581."
+        },
+        {
+            "tipo": "referência",
+            "texto": "39. Cf. João XXIII, Enc. Pacem in terris, 61: AAS 55 (1963) 274."
+        },
+        {
+            "tipo": "referência",
+            "texto": "40. II Concílio do Vaticano, Const. past. Gaudium et spes, 27: AAS 58 (1966) 274."
+        },
+        {
+            "tipo": "referência",
+            "texto": "41. Cf. Mt 5, 43-44."
+        },
+        {
+            "tipo": "referência",
+            "texto": "42. II Concílio do Vaticano, Const. past. Gaudium et spes, 29: AAS 58 (1966) 1048-1049."
+        },
+        {
+            "tipo": "referência",
+            "texto": "43. Cf. II Concílio do Vaticano, Const. past. Gaudium et spes, 29: AAS 58 (1966) 1048."
+        },
+        {
+            "tipo": "referência",
+            "texto": "44. Cf. Mt 25, 14-30: Lc 19, 11-27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "45. Santa Catarina de Sena, Il dialogo della Divina provvidenza, 7: ed. G. Cavallini (Roma 1995) p. 23-24."
+        },
+        {
+            "tipo": "referência",
+            "texto": "46. II Concílio do Vaticano, Const. past. Gaudium et spes, 29: AAS 58 (1966) 1049."
+        },
+        {
+            "tipo": "referência",
+            "texto": "47. Cf. João Paulo II, Enc. Sollicitudo rei socialis, 38-40: AAS 80 (1988) 564-569; Id.. Enc. Centesimus annus, 10: AAS 83 (1991) 805-806."
+        },
+        {
+            "tipo": "referência",
+            "texto": "48. Pio XII, Enc. Summi Pontificatus: AAS 31 (1939) 426."
+        },
+        {
+            "tipo": "referência",
+            "texto": "49. Pio XII, Mensagem radiofónica (1 de Junho de 1941): AAS 33 (1941) 204."
+        }
+    ]
+}

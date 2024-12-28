@@ -1,0 +1,2305 @@
+{
+    "nome": "p2_s2_c1",
+    "primeiroParagrafo": 1212,
+    "ultimoParagrafo": 1419,
+    "conteudo": [
+        {
+            "tipo": "título",
+            "texto": "SEGUNDA PARTE"
+        },
+        {
+            "tipo": "título",
+            "texto": "A CELEBRAÇÃO\nDO MISTÉRIO CRISTÃO\n\n"
+        },
+        {
+            "tipo": "título",
+            "texto": "SEGUNDA SECÇÃO"
+        },
+        {
+            "tipo": "título",
+            "texto": "OS SETE SACRAMENTOS DA IGREJA\n\n"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "CAPÍTULO PRIMEIRO"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "OS SACRAMENTOS DA INICIAÇÃO CRISTÃ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1212. Através dos sacramentos da iniciação cristã – Baptismo, Confirmação e Eucaristia são lançados os alicerces de toda a vida cristã. «A participação na natureza divina, dada aos homens pela graça de Cristo, comporta uma certa analogia com a origem, crescimento e sustento da vida natural. Nascidos para uma vida nova pelo Baptismo, os fiéis são efectivamente fortalecidos pelo sacramento da Confirmação e recebem na Eucaristia o Pilo da vida eterna Assim. por estes sacramentos da iniciação cristã, eles recebem cada vez mais riquezas da vida divina e avançam para a perfeição da caridade» (3).",
+            "paragrafo": 1212
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 1"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O SACRAMENTO DO BAPTISMO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1213. O santo Baptismo é o fundamento de toda a vida cristã, o pórtico da vida no Espírito («vitae spiritualis ianua – porta da vida espiritual») e a porta que dá acesso aos outros sacramentos. Pelo Baptismo somos libertos do pecado e regenerados como filhos de Deus: tornamo-nos membros de Cristo e somos incorporados na Igreja e tornados participantes na sua missão (4). «Baptismos est sacramentam regeneratiorais per aquam in Verbo – O Baptismo pode definir-se como o sacramento da regeneração pela água e pela Palavra» (5).",
+            "paragrafo": 1213
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. Como se chama este sacramento?"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1214. Chama-se Baptismo, por causa do rito central com que se realiza: baptizar (baptizeis, em grego) significa «mergulhar», «imergir». A «imersão» na água simboliza a sepultura do catecúmeno na morte de Cristo, de onde sai pela ressurreição com Ele (6) como «nova criatura» (2 Cor 5, 17; Gl 6, 15).",
+            "paragrafo": 1214
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1215. Este sacramento é também chamado «banho da regeneração e da renovação no Espírito Santo» (Tt 3, 5), porque significa e realiza aquele nascimento da água e do Espírito, sem o qual «ninguém pode entrar no Reino de Deus» (Jo 3, 5).",
+            "paragrafo": 1215
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1216. «Este banho é chamado iluminação, porque aqueles que recebem este ensinamento [catequético] ficam com o espírito iluminado...» (7). Tendo recebido no Baptismo o Verbo, «luz verdadeira que ilumina todo o homem» (Jo 1, 9), o baptizado, «depois de ter sido iluminado» (8), tornou-se «filho da luz» (9) e ele próprio «luz» (Ef 5, 8):\n\n«O Baptismo é o mais belo e magnífico dos dons de Deus [...] Chamamos-lhe dom, graça, unção, iluminação, veste de incorruptibilidade, banho de regeneração, selo e tudo o que há de mais precioso. Dom, porque é conferido àqueles que não trazem nada: graça, porque é dado mesmo aos culpados: baptismo, porque o pecado é sepultado nas águas; unção, porque é sagrado e régio (como aqueles que são ungidos); iluminação, porque é luz irradiante; veste, porque cobre a nossa vergonha; banho, porque lava; selo, porque nos guarda e é sinal do senhorio de Deus» (10).",
+            "paragrafo": 1216
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. O Baptismo na economia da salvação"
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "AS PREFIGURAÇÕES DO BAPTISMO NA ANTIGA ALIANÇA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1217. Na liturgia da Vigília Pascal, a quando da bênção da água baptismal, a Igreja faz solenemente memória dos grandes acontecimentos da história da salvação que prefiguravam já o mistério do Baptismo:\n\n«Senhor nosso Deus: pelo vosso poder invisível, realizais maravilhas nos vossos sacramentos. Ao longo dos tempos, preparastes a água para manifestar a graça do Baptismo» (11).",
+            "paragrafo": 1217
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1218. Desde o princípio do mundo, a água, esta criatura humilde e admirável, é a fonte da vida e da fecundidade. A Sagrada Escritura vê-a como «incubada» pelo Espírito de Deus (12):\n\n«Logo no princípio do mundo, o vosso Espírito pairava sobre as águas, para que já desde então concebessem o poder de santificar» (13).",
+            "paragrafo": 1218
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1219. A Igreja viu na arca de Noé uma prefiguração da salvação pelo Baptismo. Com efeito, graças a ela, «um pequeno grupo, ao todo oito pessoas, foram salvas pela água» (1 Pe 3, 20):\n\n«Nas águas do dilúvio, destes-nos uma imagem do Baptismo, sacramento da vida nova, porque as águas significam ao mesmo tempo o fim do pecado e o princípio da santidade» (14).",
+            "paragrafo": 1219
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1220. Se a água de nascente simboliza a vida, a água do maré um símbolo da morte. Por isso é que podia prefigurar o mistério da cruz. E por este simbolismo, o Baptismo significa a comunhão com a morte de Cristo.",
+            "paragrafo": 1220
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1221. É sobretudo a travessia do Mar Vermelho, verdadeira libertação de Israel da escravidão do Egipto, que anuncia a libertação operada pelo Baptismo:\n\n«Aos filhos de Abraão fizestes atravessar a pé enxuto o Mar Vermelho, para que esse povo, liberto da escravidão, fosse a imagem do povo santo dos baptizados» (15).",
+            "paragrafo": 1221
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1222. Finalmente, o Baptismo é prefigurado na travessia do Jordão, graças à qual o povo de Deu- recebe o dom da terra prometida à descendência de Abraão, imagem da vida eterna. A promessa desta herança bem-aventurada cumpre-se na Nova Aliança.",
+            "paragrafo": 1222
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O BAPTISMO DE CRISTO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1223. Todas as prefigurações da Antiga Aliança encontram a sua realização em Jesus Cristo. Ele começa a sua vida pública depois de Se ter feito baptizar por São João Baptista no Jordão (16). E depois da sua ressurreição, confere esta missão aos Apóstolos: «Ide, pois, fazei discípulos de todas as nações; baptizai-os em nome do Pai e do Filho e do Espírito Santo e ensinai-os a cumprir tudo quanto vos mandei» (Mt 28, 19-20) (17).",
+            "paragrafo": 1223
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1224. Nosso Senhor sujeitou-se voluntariamente ao Baptismo de São João, destinado aos pecadores, para cumprir toda a justiça (18). Este gesto de Jesus é uma manifestação do seu «aniquilamento» (19). O Espírito que pairava sobre as águas da primeira criação, desce então sobre Cristo como prelúdio da nova criação e o Pai manifesta Jesus como seu «Filho muito amado» (20).",
+            "paragrafo": 1224
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1225. Foi na sua Páscoa que Cristo abriu a todos os homens as fontes do Baptismo. De facto, Ele já tinha falado da sua paixão, que ia sofrer em Jerusalém, como dum «baptismo» com que devia ser baptizado (21). O sangue e a água que manaram do lado aberto de Jesus crucificado (22) são tipos do Baptismo e da Eucaristia, sacramentos da vida nova (23): desde então, é possível «nascer da água e do Espírito» para entrar no Reino de Deus (Jo 3, 5).\n\n«Repara: Onde é que foste baptizado, de onde é que vem o Baptismo, senão da cruz de Cristo, da morte de Cristo? Ali está todo o mistério: Ele sofreu por ti. Foi n'Ele que tu foste resgatado, n'Ele que foste salvo» (24).",
+            "paragrafo": 1225
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O BAPTISMO NA IGREJA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1226. Desde o dia de Pentecostes que a Igreja vem celebrando e administrando o santo Baptismo. Com efeito, São Pedro declara à multidão, abalada pela sua pregação: «convertei-vos e peça cada um de vós o Baptismo em nome de Jesus Cristo, para vos serem perdoados os pecados. Recebereis então o dom do Espírito Santo» (Act 2, 38). Os Apóstolos e os seus colaboradores oferecem o Baptismo a quem quer que acredite em Jesus: judeus, pessoas tementes a Deus, pagãos (25). O Baptismo aparece sempre ligado à fé: «Acredita no Senhor Jesus e serás salvo juntamente com a tua família», declara São Paulo ao seu carcereiro em Filipos. E a narrativa continua: «o carcereiro [...] logo recebeu o Baptismo, juntamente com todos os seus» (Act 16, 31-33).",
+            "paragrafo": 1226
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1227. Segundo o apóstolo São Paulo, pelo Baptismo o crente comunga na morte de Cristo; é sepultado e ressuscita com Ele:\n\n«Todos nós, que fomos baptizados em Cristo Jesus, fomos baptizados na sua morte. Fomos sepultados com Ele pelo baptismo na morte, para que, assim como Cristo ressuscitou dos mortos, pela glória do Pai, também nós vivamos uma vida nova» (Rm 6, 3-4) (26).\n\nOs baptizados «revestem-se de Cristo» (27). Pelo Espírito Santo, o Baptismo é um banho que purifica, santifica e justifica (28).",
+            "paragrafo": 1227
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1228. O Baptismo é, pois, um banho de água, no qual «a semente incorruptível» da Palavra de Deus produz o seu efeito vivificador (29). Santo Agostinho dirá do Baptismo: «Accedit verbum ad elementum, et fit sacramentam – Junta-se a palavra ao elemento material e faz-se o sacramento» (30).",
+            "paragrafo": 1228
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. Como se celebra o sacramento do Baptismo?"
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A INICIAÇÃO CRISTÃ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1229. Desde o tempo dos Apóstolos que tornar-se cristão requer um caminho e uma iniciação com diversas etapas. Este itinerário pode ser percorrido rápida ou lentamente. Mas deverá sempre incluir certos elementos essenciais: o anúncio da Palavra, o acolhimento do Evangelho que implica a conversão, a profissão de fé, o Baptismo, a efusão do Espírito Santo, o acesso à comunhão eucarística.",
+            "paragrafo": 1229
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1230. Esta iniciação tem variado muito no decurso dos séculos e segundo as circunstâncias. Nos primeiros séculos da Igreja, a iniciação cristã conheceu grande desenvolvimento, com um longo período de catecumenato e uma série de ritos preparatórios que escalonavam liturgicamente o caminho da preparação catecumenal, desembocando na celebração dos sacramentos da iniciação cristã.",
+            "paragrafo": 1230
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1231. Nas regiões onde o Baptismo das crianças se tomou largamente a forma habitual da celebração deste sacramento, esta transformou-se num acto único, que integra, de um modo muito abreviado, as etapas preliminares da iniciação cristã. Pela sua própria natureza, o Baptismo das crianças exige um catecumenato pós-baptismal. Não se trata apenas da necessidade duma instrução posterior ao Baptismo mas do desenvolvimento necessário da graça baptismal no crescimento da pessoa. É o espaço próprio da catequese.",
+            "paragrafo": 1231
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1232. O II Concílio do Vaticano restaurou, para a Igreja latina, «o catecumenato dos adultos, distribuído em várias fases» (31). O respectivo ritual encontra-se no Ordo initiationis christianae adultorum (1972). Aliás, o Concílio permitiu que, «para além dos elementos de iniciação próprios da tradição cristã», se admitam, em terras de missão, «os elementos de iniciação usados por cada um desses povos, na medida em que puderem integrar-se no rito cristão» (32).",
+            "paragrafo": 1232
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1233. Hoje em dia, portanto, em todos os ritos latinos e orientais, a iniciação cristã dos adultos começa com a sua entrada no catecumenato, para atingir o ponto culminante na celebração única dos três sacramentos, Baptismo, Confirmação e Eucaristia (33). Nos ritos orientais, a iniciação cristã das crianças na infância começa no Baptismo, seguido imediatamente da Confirmação e da Eucaristia, enquanto no rito romano a mesma iniciação prossegue durante os anos de catequese, para terminar, mais tarde, com a Confirmação e a Eucaristia, ponto culminante da sua iniciação cristã (34).",
+            "paragrafo": 1233
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A MISTAGOGIA DA CELEBRAÇÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1234. O sentido e a graça do sacramento do Baptismo aparecem claramente nos ritos da sua celebração. Seguindo, com participação atenta, os gestos e as palavras desta celebração, os fiéis são iniciados nas riquezas que este sacramento significa e realiza em cada novo baptizado.",
+            "paragrafo": 1234
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1235. O sinal da cruz, no princípio da celebração, manifesta a marca de Cristo impressa naquele que vai passar a pertencer-Lhe, e significa a graça da redenção que Cristo nos adquiriu pela sua cruz.",
+            "paragrafo": 1235
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1236. O anúncio da Palavra de Deus ilumina com a verdade revelada os candidatos e a assembleia e suscita a resposta da fé, inseparável do Baptismo. Na verdade, o Baptismo é, de modo particular, o «sacramento da fé», uma vez que é a entrada sacramental na vida da fé.",
+            "paragrafo": 1236
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1237. E porque o Baptismo significa a libertação do pecado e do diabo, seu instigador, pronuncia-se sobre o candidato um ou vários exorcismos. Ele é ungido com o óleo dos catecúmenos ou, então, o celebrante impõe-lhe a mão e ele renuncia expressamente a Satanás. Assim preparado, pode professar a fé da Igreja, à qual será «confiado» pelo Baptismo (35).",
+            "paragrafo": 1237
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1238. A água baptismal é então consagrada por uma oração de epiclese (ou no próprio momento, ou na Vigília Pascal). A Igreja pede a Deus que, pelo seu Filho, o poder do Espírito Santo desça a esta água, para que os que nela forem baptizados «nasçam da água e do Espírito» (Jo 3, 5).",
+            "paragrafo": 1238
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1239. Segue-se o rito essencial do sacramento: o baptismo propriamente dito, que significa e realiza a morte para o pecado e a entrada na vida da Santíssima Trindade, através da configuração com o mistério pascal de Cristo. O Baptismo é realizado, do modo mais significativo, pela tríplice imersão na água baptismal; mas, desde tempos antigos, pode também ser conferido derramando por três vezes água sobre a cabeça do candidato.",
+            "paragrafo": 1239
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1240. Na Igreja latina, esta tríplice infusão é acompanhada pelas palavras do ministro: «N., eu te baptizo em nome do Pai e do Filho e do Espírito Santo». Nas liturgias orientais, estando o catecúmeno voltado para o Oriente, o sacerdote diz: «O servo de Deus N. é baptizado em nome do Pai e do Filho e do Espírito Santo»; e à invocação de cada pessoa da Santíssima Trindade, mergulha-o e retira-o da água.",
+            "paragrafo": 1240
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1241. A unção com o santo crisma, óleo perfumado que foi consagrado pelo bispo, significa o dom do Espírito Santo ao novo baptizado. Ele tornou-se cristão, quer dizer, «ungido» pelo Espírito Santo, incorporado em Cristo, que foi ungido sacerdote, profeta e rei (36).",
+            "paragrafo": 1241
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1242. Na liturgia das Igrejas do Oriente, a unção pós-baptismal é o sacramento da Crismação (Confirmação). Na liturgia romana, anuncia uma segunda unção com o santo Crisma, que será dada pelo bispo: o sacramento da Confirmação que, por assim dizer, «confirma» e completa a unção baptismal.",
+            "paragrafo": 1242
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1243. A veste branca simboliza que o baptizado «se revestiu de Cristo» (37): ressuscitou com Cristo. A vela, acesa no círio pascal, significa que Cristo iluminou o neófito. Em Cristo, os baptizados são «a luz do mundo» (Mt 5, 14) (38).\n\nO recém-baptizado é agora filho de Deus no seu Filho Único e pode dizer a oração dos filhos de Deus: O Pai-Nosso.",
+            "paragrafo": 1243
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1244. A primeira Comunhão eucarística. Tornado filho de Deus, revestido da veste nupcial, o neófito é admitido «ao banquete das núpcias do Cordeiro» e recebe o alimento da vida nova, o corpo e sangue de Cristo. As Igrejas orientais conservam uma consciência viva da unidade da iniciação cristã, dando a sagrada Comunhão a todos os novos baptizados e confirmados, mesmo às criancinhas, lembrando a palavra do Senhor: «Deixai vir a Mim as criancinhas, não as estorveis» (Mc 10, 14). A Igreja latina, que reserva o acesso à sagrada Comunhão para aqueles que atingiram o uso da razão, exprime a abertura do Baptismo em relação à Eucaristia aproximando do altar a criança recém-baptizada para a oração do Pai Nosso.",
+            "paragrafo": 1244
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1245. A celebração do Baptismo conclui-se com a bênção solene. Aquando do Baptismo de recém-nascidos, a bênção da mãe ocupa um lugar especial.",
+            "paragrafo": 1245
+        },
+        {
+            "tipo": "tópico",
+            "texto": "IV. Quem pode receber o Baptismo?"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1246. «Todo o ser humano ainda não baptizado – e só ele – é capaz de receber o Baptismo» (39)",
+            "paragrafo": 1246
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O BAPTISMO DOS ADULTOS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1247. Desde os princípios da Igreja, o Baptismo dos adultos é a situação mais corrente nas terras onde o anúncio do Evangelho ainda é recente. O catecumenato (preparação para o Baptismo) tem, nesse caso, um lugar importante; sendo iniciação na fé e na vida cristã, deve dispor para o acolhimento do dom de Deus no Baptismo, Confirmação e Eucaristia.",
+            "paragrafo": 1247
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1248. O catecumenato, ou formação dos catecúmenos, tem por finalidade permitir a estes, em resposta à iniciativa divina e em união com uma comunidade eclesial, conduzir à maturidade a sua conversão e a sua fé. Trata-se duma «formação e de uma aprendizagem de toda a vida cristã», mediante a qual os discípulos se unem com Cristo seu mestre. Por conseguinte, sejam os catecúmenos convenientemente iniciados no mistério da salvação, na prática dos costumes evangélicos, e, com ritos sagrados a celebrar em tempos sucessivos, sejam introduzidos na vida da fé, da Liturgia e da caridade do povo de Deus» (40).",
+            "paragrafo": 1248
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1249. Os catecúmenos «estão já unidos à Igreja», já são da casa de Cristo, e, não raro, eles levam já uma vida de fé, de esperança e de caridade» (41). «A mãe Igreja já os abraça como seus, com amor e solicitude» (42).",
+            "paragrafo": 1249
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O BAPTISMO DAS CRIANÇAS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1250. Nascidas com uma natureza humana decaída e manchada pelo pecado original, as crianças também têm necessidade do novo nascimento no Baptismo para serem libertas do poder das trevas e transferidas para o domínio da liberdade dos filhos de Deus (44), a que todos os homens são chamados. A pura gratuidade da graça da salvação é particularmente manifesta no Baptismo das crianças. Por isso, a Igreja e os pais privariam, a criança da graça inestimável de se tornar filho de Deus, se não lhe conferissem o Baptismo pouco depois do seu nascimento (45).",
+            "paragrafo": 1250
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1251. Os pais cristãos reconhecerão que esta prática corresponde, também, ao seu papel de sustentar a vida que Deus lhes confiou (46).",
+            "paragrafo": 1251
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1252. A prática de baptizar as crianças é tradição imemorial da Igreja. Explicitamente atestada desde o século II, é no entanto bem possível que, desde o princípio da pregação apostólica, quando «casas» inteiras receberam o Baptismo se tenham baptizado também as crianças (48).",
+            "paragrafo": 1252
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "FÉ E BAPTISMO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1253. O Baptismo é o sacramento da fé (49). Mas a fé tem necessidade da comunidade dos crentes. Só na fé da Igreja é que cada um dos fiéis pode crer. A fé que se requer para o Baptismo não é uma fé perfeita e amadurecida, mas um princípio chamado a desenvolver-se. Ao catecúmeno ou ao seu padrinho pergunta-se: «Que pedis à Igreja de Deus?» E ele responde: «A fé!».",
+            "paragrafo": 1253
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1254. Em todos os baptizados, crianças ou adultos, a fé deve crescer depois do Baptismo. É por isso que a Igreja celebra todos os anos, na Vigília Pascal, a renovação das promessas do Baptismo. A preparação para o Baptismo conduz apenas ao umbral da vida nova. O Baptismo é a fonte da vida nova em Cristo, donde jorra toda a vida cristã.",
+            "paragrafo": 1254
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1255. Para que a graça baptismal possa desenvolver-se, é importante a ajuda dos pais. Esse é também o papel do padrinho ou da madrinha, que devem ser pessoas de fé sólida, capazes e preparados para ajudar o novo baptizado, criança ou adulto, no seu caminho de vida cristã (50). O seu múnus é um verdadeiro ofício eclesial (51). Toda a comunidade eclesial tem uma parte de responsabilidade no desenvolvimento e na defesa da graça recebida no Baptismo.",
+            "paragrafo": 1255
+        },
+        {
+            "tipo": "tópico",
+            "texto": "V. Quem pode baptizar?"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1256. São ministros ordinários do Baptismo o bispo e o presbítero, e, na Igreja latina, também o diácono (52). Em caso de necessidade, qualquer pessoa, mesmo não baptizada, desde que tenha a intenção requerida, pode baptizar utilizando a fórmula baptismal trinitária (53). A intenção requerida é a de querer fazer o que faz a Igreja quando baptiza. A Igreja vê a razão desta possibilidade na vontade salvífica universal de Deus (54) e na necessidade do Baptismo para a salvação (55).",
+            "paragrafo": 1256
+        },
+        {
+            "tipo": "tópico",
+            "texto": "VI. A necessidade do Baptismo"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1257. O próprio Senhor afirma que o Baptismo é necessário para a salvação (56). Por isso, ordenou aos seus discípulos que anunciassem o Evangelho e baptizassem todas as nações (57). O Baptismo é necessário para a salvação de todos aqueles a quem o Evangelho foi anunciado e que tiveram a possibilidade de pedir este sacramento (58). A Igreja não conhece outro meio senão o Baptismo para garantir a entrada na bem-aventurança eterna. Por isso, tem cuidado em não negligenciar a missão que recebeu do Senhor de fazer «renascer da água e do Espírito» todos os que podem ser baptizados. Deus ligou a salvação ao sacramento do Baptismo; mas Ele próprio não está prisioneiro dos seus sacramentos.",
+            "paragrafo": 1257
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1258. Desde sempre, a Igreja tem a firme convicção de que aqueles que sofrem a morte por causa da fé, sem terem recebido o Baptismo, são baptizados pela sua morte por Cristo e com Cristo. Este Baptismo de sangue, tal como o desejo do Baptismo ou Baptismo de desejo, produz os frutos do Baptismo, apesar de não ser sacramento.",
+            "paragrafo": 1258
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1259. Para os catecúmenos que morrem antes do Baptismo, o seu desejo explícito de o receber, unido ao arrependimento dos seus pecados e à caridade, garante-lhes a salvação, que não puderam receber pelo sacramento.",
+            "paragrafo": 1259
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1260. «Com efeito, já que Cristo morreu por todos e a vocação última de todos os homens é realmente uma só, a saber, a divina, devemos manter que o Espírito Santo a todos dá a possibilidade de se associarem a este mistério pascal, por um modo só de Deus conhecido» (59). Todo o homem que, na ignorância do Evangelho de Cristo e da sua Igreja, procura a verdade e faz a vontade de Deus conforme o conhecimento que dela tem, pode salvar-se. Podemos supor que tais pessoas teriam desejado explicitamente o Baptismo se dele tivessem conhecido a necessidade.",
+            "paragrafo": 1260
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1261. Quanto às crianças que morrem sem  Baptismo, a Igreja não pode senão confiá-las à misericórdia de Deus, como o faz no rito do respectivo funeral. De facto, a grande misericórdia de Deus, «que quer que todos os homens se salvem» (1 Tm 2, 4), e a ternura de Jesus para com as crianças, que O levou a dizer: «Deixai vir a Mim as criancinhas, não as estorveis» (Mc 10, 14), permitem-nos esperar que haja um caminho de salvação para as crianças que morrem sem Baptismo. Por isso, é mais premente ainda o apelo da Igreja a que não se impeçam as criancinhas de virem a Cristo, pelo dom do santo Baptismo.",
+            "paragrafo": 1261
+        },
+        {
+            "tipo": "tópico",
+            "texto": "VII. A graça do Baptismo"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1262. Os diferentes efeitos do Baptismo são significados pelos elementos sensíveis do rito sacramental. A imersão na água evoca os simbolismos da morte e da purificação, mas também da regeneração e da renovação. Os dois efeitos principais são, pois, a purificação dos pecados e o novo nascimento no Espírito Santo (60).",
+            "paragrafo": 1262
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "PARA A REMISSÃO DOS PECADOS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1263. Pelo Baptismo todos os pecados são perdoados: o pecado original e todos os pecados pessoais, bem como todas as penas devidas ao pecado (61). Com efeito, naqueles que foram regenerados, nada resta que os possa impedir de entrar no Reino de Deus: nem o pecado de Adão, nem o pecado pessoal, nem as consequências do pecado, das quais a mais grave é a separação de Deus.",
+            "paragrafo": 1263
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1264. No baptizado permanecem, no entanto, certas consequências temporais do pecado, como os sofrimentos, a doença, a morte, ou as fragilidades inerentes à vida, como as fraquezas de carácter, etc., assim como uma inclinação para o pecado a que a Tradição chama concupiscência ou, metaforicamente, a «isca» ou «aguilhão» do pecado («fomes peccati»): «Deixada para os nossos combates, a concupiscência não pode fazer mal àqueles que, não consentindo nela, resistem corajosamente pela graça de Cristo. Bem pelo contrário, \"aquele que tiver combatido segundo as regras será coroado\" (2 Tm 2, 5)» (62).",
+            "paragrafo": 1264
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "«UMA NOVA CRIATURA»"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1265 O Baptismo não somente purifica de todos os pecados, como faz também do neófito «uma nova criatura» (63), um filho adoptivo de Deus (64), tornado «participante da natureza divina» (65), membro de Cristo (66) e co-herdeiro com Ele (67), templo do Espírito Santo (68).",
+            "paragrafo": 1265
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1266. A Santíssima Trindade confere ao baptizado a graça santificante, a graça da justificação, que\n\n– o torna capaz de crer em Deus, esperar n'Ele e O amar, pelas virtudes teologais;\n–  lhe dá o poder de viver e agir sob a moção do Espírito Santo e pelos dons do Espírito Santo;\n– lhe permite crescer no bem, pelas virtudes morais. Assim, todo o organismo da vida sobrenatural do cristão tem a sua raiz no santo Baptismo.",
+            "paragrafo": 1266
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "INCORPORADOS NA IGREJA, CORPO DE CRISTO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1267. O Baptismo faz de nós membros do corpo de Cristo. «Desde então [...], somos nós membros uns dos outros.» (Ef 4, 25). O Baptismo incorpora na Igreja. Das fontes baptismais nasce o único povo de Deus da Nova Aliança, que ultrapassa todos os limites naturais ou humanos das nações, das culturas, das raças e dos sexos: «Por isso é que todos nós fomos baptizados num só Espírito, para formarmos um só corpo» (1 Cor 12, 13).",
+            "paragrafo": 1267
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1268. Os baptizados tornaram-se «pedras vivas» para «a edificação dum edifício espiritual, para um sacerdócio santo» (1 Pe 2, 5). Pelo Baptismo, participam no sacerdócio de Cristo, na sua missão profética e real, são «raça eleita, sacerdócio de reis, nação santa, povo que Deus tornou seu», para anunciar os louvores d'Aquele que os «chamou das trevas à sua luz admirável» (1 Pe 2, 9). O Baptismo confere a participação no sacerdócio comum dos fiéis.",
+            "paragrafo": 1268
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1269. Feito membro da Igreja, o baptizado já não se pertence a si próprio (69) mas Aquele que morreu e ressuscitou por nós (70). A partir daí, é chamado a submeter-se aos outros (71), a servi-los (72) na comunhão da Igreja, a ser «obediente e dócil» aos chefes da Igreja (73) e a considerá-los com respeito e afeição (74). Assim como o Baptismo é fonte de responsabilidade e deveres, assim também o baptizado goza de direitos no seio da Igreja: direito a receber os sacramentos, a ser alimentado com a Palavra de Deus e a ser apoiado com outras ajudas espirituais da Igreja (75).",
+            "paragrafo": 1269
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1270. Os baptizados, «regenerados [pelo Baptismo] para serem filhos de Deus, devem confessar diante dos homens a fé que de Deus receberam por meio da Igreja» e participar na actividade apostólica e missionária do povo de Deus (77).",
+            "paragrafo": 1270
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O VÍNCULO SACRAMENTAL DA UNIDADE DOS CRISTÃOS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1271. O Baptismo constitui o fundamento da comunhão entre todos os cristãos, mesmo com aqueles que ainda não estão em plena comunhão com a Igreja Católica: «Pois aqueles que crêem em Cristo e foram devidamente baptizados, estão numa certa comunhão, embora não perfeita, com a Igreja Católica justificados no Baptismo pela fé, são incorporados em Cristo, e, por isso, com direito se honram com o nome de cristãos e justamente são reconhecidos pelos filhos da Igreja Católica como irmãos no Senhor» (78). «O Baptismo, pois, constitui o vínculo sacramental da unidade vigente entre todos os que por ele foram regenerados» (79).",
+            "paragrafo": 1271
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "UMA MARCA ESPIRITUAL INDELÉVEL..."
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1272. Incorporado em Cristo pelo Baptismo, o baptizado é configurado com Cristo (80). O Baptismo marca o cristão com um selo espiritual indelével («charactere») da sua pertença a Cristo. Esta marca não é apagada por nenhum pecado, embora o pecado impeça o Baptismo de produzir frutos de salvação (81). Ministrado uma vez por todas, o Baptismo não pode ser repetido.",
+            "paragrafo": 1272
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1273. Incorporados na Igreja pelo Baptismo, os fiéis receberam o carácter sacramental que os consagra para o culto religioso cristão (82). O selo baptismal capacita e compromete os cristãos a servir a Deus mediante uma participação viva na santa liturgia da Igreja, e a exercer o seu sacer­dócio baptismal pelo testemunho duma vida santa e duma caridade eficaz  (83).",
+            "paragrafo": 1273
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1274. O «selo do Senhor» («dominicus character») (84) é o selo com que o Espírito Santo nos marcou «para o dia da redenção» (Ef 4, 30) (85). «O Baptismo é, efectivamente, o selo da vida eterna» (86). O fiel que tiver «guardado o selo» até ao fim, quer dizer, que tiver permanecido fiel às exigências do seu Baptismo, poderá partir «marcado pelo sinal da fé» (87), com a fé do seu Baptismo, na expectativa da visão bem-aventurada de Deus – consumação da fé – e na esperança da ressurreição.",
+            "paragrafo": 1274
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1275. A iniciação cristã faz-se pelo conjunto de três sacramentos: o Baptismo, que é o princípio da vida nova; a Confirmação, que é a consolidação da mesma vida; e a Eucaristia, que alimenta o discípulo com o corpo e sangue de Cristo, em vista da sua transformação n'Ele.",
+            "paragrafo": 1275
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1276. «Ide, pois, fazei discípulos de todas as nações, baptizai-os em nome do Pai e do Filho e do Espírito Santo, e ensinai-os a cumprir tudo quanto vos mandei» (Mt 28, 19-20).",
+            "paragrafo": 1276
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1277. O Baptismo constitui o nascimento para a vida nova em Cristo. Segundo a vontade do Senhor; ele é necessário para a salvação, como a própria Igreja, na qual o Baptismo introduz.",
+            "paragrafo": 1277
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1278. O rito essencial do Baptismo consiste em mergulhar na água o candidato ou em derramar água sobre a sua cabeça, pronunciando a invocação da Santíssima Trindade, isto é, do Pai e do Filho e do Espírito Santo.",
+            "paragrafo": 1278
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1279. O fruto do Baptismo ou graça baptismal é uma realidade rica que inclui: a remissão do pecado original e de todos os pecados pessoais; o renascimento para uma vida nova, pela qual o homem se torna filho adoptivo do Pai, membro de Cristo, templo do Espírito Santo. Por esse facto, o baptizado é incorporado na Igreja, corpo de Cristo, e tornado participante do sacerdócio de Cristo.",
+            "paragrafo": 1279
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1280. O Baptismo imprime na alma um sinal espiritual indelével, o carácter; que consagra o baptizado para o culto da religião cristã. Por causa do carácter; o Baptismo não pode ser repetido (88).",
+            "paragrafo": 1280
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1281. Os que sofrem a morte por causa da fé, os catecúmenos e todos aqueles que, sob o impulso da graça, sem conhecerem a Igreja, procuram sinceramente a Deus e se esforçam por cumprir a sua vontade, podem salvar-se, mesmo sem terem recebido o Baptismo (89).",
+            "paragrafo": 1281
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1282. Desde os tempos mais antigos, o Baptismo é administrado às crianças, visto ser uma graça e um dom de Deus que não supõem méritos humanos; as crianças são baptizadas na fé da Igreja. A entrada na vida cristã dá acesso à verdadeira liberdade.",
+            "paragrafo": 1282
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1283. Quanto às crianças que morrem sem Baptismo, a Liturgia da Igreja convida-nos a ter confiança na misericórdia divina e a rezar pela sua salvação.",
+            "paragrafo": 1283
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1284. Em caso de necessidade, qualquer pessoa pode baptizar, desde que tenha a intenção de fazer o que a Igreja faz e derrame água sobre a cabeça do candidato, dizendo: «Eu te baptizo em nome do Pai e do Filho e do Espírito Santo».",
+            "paragrafo": 1284
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 2"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O SACRAMENTO DA CONFIRMAÇÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1285. Com o Baptismo e a Eucaristia, o sacramento da Confirmação constitui o conjunto dos «sacramentos da iniciação cristã», cuja unidade deve ser salvaguardada. Por isso, é preciso explicar aos fiéis que a recepção deste sacramento é necessária para a plenitude da graça baptismal (90). Com efeito, os baptizados «pelo sacramento da Confirmação, são mais perfeitamente vinculados à Igreja, enriquecidos com uma força especial do Espírito Santo e deste modo ficam mais estritamente obrigados a difundir e a defender a fé por palavras e obras, como verdadeiras testemunhas de Cristo» (91).",
+            "paragrafo": 1285
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. A Confirmação na economia da salvação"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1286. No Antigo Testamento, os profetas anunciaram que o Espírito do Senhor repousaria sobre o Messias esperado (92), em vista da sua missão salvífica (93). A descida do Espírito Santo sobre Jesus, aquando do seu baptismo por João, foi o sinal de que era Ele o que havia de vir, de que era o Messias, o Filho de Deus (94). Concebido pelo poder do Espírito Santo, toda a sua vida e toda a sua missão se realizam numa comunhão total com o mesmo Espírito Santo, que o Pai Lhe dá «sem medida» (Jo 3, 34).",
+            "paragrafo": 1286
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1287. Ora, esta plenitude do Espírito não devia permanecer unicamente no Messias: devia ser comunicada a todo o povo messiânico (95). Repetidas vezes, Cristo prometeu esta efusão do Espírito promessa que cumpriu, primeiro no dia de Páscoa (97) e depois, de modo mais esplêndido, no dia de Pentecostes (98). Cheios do Espírito Santo, os Apóstolos começaram a proclamar «as maravilhas de Deus» (Act 2, 11) e Pedro declarou que esta efusão do Espírito era o sinal dos tempos messiânicos (99). Aqueles que então acreditaram na pregação apostólica, e se fizeram baptizar, receberam, por seu turno, o dom do Espírito Santo (100).",
+            "paragrafo": 1287
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1288. «A partir de então, os Apóstolos, para cumprirem a vontade de Cristo, comunicaram aos neófitos, pela imposição das mãos, o dom do Espírito para completar a graça do Baptismo (101). É por isso que, na Epístola aos Hebreus, se menciona, entre os elementos da primeira instrução cristã, a doutrina sobre os Baptismos e também sobre a imposição das mãos (102). A imposição das mãos é justificadamente reconhecida, pela Tradição católica, como a origem do sacramento da Confirmação que, de certo modo, perpetua na Igreja a graça do Pentecostes» (103).",
+            "paragrafo": 1288
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1289. Bem cedo, para melhor significar o dom do Espírito Santo, se acrescentou à imposição das mãos uma unção com óleo perfumado (crisma). Esta unção ilustra o nome de «cristão», que significa «ungido»,e que vai buscar a sua origem ao próprio nome de Cristo, aquele que «Deus ungiu com o Espírito Santo» (Act 10, 38). E este rito da unção mantém-se até aos nossos dias, tanto no Oriente como no Ocidente. É por isso que, no Oriente, este sacramento se chama crismação (= unção do crisma), ou myron, que significa «crisma». No Ocidente, o nome de Confirmação sugere que este sacramento confirma o Baptismo e, ao mesmo tempo, consolida a graça baptismal.",
+            "paragrafo": 1289
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "DUAS TRADIÇÕES: O ORIENTE E O OCIDENTE"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1290. Nos primeiros séculos, a Confirmação constitui geralmente uma única celebração com o Baptismo, formando com ele, segundo a expressão de São Cipriano, um «sacramento duplo» (104). Entre outras razões, a multiplicação dos baptismos de crianças, e isto em qualquer tempo do ano, e a multiplicação das paróquias (rurais), ampliando as dioceses, deixaram de permitir a presença do bispo em todas as celebrações baptismais. No Ocidente, porque se desejava reservar ao bispo o completar do Baptismo, instaurou-se a separação, no tempo, dos dois sacramentos. O Oriente conservou unidos os dois sacramentos, de tal modo que a Confirmação é dada pelo sacerdote que baptiza. Este, no entanto, só o pode fazer com o «myron» consagrado por um bispo (105).",
+            "paragrafo": 1290
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1291. Um costume da Igreja de Roma facilitou a expansão da prática ocidental, graças a uma dupla unção com o santo crisma, depois do baptismo: a unção já feita pelo sacerdote ao neófito ao sair do banho baptismal é completada por uma segunda unção, feita pelo bispo na fronte de cada um dos novos baptizados (106). A primeira unção com o santo crisma, feita pelo sacerdote, ficou ligada ao rito baptismal e significa a participação do baptizado nas funções profética, sacerdotal e real de Cristo. Se o Baptismo é conferido a um adulto, há apenas uma unção pós-baptismal: a da Confirmação.",
+            "paragrafo": 1291
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1292. A prática das Igrejas do Oriente sublinha mais a unidade da iniciação cristã. A da Igreja latina exprime, com maior nitidez, a comunhão do novo cristão com o seu bispo, garante e servidor da unidade da sua Igreja, da sua catolicidade e da sua apostolicidade; e assim, a ligação com as origens apostólicas da Igreja de Cristo.",
+            "paragrafo": 1292
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. Os sinais e o rito da Confirmação"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1293. No rito deste sacramento, convém considerar o sinal da unção e o que essa unção designa e imprime: o selo espiritual.\n\nA unção, na simbologia bíblica e antiga, é rica de numerosas significações: o óleo é sinal de abundância (107) e de alegria (108), purifica (unção antes e depois do banho) e torna ágil (unção dos atletas e lutadores): é sinal de cura, pois suaviza as contusões e as feridas (109) e torna radiante de beleza, saúde e força.",
+            "paragrafo": 1293
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1294. Todos estes significados da unção com óleo se reencontram na vida sacramental. A unção antes do Baptismo, com o óleo dos catecúmenos, significa purificação e fortalecimento; a unção dos enfermos exprime cura e conforto. A unção com o santo crisma depois do Baptismo, na Confirmação e na Ordenação, é sinal duma consagração. Pela Confirmação, os cristãos, quer dizer, os que são ungidos, participam mais na missão de Jesus Cristo e na plenitude do Espírito Santo de que Ele está repleto, a fim de que toda a sua vida espalhe «o bom odor de Cristo» (110)",
+            "paragrafo": 1294
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1295. Por esta unção, o confirmando recebe «a marca», o selo do Espírito Santo. O selo é o símbolo da pessoa (111), sinal da sua autoridade (112), da sua propriedade sobre um objecto (113). Era assim que se marcavam os soldados com o selo do seu chefe e também os escravos com o do seu dono. O selo autentica um acto jurídico (114) ou um documento (115) e, eventualmente, torna-o secreto (116).",
+            "paragrafo": 1295
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1296. O próprio Cristo se declara marcado com o selo do Pai (117). O cristão também está marcado com um selo: «Foi Deus que nos concedeu a unção, nos marcou também com o seu selo e depôs as arras do Espírito em nossos corações» (2 Cor 1, 21-22) (118). Este selo do Espírito Santo marca a pertença total a Cristo, a entrega para sempre ao seu serviço, mas também a promessa da protecção divina na grande prova escatológica (119).",
+            "paragrafo": 1296
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A CELEBRAÇÃO DA CONFIRMAÇÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1297. Um momento importante que precede a celebração da Confirmação, mas que, de certo modo, faz parte dela, é a consagração do santo crisma. É o bispo que, em Quinta-Feira Santa, no decorrer da missa crismal, consagra o santo crisma para toda a sua diocese. Nas Igrejas do Oriente, esta consagração é mesmo reservada ao Patriarca:\n\nA liturgia de Antioquia exprime assim a epiclese da consagração do santo crisma (myron, em grego): «[Pai (...), envia o Teu Espírito Santo] sobre nós e sobre este óleo que está diante de nós e consagra-o, para que seja para todos os que com ele forem ungidos e marcados, myron santo, myron sacerdotal, myron real, unção de alegria, a veste da luz, o manto da salvação, o dom espiritual, a santificação das almas e dos corpos, a felicidade imperecível, o selo indelével, o escudo da fé, o capacete invencível contra todas as obras do Adversário» (120).",
+            "paragrafo": 1297
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1298. Quando a Confirmação é celebrada separadamente do Baptismo, como acontece no rito romano, a Liturgia do sacramento começa pela renovação das promessas do Baptismo e pela profissão de fé dos confirmandos. Assim se evidencia claramente que a Confirmação se situa na continuação do Baptismo (121). No caso do Baptismo dum adulto, este recebe imediatamente a Confirmação e participa na Eucaristia (122).",
+            "paragrafo": 1298
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1299. No rito romano, o bispo estende as mãos sobre o grupo dos confirmandos, gesto que, desde o tempo dos Apóstolos, é sinal do dom do Espírito. E o bispo invoca assim a efusão do Espírito:\n\n«Deus todo-poderoso, Pai de nosso Senhor Jesus Cristo, que, pela água e pelo Espírito Santo, destes uma vida nova a estes vossos servos e os libertastes do pecado, enviai sobre eles o Espírito Santo Paráclito; dai-lhes, Senhor, o espírito de sabedoria e de inteligência, o espírito de conselho e de fortaleza, o espírito de ciência e de piedade, e enchei-os do espírito do vosso temor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus convosco na unidade do Espírito Santo» (123).",
+            "paragrafo": 1299
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1300. Segue-se o rito essencial do sacramento. No rito latino, «o sacramento da Confirmação é conferido pela unção do santo crisma sobre a fronte, feita com a imposição da mão, e por estas palavras: «Accipe signaculum doni Spiritus Sancti – Recebe por este sinal o Espírito Santo, o Dom de Deus» (124). Nas Igrejas orientais de rito bizantino, a unção do myron faz-se depois duma oração de epiclese, sobre as partes mais significativas do corpo: a fronte, os olhos, o nariz, os ouvidos, os lábios, o peito, as costas, as mãos e os pés, sendo cada unção acompanhada da fórmula: «Σφραγίζ δωραζ Πυεύματζ Άγίoυ» («Signaculum doni Spiritus Sancti – Selo do dom que é o Espírito Santo» ) (125).",
+            "paragrafo": 1300
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1301. O ósculo da paz, com que termina o rito do sacramento, significa e manifesta a comunhão eclesial com o bispo e com todos os fiéis (126).",
+            "paragrafo": 1301
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. Os efeitos da Confirmação"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1302. Ressalta desta celebração que o efeito do sacramento da Confirmação é uma efusão especial do Espírito Santo, tal como outrora foi concedida aos Apóstolos, no dia de Pentecostes.",
+            "paragrafo": 1302
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1303. Por esse facto, a Confirmação proporciona crescimento e aprofundamento da graça baptismal:\n\n– enraíza-nos mais profundamente na filiação divina, que nos leva a dizer « Abba! Pai!» (Rm 8, 15);\n–  une-nos mais firmemente a Cristo;\n– aumenta em nós os dons do Espírito Santo;\n– torna mais perfeito o laço que nos une à Igreja (127);\n– dá-nos uma força especial do Espírito Santo para propagarmos e defendermos a fé, pela palavra e pela acção, como verdadeiras testemunhas de Cristo, para confessarmos com valentia o nome de Cristo, e para nunca nos envergonharmos da cruz (128):\n\n«Lembra-te, pois, de que recebeste o sinal espiritual, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de ciência e de piedade, o espírito do santo temor, e guarda o que recebeste. Deus Pai marcou-te com o seu sinal, o Senhor Jesus Cristo confirmou-te e pôs no teu coração o penhor do Espírito» (129).",
+            "paragrafo": 1303
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1304. Tal como o Baptismo, de que é a consumação, a Confirmação é dada uma só vez. Com efeito, a Confirmação imprime na alma uma marca espiritual indelével, o «carácter» (130), que é sinal de que Jesus Cristo marcou um cristão com o selo do seu Espírito, revestindo-o da fortaleza do Alto, para que seja sua testemunha (131).",
+            "paragrafo": 1304
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1305. O «carácter» aperfeiçoa o sacerdócio comum dos fiéis, recebido no Baptismo, e «o confirmado recebe a força de confessar a fé de Cristo publicamente e como em virtude dum encargo oficial (quasi ex officio)» (132).",
+            "paragrafo": 1305
+        },
+        {
+            "tipo": "tópico",
+            "texto": "IV. Quem pode receber este sacramento?"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1306. Todo o baptizado ainda não confirmado pode e deve receber o sacramento da Confirmação (133). Uma vez que Baptismo, Confirmação e Eucaristia formam uma unidade, segue-se que «os fiéis têm obrigação de receber este sacramento no tempo devido» (134), porque, sem a Confirmação e a Eucaristia, o sacramento do Baptismo é, sem dúvida, válido e eficaz, mas a iniciação cristã fica incompleta.",
+            "paragrafo": 1306
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1307. O costume latino, desde há séculos, aponta «a idade da discrição» como ponta de referência para se receber a Confirmação. Em perigo de morte, porém, devem confirmar-se as crianças, mesmo que ainda não tenham atingido a idade da discrição (135).",
+            "paragrafo": 1307
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1308. Se por vezes se fala da Confirmação como «sacramento da maturidade cristã», não deve, no entanto, confundir-se a idade adulta da fé com a idade adulta do crescimento natural, nem esquecer-se que a graça baptismal é uma graça de eleição gratuita e imerecida, que não precisa duma «ratificação» para se tornar efectiva. São Tomás recorda isso mesmo:\n\n«A idade do corpo não constitui um prejuízo para a alma. Por isso, mesmo na infância, o homem pode receber a perfeição da idade espiritual de que fala a Sabedoria (4, 8): «A velhice honrada não é a que dão os longos dias, nem se avalia pelo número dos anos». E foi assim que muitas crianças, graças à fortaleza do Espírito Santo que tinham recebido, lutaram corajosamente e até ao sangue por Cristo» (136).",
+            "paragrafo": 1308
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1309. A preparação para a Confirmação deve ter por fim conduzir o cristão a uma união mais íntima com Cristo e a uma familiaridade mais viva com o Espírito Santo, com a sua acção, os seus dons e os seus apelos, para melhor assumir as responsabilidades apostólicas da vida cristã. Desse modo, a catequese da Confirmação deve esforçar-se por despertar o sentido de pertença à Igreja de Jesus Cristo, tanto à Igreja universal como à comunidade paroquial. Esta última tem uma responsabilidade particular na preparação dos confirmandos (137).",
+            "paragrafo": 1309
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1310. Para receber a Confirmação é preciso estar em estado de graça. Convém recorrer ao sacramento da Penitência para ser purificado, em vista do dom do Espírito Santo. E uma oração mais intensa deve preparar para receber com docilidade e disponibilidade a força e as graças do Espírito Santo (138).",
+            "paragrafo": 1310
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1311. Tanto para a Confirmação, como para o Baptismo, convém que os candidatos procurem a ajuda espiritual dum padrinho ou de uma madrinha. É conveniente que seja o mesmo do Baptismo, para marcar bem a unidade dos dois sacramentos (139).",
+            "paragrafo": 1311
+        },
+        {
+            "tipo": "tópico",
+            "texto": "V. O ministro da Confirmação"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1312. O ministro originário da Confirmação é o bispo (140).\n\nNo Oriente, é ordinariamente o sacerdote que baptiza quem imediatamente confere a Confirmação, numa só e mesma celebração. Fá-lo, no entanto, com o santo crisma consagrado pelo patriarca ou pelo bispo, o que exprime a unidade apostólica da Igreja, cujos laços são reforçados pelo sacramento da Confirmação. Na Igreja latina aplica-se a mesma disciplina nos baptismos de adultos ou quando é admitido à plena comunhão com a Igreja um baptizado de outra comunidade cristã, que não tenha recebido validamente o sacramento da Confirmação (141).",
+            "paragrafo": 1312
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1313. No rito latino, o ministro ordinário da Confirmação é o bispo (142). Mesmo que o bispo possa, em caso de necessidade, conceder a presbíteros a faculdade de administrar a Confirmação (143), é conveniente que seja ele mesmo a conferi-la, não se esquecendo de que foi por esse motivo que a celebração da Confirmação foi separada, no tempo, da do Baptismo. Os bispos são os sucessores dos Apóstolos e receberam a plenitude do sacramento da Ordem. A administração deste sacramento feita por eles, realça que ele tem como efeito unir mais estreitamente aqueles que o recebem à Igreja, às suas origens apostólicas e à sua missão de dar testemunho de Cristo.",
+            "paragrafo": 1313
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1314. Se um cristão estiver em perigo de morte, qualquer sacerdote pode conferir-lhe a Confirmação (144). De facto, é vontade da Igreja que nenhum dos seus filhos, mesmo pequenino, parta deste mundo sem ter sido levado à perfeição pelo Espírito Santo com o dom da plenitude de Cristo.",
+            "paragrafo": 1314
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1315. «Quando os Apóstolos que estavam em Jerusalém ouviram dizer que a Samaria recebera a Palavra de Deus, enviaram-lhe Pedro e João. Quando chegaram lá, rezaram pelos samaritanos para que recebessem o Espírito Santo, que ainda não tinha descido sobre eles. Apenas tinham sido baptizados em nome do Senhor Jesus. Então impunham-lhes as mãos e eles recebiam o Espírito Santo» (Act 8, 14-17).",
+            "paragrafo": 1315
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1316. A Confirmação completa a graça baptismal; ela é o sacramento que dá o Espírito Santo, para nos enraizar mais profundamente na filiação divina, incorporar-nos mais solidamente em Cristo, tornar mais firme o laço que nos prende à Igreja, associar-nos mais à sua missão e ajudar-nos a dar testemunho da fé cristã pela palavra, acompanhada de obras.",
+            "paragrafo": 1316
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1317. A Confirmação, tal como o Baptismo, imprime na alma do cristão um sinal espiritual ou carácter indelével; é por isso que só se pode receber este sacramento uma vez na vida.",
+            "paragrafo": 1317
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1318. No Oriente, este sacramento é administrado imediatamente a seguir ao Baptismo e é seguido da participação na Eucaristia; esta tradição põe em relevo a unidade dos três sacramentos da iniciação cristã. Na Igreja latina, este sacramento é administrado quando se atinge a idade da razão e ordinariamente a sua celebração é reservada ao bispo, significando assim que este sacramento vem robustecer o vínculo eclesial.",
+            "paragrafo": 1318
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1319. O candidato à Confirmação, que atingiu a idade da razão, deve professar a fé, estar em estado de graça, ter a intenção de receber o sacramento e estar preparado para assumir o seu papel de discípulo e testemunha de Cristo, na comunidade eclesial e nos assuntos temporais.",
+            "paragrafo": 1319
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1320. O rito essencial da Confirmação é a unção com o santo crisma na fronte do baptizado (no Oriente também em outros órgãos dos sentidos), com a imposição da mão do ministro e as palavras: «Accipe signaculum doni Spiritus Sancti – Recebe por este sinal o Espírito Santo, o Dom de Deus» (no rito Romano) ou: «Signaculum doni Spiritus Sancti – Selo do dom que é o Espírito Santo» (no rito Bizantino).",
+            "paragrafo": 1320
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1321. Quando a Confirmação é celebrada separadamente do Baptismo, a sua ligação com este sacramento é expressa, entre outras coisas, pela renovação dos compromissos baptismais. A celebração da Confirmação no decorrer da Eucaristia contribui para sublinhar a unidade dos sacramentos da iniciação cristã.",
+            "paragrafo": 1321
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "ARTIGO 3"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "O SACRAMENTO DA EUCARISTIA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1322. A sagrada Eucaristia completa a iniciação cristã. Aqueles que foram elevados à dignidade do sacerdócio real pelo Baptismo e configurados mais profundamente com Cristo pela Confirmação, esses, por meio da Eucaristia, participam, com toda a comunidade, no próprio sacrifício do Senhor.",
+            "paragrafo": 1322
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1323. «O nosso Salvador instituiu na última ceia, na noite em que foi entregue, o sacrifício eucarístico do seu corpo e sangue, para perpetuar pelo decorrer dos séculos, até voltar, o sacrifício da cruz, confiando à Igreja, sua esposa amada, o memorial da sua morte e ressurreição: sacramento de piedade, sinal de unidade, vínculo de caridade, banquete pascal em que se recebe Cristo, a alma se enche de graça e nos é dado o penhor da glória futura» (145).",
+            "paragrafo": 1323
+        },
+        {
+            "tipo": "tópico",
+            "texto": "I. A Eucaristia – fonte e cume da vida eclesial"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1324. A Eucaristia é «fonte e cume de toda a vida cristã» (146). «Os restantes sacramentos, assim como todos os ministérios eclesiásticos e obras de apostolado, estão vinculados com a sagrada Eucaristia e a ela se ordenam. Com efeito, na santíssima Eucaristia está contido todo o tesouro espiritual da Igreja, isto é, o próprio Cristo, nossa Páscoa» (147).",
+            "paragrafo": 1324
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1325. «A comunhão de vida com Deus e a unidade do povo de Deus, pelas quais a Igreja é o que é, são significados e realizados pela Eucaristia. Nela se encontra o cume, ao mesmo tempo, da acção pela qual Deus, em Cristo, santifica o mundo, e do culto que no Espírito Santo os homens prestam a Cristo e, por Ele, ao Pai» (148).",
+            "paragrafo": 1325
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1326. Enfim, pela celebração eucarística, unimo-nos desde já à Liturgia do céu e antecipamos a vida eterna, quando «Deus for tudo em todos» (1 Cor 15, 18 ).",
+            "paragrafo": 1326
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1327. Em síntese, a Eucaristia é o resumo e a súmula da nossa fé: «A nossa maneira de pensar está de acordo com a Eucaristia: e, por sua vez, a Eucaristia confirma a nossa maneira de pensar» (149).",
+            "paragrafo": 1327
+        },
+        {
+            "tipo": "tópico",
+            "texto": "II. Como se chama este sacramento?"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1328. A riqueza inesgotável deste sacramento exprime-se nos diferentes nomes que lhe são dados. Cada um destes nomes evoca alguns dos seus aspectos. Chama-se:\nEucaristia, porque é acção de graças a Deus. As palavras« eucharistein» (Lc 22, 19; 1 Cor 11, 24) e «eulogein» (Mt 26, 26; Mc 14, 22) lembram as bênçãos judaicas que proclamam – sobretudo durante a refeição – as obras de Deus: a criação, a redenção e a santificação.",
+            "paragrafo": 1328
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1329. Ceia do Senhor (150), porque se trata da ceia que o Senhor comeu com os discípulos na véspera da sua paixão e da antecipação do banquete nupcial do Cordeiro (151) na Jerusalém celeste.\n\nFracção do Pão, porque este rito, próprio da refeição dos judeus, foi utilizado por Jesus quando abençoava e distribuía o pão como chefe de família (152), sobretudo aquando da última ceia (153) . É por este gesto que os discípulos O reconhecerão depois da sua ressurreição (154) e é com esta expressão que os primeiros cristãos designarão as suas assembleias eucarísticas (155). Querem com isso significar que todos os que comem do único pão partido, Cristo, entram em comunhão com Ele e formam um só corpo n'Ele (156).\n\nAssembleia eucarística («sýnaxis»), porque a Eucaristia é celebrada em assembleia de fiéis, expressão visível da Igreja (157).",
+            "paragrafo": 1329
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1330. Memorial da paixão e ressurreição do Senhor.\n\nSanto Sacrifício, porque actualiza o único sacrifício de Cristo Salvador e inclui a oferenda da Igreja; ou ainda santo Sacrifício da Missa, «Sacrifício de louvor» (Heb 13, 15) (158), Sacrifício espiritual (159) Sacrifício puro (160) e santo, pois completa e ultrapassa todos os sacrifícios da Antiga Aliança.\n\nSanta e divina Liturgia, porque toda a liturgia da Igreja encontra o seu centro e a sua expressão mais densa na celebração deste sacramento; no mesmo sentido se lhe chama também celebração dos Santos Mistérios. Fala-se igualmente do Santíssimo Sacramento, porque é o sacramento dos sacramentos. E, com este nome, se designam as espécies eucarísticas guardadas no sacrário.",
+            "paragrafo": 1330
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1331. Comunhão, pois é por este sacramento que nos unimos a Cristo, o qual nos torna participantes do seu corpo e do seu sangue, para formarmos um só corpo (161); chama-se ainda as coisas santas («tà hágia»; «sancta») (162) – é o sentido primário da «comunhão dos santos» de que fala o Símbolo dos Apóstolos – , pão dos anjos, pão do céu, remédio da imortalidade (163), viático...",
+            "paragrafo": 1331
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1332. Santa Missa, porque a liturgia em que se realiza o mistério da salvação termina com o envio dos fiéis («missio»), para que vão cumprir a vontade de Deus na sua vida quotidiana.",
+            "paragrafo": 1332
+        },
+        {
+            "tipo": "tópico",
+            "texto": "III. A Eucaristia na economia da salvação"
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "OS SINAIS DO PÃO E DO VINHO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1333. No centro da celebração da Eucaristia temos o pão e o vinho que, pelas palavras de Cristo e pela invocação do Espírito Santo, se tornam o corpo e o sangue do mesmo Cristo. Fiel à ordem do Senhor, a Igreja continua a fazer, em memória d'Ele e até à sua vinda gloriosa, o que Ele fez na véspera da sua paixão: «Tomou o pão...», «Tomou o cálice com vinho...». Tornando-se misteriosamente o corpo e o sangue de Cristo, os sinais do pão e do vinho continuam a significar também a bondade da criação. Por isso, no ofertório [apresentação das oferendas], nós damos graças ao Criador pelo pão e pelo vinho (164), fruto «do trabalho do homem», mas primeiramente «fruto da terra» e «da videira», dons do Criador. A Igreja vê no gesto de Melquisedec, rei e sacerdote, que «ofereceu pão e vinho» (Gn 14, 18), uma prefiguração da sua própria oferenda (165).",
+            "paragrafo": 1333
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1334. Na Antiga Aliança, o pão e o vinho são oferecidos em sacrifício entre as primícias da terra, em sinal de reconhecimento ao Criador. Mas também recebem uma nova significação no contexto do Êxodo: os pães ázimos que Israel come todos os anos na Páscoa, comemoram a pressa da partida libertadora do Egipto; a lembrança do maná do deserto recordará sempre a Israel que é do pão da Palavra de Deus que ele vive (166). Finalmente, o pão de cada dia é o fruto da terra prometida, penhor da fidelidade de Deus às suas promessas. O «cálice de bênção» (1 Cor 10, 16), no fim da ceia pascal dos judeus, acrescenta à alegria festiva do vinho uma dimensão escatológica – a da expectativa messiânica do restabelecimento de Jerusalém. Jesus instituiu a sua Eucaristia dando um sentido novo e definitivo à bênção do pão e do cálice.",
+            "paragrafo": 1334
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1335. Os milagres da multiplicação dos pães, quando o Senhor disse a bênção, partiu e distribuiu os pães pelos seus discípulos para alimentar a multidão, prefiguram a superabundância deste pão único da sua Eucaristia (167). O sinal da água transformada em vinho em Caná (168) já anuncia a «Hora» da glorificação de Jesus. E manifesta o cumprimento do banquete das núpcias no Reino do Pai, onde os fiéis beberão do vinho novo (169) tornado sangue de Cristo.",
+            "paragrafo": 1335
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1336. O primeiro anúncio da Eucaristia dividiu os discípulos, tal como o anúncio da paixão os escandalizou: «Estas palavras são insuportáveis! Quem as pode escutar?» (Jo 6, 60). A Eucaristia e a cruz são pedras de tropeço. É o mesmo mistério e não cessa de ser ocasião de divisão. «Também vos quereis ir embora?» (Jo 6, 67): esta pergunta do Senhor ecoa através dos tempos, como convite do seu amor a descobrir que só Ele tem «palavras de vida eterna» (Jo 6, 68) e que acolher na fé o dom da sua Eucaristia é acolhê-1'O a Ele próprio.",
+            "paragrafo": 1336
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A INSTITUIÇÃO DA EUCARISTIA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1337. Tendo amado os seus, o Senhor amou-os até ao fim. Sabendo que era chegada a hora de partir deste mundo para regressar ao Pai, no decorrer duma refeição, lavou-lhes os pés e deu-lhes o mandamento do amor (170). Para lhes deixar uma garantia deste amor, para jamais se afastar dos seus e para os tornar participantes da sua Páscoa, instituiu a Eucaristia como memorial da sua morte e da sua ressurreição, e ordenou aos seus Apóstolos que a celebrassem até ao seu regresso, «constituindo-os, então, sacerdotes do Novo Testamento» (171).",
+            "paragrafo": 1337
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1338. Os três evangelhos sinópticos e São Paulo transmitiram-nos a narração da instituição da Eucaristia. Por seu lado, São João refere as palavras de Jesus na sinagoga de Cafarnaum, palavras que preparam a instituição da Eucaristia: Cristo designa-se a si próprio como o pão da vida, descido do céu (172).",
+            "paragrafo": 1338
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1339. Jesus escolheu a altura da Páscoa para cumprir o que tinha anunciado em Cafarnaum: dar aos seus discípulos o seu corpo e o seu sangue:\n\n«Veio o dia dos Ázimos, em que devia imolar-se a Páscoa. [Jesus] enviou então a Pedro e a João, dizendo: \"Ide preparar-nos a Páscoa, para que a possamos comer\" [...]. Partiram pois, [...] e prepararam a Páscoa. Ao chegar a hora, Jesus tomou lugar à mesa, e os Apóstolos com Ele. Disse-lhes então: \"Tenho desejado ardentemente comer convosco esta Páscoa, antes de padecer. Pois vos digo que não voltarei a comê-la, até que ela se realize plenamente no Reino de Deus\". [...] Depois, tomou o pão e, dando graças, partiu-o, deu-lho e disse-lhes: \"Isto é o Meu corpo, que vai ser entregue por vós. Fazei isto em memória de Mim\". No fim da ceia, fez o mesmo com o cálice e disse: \"Este cálice é a Nova Aliança no meu sangue, que vai ser derramado por vós\"» (Lc 22, 7-20) (173).",
+            "paragrafo": 1339
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1340. Celebrando a última ceia com os seus Apóstolos, no decorrer do banquete pascal, Jesus deu o seu sentido definitivo à Páscoa judaica. Com efeito, a passagem de Jesus para o seu Pai, pela sua morte e ressurreição – a Páscoa nova – é antecipada na ceia e celebrada na Eucaristia, que dá cumprimento a Páscoa judaica e antecipa a Páscoa final da Igreja na glória do Reino.",
+            "paragrafo": 1340
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "«FAZEI ISTO EM MEMÓRIA DE MIM»"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1341. Ao ordenar que repetissem os seus gestos e palavras, «até que Ele venha» (1 Cor 11, 26), Jesus não pede somente que se lembrem d'Ele e do que Ele fez. Tem em vista a celebração litúrgica, pelos apóstolos e seus sucessores, do memorial de Cristo, da sua vida, morte, ressurreição e da sua intercessão junto do Pai.",
+            "paragrafo": 1341
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1342. Desde o princípio, a Igreja foi fiel à ordem do Senhor. Da Igreja de Jerusalém está escrito:\n\n«Eram assíduos ao ensino dos Apóstolos, à união fraterna, à fracção do pão e às orações. [...] Todos os dias frequentavam o templo, como se tivessem uma só alma, e partiam o pão em suas casas; tomavam o alimento com alegria e simplicidade de coração» (Act 2, 42.46).",
+            "paragrafo": 1342
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1343. Era sobretudo «no primeiro dia da semana», isto é, no dia de domingo, dia da ressurreição de Jesus, que os cristãos se reuniam «para partir o pão» (Act 20, 7). Desde esses tempos até aos nossos dias, a celebração da Eucaristia perpetuou-se, de maneira que hoje a encontramos em toda a parte na Igreja com a mesma estrutura fundamental. Ela continua a ser o centro da vida da Igreja.",
+            "paragrafo": 1343
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1344. Assim, de celebração em celebração, anunciando o mistério pascal de Jesus «até que Ele venha» (1Cor 11, 26), o Povo de Deus em peregrinação «avança pela porta estreita da cruz» (174) para o banquete celeste, em que todos os eleitos se sentarão à mesa do Reino.",
+            "paragrafo": 1344
+        },
+        {
+            "tipo": "tópico",
+            "texto": "IV. A celebração litúrgica da Eucaristia"
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A MISSA DE TODOS OS SÉCULOS"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1345. Desde o século II, temos o testemunho de São Justino, mártir, sobre as grandes linhas do desenrolar da celebração eucarística. Permaneceram as mesmas até aos nossos dias, em todas as grandes famílias litúrgicas. Eis o que ele escreve, cerca do ano 155, para explicar ao imperador pagão Antonino Pio (138-161) o que fazem os cristãos:\n\n«No dia que chamam Dia do Sol, realiza-se a reunião num mesmo lugar de todos os que habitam a cidade ou o campo.\nLêem-se as memórias dos Apóstolos e os escritos dos Profetas, tanto quanto o tempo o permite.\nQuando o leitor acabou, aquele que preside toma a palavra para incitar e exortar à imitação dessas belas coisas.\nEm seguida, levantamo-nos todos juntamente e fazemos orações» (175) «por nós mesmos [...] e por todos os outros, [...] onde quer que estejam, para que sejamos encontrados justos por nossa vida e acções, e fiéis aos mandamentos, e assim obtenhamos a salvação eterna.\nTerminadas as orações, damo-nos um ósculo uns aos outros.\nDepois, apresenta-se àquele que preside aos irmãos pão e uma taça de água e vinho misturados.\nEle toma-os e faz subir louvor e glória ao Pai do universo, pelo nome do Filho e do Espírito Santo, e dá graças (em grego: eucharistian) longamente, por termos sido julgados dignos destes dons.\nQuando ele termina as orações e acções de graças, todo o povo presente aclama: Ámen.\n[...] Depois de aquele que preside ter feito a acção de graças e de o povo ter respondido, aqueles a que entre nós chamamos diáconos distribuem a todos os que estão presentes pão, vinho e água \"eucaristizados\" e também os levam aos ausentes» (176).",
+            "paragrafo": 1345
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1346.  A liturgia eucarística processa-se em conformidade com uma estrutura fundamental, que se tem conservado através dos séculos até aos nossos dias. Desdobra-se em dois grandes momentos, que formam basicamente uma unidade:\n\n– a reunião, a liturgia da Palavra, com as leituras, a homilia e a oração universal;\n– a liturgia eucarística, com a apresentação do pão e do vinho, a acção de graças consecratória e a comunhão.\n\nLiturgia da Palavra e liturgia eucarística constituem juntas \"um  só e mesmo acto de culto\" (177). Com efeito, a mesa posta para nós na Eucaristia é, ao mesmo tempo, a da Palavra de Deus e a do corpo do Senhor (178).",
+            "paragrafo": 1346
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1347. Não é esse também o dinamismo da refeição pascal de Jesus Ressuscitado com os seus discípulos? Enquanto caminhavam, Ele explicava-lhes as Escrituras; depois, pondo-Se à mesa com eles, «tomou o pão, proferiu a bênção, partiu-o e deu-lho» (179).",
+            "paragrafo": 1347
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O DESENROLAR DA CELEBRAÇÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1348. Todos se reúnem. Os cristãos acorrem a um mesmo lugar para a assembleia eucarística. A sua cabeça está o próprio Cristo, que é o actor principal da Eucaristia. Ele é o Sumo-Sacerdote da Nova Aliança. É Ele próprio que preside invisivelmente a toda a celebração eucarística. E é em representação d'Ele (agindo «in persona Christi capitis – na pessoa de Cristo-Cabeça»), que o bispo ou o presbítero preside à assembleia, toma a palavra depois das leituras, recebe as oferendas e diz a oração eucarística. Todos têm a sua parte activa na celebração, cada qual a seu modo: os leitores, os que trazem as oferendas, os que distribuem a comunhão e todo o povo cujo Ámen manifesta a participação.",
+            "paragrafo": 1348
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1349. A liturgia da Palavra comporta «os escritos dos Profetas», quer dizer, o Antigo Testamento, e «as Memórias dos Apóstolos» ou seja, as suas epístolas e os evangelhos. Depois da homilia, que é uma exortação a acolher esta Palavra como o que ela é na realidade, Palavra de Deus(180), e a pô-la em prática, vêm as intercessões por todos os homens, segundo a palavra do Apóstolo: «Recomendo, antes de tudo, que se façam preces, orações, súplicas e acções de graças, por todos os homens, pelos reis e por todos os que exercem autoridade» (1 Tm 2, 1-2).",
+            "paragrafo": 1349
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1350. A apresentação das oferendas (ofertório): traz-se então para o altar, por vezes processionalmente, o pão e o vinho que vão ser oferecidos pelo sacerdote em nome de Cristo no sacrifício eucarístico, no qual se tornarão o seu corpo e o seu sangue. É precisamente o mesmo gesto que Cristo fez na última ceia, «tomando o pão e o cálice». «Só a Igreja oferece esta oblação pura ao Criador, oferecendo-Lhe em acção de graças o que provém da sua criação» (181). A apresentação das oferendas no altar assume o gesto de Melquisedec e põe os dons do Criador nas mãos de Cristo. É Ele que, no seu sacrifício, leva à perfeição todas as tentativas humanas de oferecer sacrifícios.",
+            "paragrafo": 1350
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1351. Desde o princípio, com o pão e o vinho para a Eucaristia, os cristãos trazem as suas ofertas para a partilha com os necessitados. Este costume, sempre actual, da colecta (182) inspira-se no exemplo de Cristo, que Se fez pobre para nos enriquecer (183):\n\n«Os que são ricos e querem, dão, cada um conforme o que a si mesmo se impôs; o que se recolhe é entregue àquele que preside e ele, por seu turno, presta assistência aos órfãos, às viúvas, àqueles que a doença ou qualquer outra causa priva de recursos, aos prisioneiros, aos imigrantes, numa palavra, a todos os que sofrem necessidade» (184).",
+            "paragrafo": 1351
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1352. A anáfora: Com a oração eucarística, oração de acção de graças e de consagração, chegamos ao coração e cume da celebração:\n\nno prefácio, a Igreja dá graças ao Pai, por Cristo, no Espírito Santo, por todas as suas obras: pela criação, redenção e santificação. Toda a comunidade une, então, as suas vozes àquele louvor incessante que a Igreja celeste – os anjos e todos os santos – cantam ao Deus três vezes Santo:",
+            "paragrafo": 1352
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1353. na epiclese, pede ao Pai que envie o seu Espírito Santo (ou o poder da sua bênção)(185)sobre o pão e o vinho, para que se tornem, pelo seu poder, o corpo e o sangue de Jesus Cristo, e para que os que participam na Eucaristia sejam um só corpo e um só espírito. (Algumas tradições litúrgicas colocam a epiclese depois da anamnese);\n\nna narração da instituição, a força das palavras e da acção de Cristo e o poder do Espírito Santo tomam sacramentalmente presentes, sob as espécies do pão e do vinho, o corpo e o sangue do mesmo Cristo, o seu sacrifício oferecido na cruz de uma vez por todas;",
+            "paragrafo": 1353
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1354. na anamnese que se segue, a Igreja faz memória da paixão, ressurreição e regresso glorioso de Cristo Jesus: e apresenta ao Pai a oferenda do seu Filho, que nos reconcilia com Ele:\n\nnas intercessões, a Igreja manifesta que a Eucaristia é celebrada em comunhão com toda a Igreja do céu e da terra, dos vivos e dos defuntos, e na comunhão com os pastores da Igreja: o Papa, o bispo da diocese, o seu presbitério e os seus diáconos, e todos os bispos do mundo inteiro com as suas Igrejas.",
+            "paragrafo": 1354
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1355. Na comunhão, precedida da Oração do Senhor e da fracção do pão, os fiéis recebem «o pão do céu» e «o cálice da salvação», o corpo e o sangue de Cristo, que Se entregou «para a vida do mundo» (Jo 6, 51):\n\nPorque este pão e este vinho foram, segundo a expressão antiga, «eucaristizados» (186), «chamamos a este alimento Eucaristia; e ninguém pode tomar parte nela se não acreditar na verdade do que entre nós se ensina, se não recebeu o banho para a remissão dos pecados e o novo nascimento e se não viver segundo os preceitos de Cristo» (187).",
+            "paragrafo": 1355
+        },
+        {
+            "tipo": "tópico",
+            "texto": "V. O sacrifício sacramental: acção de graças, memorial, presença"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1356. Se os cristãos celebram a Eucaristia desde as origens e sob uma forma que, na sua substância não mudou através da grande diversidade dos tempos e das liturgias, é porque sabem que estão ligados pela ordem do Senhor, dada na véspera da sua paixão: «Fazei isto em memória de Mim» (1 Cor 11, 24-25).",
+            "paragrafo": 1356
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1357. Esta ordem do Senhor, cumprimo-la celebrando o memorial do seu sacrifício. E fazendo-o, oferecemos ao Pai o que Ele próprio nos deu: os dons da sua criação, o pão e o vinho, transformados, pelo poder do Espírito Santo e pelas palavras de Cristo, no corpo e no sangue do mesmo Cristo: assim Cristo torna-se real e misteriosamente presente.",
+            "paragrafo": 1357
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1358. Temos, pois, de considerar a Eucaristia\n\n– como acção de graças e louvor ao Pai,\n– como memorial sacrificial de Cristo e do Seu corpo,\n– como presença de Cristo pelo poder da sua Palavra e do seu Espírito.",
+            "paragrafo": 1358
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A ACÇÃO DE GRAÇAS E O LOUVOR AO PAI"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1359. A Eucaristia, sacramento da nossa salvação realizada por Cristo na cruz, é também um sacrifício de louvor em acção de graças pela obra da criação. No sacrifício eucarístico, toda a criação, amada por Deus, é apresentada ao Pai, através da morte e ressurreição de Cristo. Por Cristo, a Igreja pode oferecer o sacrifício de louvor em acção de graças por tudo o que Deus fez de bom, belo e justo, na criação e na humanidade.",
+            "paragrafo": 1359
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1360. A Eucaristia é um sacrifício de acção de graças ao Pai, uma bênção pela qual a Igreja exprime o seu reconhecimento a Deus por todos os seus benefícios, por tudo o que Ele fez mediante a criação, a redenção e a santificação. Eucaristia significa, antes de mais, «acção de graças».",
+            "paragrafo": 1360
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1361. A Eucaristia é também o sacrifício de louvor, pelo qual a Igreja canta a glória de Deus em nome de toda a criação. Este sacrifício de louvor só é possível através de Cristo: Ele une os fiéis à sua pessoa, ao seu louvor e à sua intercessão, de maneira que o sacrifício de louvor ao Pai ë oferecido por Cristo e com Cristo, para ser aceite em Cristo.",
+            "paragrafo": 1361
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "O MEMORIAL SACRIFICIAL DE CRISTO E DO SEU CORPO, A IGREJA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1362. A Eucaristia é o memorial da Páscoa de Cristo, a actualização e a oferenda sacramental do seu único sacrifício, na liturgia da Igreja que é o seu corpo. Em todas as orações eucarísticas encontramos, depois das palavras da instituição, uma oração chamada anamnese ou memorial.",
+            "paragrafo": 1362
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1363. No sentido que lhe dá a Sagrada Escritura, o memorial não é somente a lembrança dos acontecimentos do passado, mas a proclamação das maravilhas que Deus fez pelos homens (188). Na celebração litúrgica destes acontecimentos, eles tomam-se de certo modo presentes e actuais. É assim que Israel entende a sua libertação do Egipto: sempre que se celebrar a Páscoa, os acontecimentos do Êxodo tornam-se presentes à memória dos crentes, para que conformem com eles a sua vida.",
+            "paragrafo": 1363
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1364. O memorial recebe um sentido novo no Novo Testamento. Quando a Igreja celebra a Eucaristia, faz memória da Páscoa de Cristo, e esta torna-se presente: o sacrifício que Cristo ofereceu na cruz uma vez por todas, continua sempre actual (189): «Todas as vezes que no altar se celebra o sacrifício da cruz, no qual \"Cristo, nossa Páscoa, foi imolado\", realiza-se a obra da nossa redenção» (190).",
+            "paragrafo": 1364
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1365. Porque é o memorial da Páscoa de Cristo, a Eucaristia é também um sacrifício. O carácter sacrificial da Eucaristia manifesta-se nas próprias palavras da instituição: «Isto é o meu corpo, que vai ser entregue por vós» e «este cálice é a Nova Aliança no meu sangue, que vai ser derramado por vós» (Lc 22, 19-20). Na Eucaristia, Cristo dá aquele mesmo corpo que entregou por nós na cruz, aquele mesmo sangue que «derramou por muitos em remissão dos pecados» (Mt 26, 28).",
+            "paragrafo": 1365
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1366. A Eucaristia é, pois, um sacrifício, porque representa (torna presente) o sacrifício da cruz, porque é dele o memorial e porque aplica o seu fruto:\n\nCristo «nosso Deus e Senhor [...], ofereceu-Se a Si mesmo a Deus Pai uma vez por todas, morrendo como intercessor sobre o altar da cruz, para realizar em favor deles [homens] uma redenção eterna. No entanto, porque após a sua morte não se devia extinguir o seu sacerdócio (Heb 7, 24-27), na última ceia, \"na noite em que foi entregue\" (1 Cor 11, 13). [...] Ele [quis deixar] à Igreja, sua esposa bem-amada, um sacrifício visível (como o exige a natureza humana), em que fosse representado o sacrifício cruento que ia realizar uma vez por todas na cruz, perpetuando a sua memória até ao fim dos séculos e aplicando a sua eficácia salvífica à remissão dos pecados que nós cometemos cada dia» (191).",
+            "paragrafo": 1366
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1367. O sacrifício de Cristo e o sacrifício da Eucaristia são um único sacrifício: «É uma só e mesma vítima e Aquele que agora Se oferece pelo ministério dos sacerdotes é o mesmo que outrora Se ofereceu a Si mesmo na cruz; só a maneira de oferecer é que é diferente» (192). E porque «neste divino sacrifício, que se realiza na missa, aquele mesmo Cristo, que a Si mesmo Se ofereceu outrora de modo cruento sobre o altar da cruz, agora está contido e é imolado de modo incruento [...], este sacrifício é verdadeiramente propiciatório» (193).",
+            "paragrafo": 1367
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1368. A Eucaristia é igualmente o sacrifício da Igreja. A Igreja, que é o corpo de Cristo, participa na oblação da sua Cabeça. Com Ele, ela própria é oferecida integralmente. Ela une-se à sua intercessão junto do Pai em favor de todos os homens. Na Eucaristia, o sacrifício de Cristo torna-se também o sacrifício dos membros do seu corpo. A vida dos fiéis, o seu louvor, o seu sofrimento, a sua oração, o seu trabalho unem-se aos de Cristo e à sua oblação total, adquirindo assim um novo valor. O sacrifício de Cristo presente sobre o altar proporciona a todas as gerações de cristãos a possibilidade de se unirem à sua oblação.\n\nNas catacumbas, a Igreja é frequentemente representada como uma mulher em oração, de braços estendidos em atitude orante. Como Cristo, que estendeu os braços na cruz, assim, por Ele, com Ele e n'Ele, a Igreja oferece-se e intercede por todos os homens.",
+            "paragrafo": 1368
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1369. Toda a Igreja está unida à oblação e intercessão de Cristo. Encarregado do ministério de Pedro na Igreja, o Papa está associado a toda e qualquer celebração da Eucaristia, na qual é nomeado como sinal e servidor da unidade da Igreja universal. O bispo do lugar é sempre responsável pela Eucaristia, mesmo quando presidida por um presbítero; o seu nome é citado nela para significar a sua presidência da Igreja particular, no meio do presbitério e com a assistência dos diáconos. A comunidade intercede também por todos os ministros que, por ela e com ela, oferecem o sacrifício eucarístico:\n\n«Seja tida como legítima somente aquela Eucaristia que é presidida pelo bispo ou por quem ele encarregou» (194).\n\n«É pelo ministério dos presbíteros que o sacrifício espiritual dos fiéis se consuma em união com o sacrifício de Cristo. Mediador único, que é oferecido na Eucaristia de modo incruento e sacramental, pelas mãos deles, em nome de toda a Igreja, até quando o mesmo Senhor voltar» (195).",
+            "paragrafo": 1369
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1370. À oblação de Cristo unem-se não só os membros que estão ainda neste mundo, mas também os que já estão na glória do céu: é em comunhão com a santíssima Virgem Maria e fazendo memória d'Ela, assim como de todos os santos e de todas as santas, que a Igreja oferece o sacrifício eucarístico. Na Eucaristia, a Igreja, com Maria, está como que ao pé da cruz, unida à oblação e à intercessão de Cristo.",
+            "paragrafo": 1370
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1371. O sacrifício eucarístico é também oferecido pelos fiéis defuntos, «que morreram em Cristo e não estão ainda de todo purificados» (196), para que possam entrar na luz e na paz de Cristo:\n\n«Enterrai este corpo não importa onde! Não vos dê isso qualquer cuidado! Tudo o que vos peço é que vos lembreis de mim diante do altar do Senhor, onde quer que estejais» (197).\n\n«Depois [na anáfora], nós rezamos pelos santos padres e bispos falecidos, e em geral por todos aqueles que morreram antes de nós, certos de que isso será de grande proveito para as almas em favor das quais tal súplica se faz, enquanto está presente a vítima santa e temível [...]. Apresentando a Deus as nossas súplicas pelos que morreram, tenham embora sido pecadores, nós [...] apresentamos Cristo imolado pelos nossos pecados, tornando assim propício, para eles e para nós, o Deus que é amigo dos homens» (198).",
+            "paragrafo": 1371
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1372. Santo Agostinho resumiu admiravelmente esta doutrina que nos incita a uma participação cada vez mais perfeita no sacrifício do nosso Redentor que celebramos na Eucaristia:\n\n«Toda esta cidade resgatada, ou seja, a assembleia e sociedade dos santos, é oferecida a Deus como um sacrifício universal pelo Sumo-Sacerdote que, sob a forma de servo, foi ao ponto de Se oferecer por nós na sua paixão, para fazer de nós corpo duma tal Cabeça [...] Tal é o sacrifício dos cristãos: \"Nós que somos muitos, formamos em Cristo um só corpo\" (Rm 12, 5). E este sacrifício, a Igreja não cessa de o renovar no sacramento do altar bem conhecido dos fiéis, em que lhe é mostrado que ela própria é oferecida naquilo que oferece» (199).",
+            "paragrafo": 1372
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "A PRESENÇA DE CRISTO PELO PODER DA SUA PALAVRA E DO ESPÍRITO SANTO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1373. «Jesus Cristo, que morreu, que ressuscitou, que está à direita de Deus, que intercede por nós» (Rm 8, 34), está presente na sua Igreja de múltiplos modos (200): na sua Palavra, na oração da sua Igreja, «onde dois ou três estão reunidos em Meu nome» (Mt 18, 20), nos pobres, nos doentes, nos prisioneiros (201), nos seus sacramentos, dos quais é o autor, no sacrifício da missa e na pessoa do ministro. Mas está presente «sobretudo sob as espécies eucarísticas» (202).",
+            "paragrafo": 1373
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1374. O modo da presença de Cristo sob as espécies eucarísticas é único. Ele eleva a Eucaristia acima de todos os sacramentos e faz dela «como que a perfeição da vida espiritual e o fim para que tendem todos os sacramentos» (203). No santíssimo sacramento da Eucaristia estão «contidos, verdadeira, real e substancialmente, o corpo e o sangue, conjuntamente com a alma e a divindade de nosso Senhor Jesus Cristo e, por conseguinte, Cristo completo» (204). «Esta presença chama-se \"real\", não a título exclusivo como se as outras presenças não fossem \"reais\", mas por excelência, porque é substancial, e porque por ela se torna presente Cristo completo, Deus e homem» (205).",
+            "paragrafo": 1374
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1375. É pela conversão do pão e do vinho no corpo e no sangue de Cristo que Ele Se torna presente neste sacramento. Os Padres da Igreja proclamaram com firmeza a fé da mesma Igreja na eficácia da Palavra de Cristo e da acção do Espírito Santo, para operar esta conversão. Assim, São João Crisóstomo declara:\n\n«Não é o homem que faz com que as coisas oferecidas se tomem corpo e sangue de Cristo, mas o próprio Cristo, que foi crucificado por nós. O sacerdote, figura de Cristo, pronuncia estas palavras, mas a sua eficácia e a graça são de Deus. Isto é o Meu corpo, diz ele. Esta palavra transforma as coisas oferecidas» (206).\n\nE Santo Ambrósio diz a respeito da mesma conversão:\n\nEstejamos bem convencidos de que «isto não é o que a natureza formou, ruas o que a bênção consagrou, e de que a força da bênção ultrapassa a da natureza, porque pela bênção a própria natureza é mudada» (207). «A Palavra de Cristo, que pôde fazer do nada o que não existia, não havia de poder mudar coisas existentes no que elas ainda não eram? Porque não é menos dar às coisas a sua natureza original do que mudá-la» (208).",
+            "paragrafo": 1375
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1376. O  Concílio de Trento resume a fé católica declarando: «Porque Cristo, nosso Redentor, disse que o que Ele oferecia sob a espécie do pão era verdadeiramente o seu corpo, sempre na Igreja se teve esta convicção que o sagrado Concílio de novo declara: pela consagração do pão e do vinho opera-se a conversão de toda a substância do pão na substância do corpo de Cristo nosso Senhor, e de toda a substância do vinho na substância do seu sangue; a esta mudança, a Igreja católica chama, de modo conveniente e apropriado, transubstanciação» (209).",
+            "paragrafo": 1376
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1377. A presença eucarística de Cristo começa no momento da consagração e dura enquanto as espécies eucarísticas subsistirem. Cristo está presente todo em cada uma das espécies e todo em cada uma das suas partes, de maneira que a fracção do pão não divide Cristo (210).",
+            "paragrafo": 1377
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1378. O culto da Eucaristia. Na liturgia da Missa, nós exprimimos a nossa fé na presença real de Cristo sob as espécies do pão e do vinho, entre outras maneiras, ajoelhando ou inclinando-nos profundamente em sinal de adoração do Senhor. «A Igreja Católica sempre prestou e continua a prestar este culto de adoração que é devido ao sacramento da Eucaristia, não só durante a missa, mas também fora da sua celebração: conservando com o maior cuidado as hóstias consagradas, apresentando-as aos fiéis para que solenemente as venerem, e levando-as em procissão» (211).",
+            "paragrafo": 1378
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1379. A sagrada Reserva (sacrário) era, ao princípio, destinada a guardar, de maneira digna, a Eucaristia, para poder ser levada aos doentes e ausentes, fora da missa. Pelo aprofundamento da fé na presença real de Cristo na sua Eucaristia, a Igreja tomou consciência do sentido da adoração silenciosa do Senhor, presente sob as espécies eucarísticas, por isso que o sacrário deve ser colocado num lugar particularmente digno da igreja; deve ser construído de tal modo que sublinhe e manifeste a verdade da presença real de Cristo no Santíssimo Sacramento.",
+            "paragrafo": 1379
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1380. É de suma conveniência que Cristo tenha querido ficar presente à sua Igreja deste modo único. Uma vez que estava para deixar os seus sob forma visível, Cristo quis dar-nos a sua presença sacramental; e visto que ia sofrer na cruz para nos salvar, quis que tivéssemos o memorial do amor com que nos amou «até ao fim» (Jo 13, 1), até ao dom da própria vida. Com efeito, na sua presença eucarística, Ele fica misteriosamente no meio de nós, como Aquele que nos amou e Se entregou por nós (212), e permanece sob os sinais que exprimem e comunicam este amor:\n\n«A Igreja e o mundo têm grande necessidade do culto eucarístico. Jesus espera-nos neste sacramento do amor. Não regateemos o tempo para estar com Ele na adoração, na contemplação cheia de fé e disposta a reparar as faltas graves e os pecados do mundo. Que a nossa adoração não cesse jamais» (213).",
+            "paragrafo": 1380
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1381. «A presença do verdadeiro corpo e do verdadeiro sangue de Cristo neste sacramento, \"não a apreendemos pelos sentidos, diz São Tomás, mas só pela fé, que se apoia na autoridade de Deus\". É por isso que, comentando o texto de São Lucas 22, 19 \"Isto é o Meu corpo que será entregue por vós\", São Cirilo de Alexandria declara: \"Não vás agora perguntar-te se isso é verdade; mas acolhe com fé as palavras do Senhor, porque Ele, que é a verdade, não mente\"» (214):\n\n«Adoro te devote, latens Deitas,\nQuae sub his figuris vere latitas:\nTibi se cor meum totem subjicit,\nQuica, Te contemplans, totem deficit.\n\nAdoro-te com devoção, ó Deus que te escondes,\nQue sob estas figuras de verdade te ocultas:\nA ti meu coração se submete inteiramente\nPorque, ao contemplar-te, desfalece por completo.\n\nVisus, tactus, gustus in Te fallitur\nSed auditu solo tutu creditur:\nCredo quidquid dixit Dei Filius:\nNil hoc Veritatis verbo verius» (215).\n\nVisão, tacto e paladar em ti falham,\nApenas ouvindo se crê com segurança:\nCreio em tudo o que disse o Filho de Deus:\nNada mais verdadeiro que esta palavra da Verdade.",
+            "paragrafo": 1381
+        },
+        {
+            "tipo": "tópico",
+            "texto": "VI. O banquete pascal"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1382. A Missa é, ao mesmo tempo e inseparavelmente, o memorial sacrificial em que se perpetua o sacrifício da cruz e o banquete sagrado da comunhão do corpo e sangue do Senhor. Mas a celebração do sacrifício eucarístico está toda orientada para a união íntima dos fiéis com Cristo pela comunhão. Comungar é receber o próprio Cristo, que Se ofereceu por nós.",
+            "paragrafo": 1382
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1383. O altar, à volta do qual a Igreja se reúne na celebração da Eucaristia, representa os dois aspectos dum mesmo mistério: o altar do sacrifício e a mesa do Senhor, e isto tanto mais que o altar cristão é o símbolo do próprio Cristo, presente no meio da assembleia dos seus fiéis, ao mesmo tempo como vítima oferecida para a nossa reconciliação e como alimento celeste que se nos dá. «Com efeito, o que é o altar de Cristo senão a imagem do corpo de Cristo?» – pergunta Santo Ambrósio (216); e noutro passo: «O altar representa o corpo [de Cristo], e o corpo de Cristo está sobre o altar» (217). A liturgia exprime esta unidade do sacrifício e da comunhão em numerosas orações. Assim, a Igreja de Roma reza na sua anáfora:\n\n«Humildemente Vos suplicamos, Deus todo-poderoso, que esta nossa oferenda seja apresentada pelo vosso santo Anjo no altar celeste, diante da vossa divina majestade, para que todos nós, participando deste altar pela comunhão do santíssimo corpo e sangue do vosso Filho, alcancemos a plenitude das bênçãos e graças do céu»» (218)",
+            "paragrafo": 1383
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "«TOMAI TODOS E COMEI»: A COMUNHÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1384. O Senhor dirige-nos um convite insistente a que O recebamos no sacramento da Eucaristia: «Em verdade, em verdade vos digo: se não comerdes a carne do Filho do Homem e não beberdes o seu sangue, não tereis a vida em vós» (Jo 6, 53).",
+            "paragrafo": 1384
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1385. Para responder a este convite, devemos preparar-nos para este momento tão grande e santo. São Paulo exorta a um exame de consciência: «Quem comer o pão ou beber do cálice do Senhor indignamente será réu do corpo e do sangue do Senhor. Examine-se, pois, cada qual a si mesmo e então coma desse pão e beba deste cálice; pois quem come e bebe, sem discernir o corpo do Senhor, come e bebe a própria condenação» (1Cor 11, 27-29). Aquele que tiver consciência dum pecado grave deve receber o sacramento da Reconciliação antes de se aproximar da Comunhão.",
+            "paragrafo": 1385
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1386. Perante a grandeza deste sacramento, o fiel só pode retomar humildemente e com ardente fé a palavra do centurião (219) : «Domine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbum, et sanabitur anima mea – Senhor, eu não sou digno de que entreis em minha morada, mas dizei uma [só] palavra e serei salvo» (220). E na divina liturgia de São João Crisóstomo, os fiéis oram no mesmo Espírito:\n\n«Faz-me comungar hoje, ó Filho de Deus, na tua ceia mística. Porque eu não revelarei o segredo aos teus inimigos, nem te darei o beijo de Judas. Mas, como o ladrão, eu te suplico: Lembra-Te de mim, Senhor, no teu Reino» (221).",
+            "paragrafo": 1386
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1387. Para se prepararem convenientemente para receber este sacramento, os fiéis devem observar o jejum prescrito na sua Igreja (222). A atitude corporal (gestos, traje) deve traduzir o respeito, a solenidade, a alegria deste momento em que Cristo Se torna nosso hóspede.",
+            "paragrafo": 1387
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1388. É conforme ao próprio sentido da Eucaristia que os fiéis, se tiverem as disposições requeridas (223), recebam a Comunhão quando participam na missa (224): «Recomenda-se vivamente aquela mais perfeita participação na missa em que os fiéis, depois da comunhão do sacerdote, recebem, do mesmo sacrifício, o corpo do Senhor» (225).",
+            "paragrafo": 1388
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1389. A Igreja impõe aos fiéis a obrigação de «participar na divina liturgia nos domingos e dias de festa» (226) e de receber a Eucaristia ao menos uma vez em cada ano, se possível no tempo pascal (227) preparados pelo sacramento da Reconciliação. Mas recomenda-lhes vivamente que recebam a santa Eucaristia aos domingos e dias de festa, ou ainda mais vezes, mesmo todos os dias.",
+            "paragrafo": 1389
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1390. Graças à presença sacramental de Cristo sob cada uma das espécies, a comunhão apenas sob a espécie de pão permite receber todo o fruto de graça da Eucaristia. Por razões pastorais, esta maneira de comungar estabeleceu-se legitimamente como a mais habitual no rito latino. «A sagrada Comunhão tem uma forma mais plena, enquanto sinal, quando é feita sob as duas espécies. Com efeito, nesta forma manifesta-se mais perfeitamente o sinal do banquete eucarístico» (228). É a forma habitual de comungar, nos ritos orientais.",
+            "paragrafo": 1390
+        },
+        {
+            "tipo": "subtópico",
+            "texto": "OS FRUTOS DA COMUNHÃO"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1391. A Comunhão aumenta a nossa união com Cristo. Receber a Eucaristia na comunhão traz consigo, como fruto principal, a união íntima com Cristo Jesus. De facto, o Senhor diz: «Quem come a minha carne e bebe o meu sangue permanece em Mim e Eu nele» (Jo 6, 56). A vida em Cristo tem o seu fundamento no banquete eucarístico: «Assim como o Pai, que vive, Me enviou, e Eu vivo pelo Pai, também o que Me come viverá por Mim» (Jo 6, 57):\n\n«Quando, nas festas do Senhor, os fiéis recebem o corpo do Filho, proclamam uns aos outros a boa-nova de que lhes foram dadas as arras da vida, como quando o anjo disse a Maria de Magdala: \"Cristo ressuscitou!\". Eis que também agora a vida e a ressurreição são conferidas àquele que recebe Cristo» (229).",
+            "paragrafo": 1391
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1392. O que o alimento material produz na nossa vida corporal, realiza-o a Comunhão, de modo admirável, na nossa vida espiritual. A comunhão da carne de Cristo Ressuscitado, «vivificada pelo Espírito Santo e vivificante» (230), conserva, aumenta e renova a vida da graça recebida no Baptismo. Este crescimento da vida cristã precisa de ser alimentado pela Comunhão eucarística, pão da nossa peregrinação, até à hora da morte, em que nos será dado como viático.",
+            "paragrafo": 1392
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1393. A Comunhão afasta-nos do pecado. O corpo de Cristo que recebemos na Comunhão é «entregue por nós» e o sangue que nós bebemos é «derramado pela multidão, para remissão dos pecados». É por isso que a Eucaristia não pode unir-nos a Cristo sem nos purificar, ao mesmo tempo, dos pecados cometidos, e nos preservar dos pecados futuros:\n\n«Sempre que O recebemos, anunciamos a morte do Senhor (231). Se nós anunciamos a morte do Senhor, anunciamos a remissão dos pecados. Se, de cada vez que o seu sangue é derramado, é derramado para remissão dos pecados, eu devo recebê-lo sempre, para que sempre Ele perdoe os meus pecados. Eu que peco sempre, devo ter sempre um remédio» (232).",
+            "paragrafo": 1393
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1394. Tal como o alimento corporal serve para restaurar as forças perdidas, assim também a Eucaristia fortifica a caridade que, na vida quotidiana, tende a enfraquecer-se; e esta caridade vivificada apaga os pecados veniais (233). Dando-Se a nós, Cristo reaviva o nosso amor e torna-nos capazes de quebrar as ligações desordenadas às criaturas e de nos radicarmos n'Ele.\n\n«Uma vez que Cristo morreu por nós por amor, quando nós fazemos memória da sua morte no momento do sacrifício, pedimos que esse amor nos seja dado pela vinda do Espírito Santo; suplicamos humildemente que, em virtude desse amor pelo qual Cristo quis morrer por nós, também nós, recebendo a graça do Espírito Santo, possamos considerar o mundo como crucificado para nós e sermos nós próprios crucificados para o mundo; [...] tendo recebido o dom do amor, morramos para o pecado e vivamos para Deus» (234).",
+            "paragrafo": 1394
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1395. Pela mesma caridade que acende em nós, a Eucaristia preserva-nos dos pecados mortais futuros. Quanto mais participarmos na vida de Cristo e progredirmos na sua amizade, mais difícil nos será romper com Ele pelo pecado mortal. A Eucaristia não está ordenada ao perdão dos pecados mortais. Isso é próprio do sacramento da Reconciliação. O que é próprio da Eucaristia é ser o sacramento daqueles que estão na plena comunhão da Igreja.",
+            "paragrafo": 1395
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1396. A unidade do corpo Místico: a Eucaristia faz a Igreja. Os que recebem a Eucaristia ficam mais estreitamente unidos a Cristo. Por isso mesmo, Cristo une todos os fiéis num só corpo: a Igreja. A Comunhão renova, fortalece e aprofunda esta incorporação na Igreja já realizada pelo Baptismo. No Baptismo fomos chamados a formar um só corpo (235). A Eucaristia realiza esta vocação: «O cálice da bênção que abençoamos, não é comunhão com o sangue de Cristo? O pão que partimos não é comunhão com o corpo de Cristo? Uma vez que há um único pão, nós, embora muitos, somos um só corpo, porque participamos desse único pão» (1 Cor 10, 16-17):\n\n«Se sois o corpo de Cristo e seus membros, é o vosso sacramento que está colocado sobre a mesa do Senhor, é o vosso sacramento que recebeis. Vós respondeis «Ámen» [«Sim, é verdade!»] àquilo que recebeis e, ao responder, o subscreveis. Tu ouves esta palavra: «O corpo de Cristo»; e respondes: «Ámen», Então, sê um membro de Cristo, para que o teu «Ámen» seja verdadeiro» (326).",
+            "paragrafo": 1396
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1397. A Eucaristia compromete-nos com os pobres: Para receber, na verdade, o corpo e o sangue de Cristo entregue por nós, temos de reconhecer Cristo nos mais pobres, seus irmãos (237):\n\n«Saboreaste o sangue do Senhor e não reconheces sequer o teu irmão. Desonras esta mesa, se não julgas digno de partilhar o teu alimento aquele que foi julgado digno de tomar parte nesta mesa. Deus libertou-te de todos os teus pecados e chamou-te para ela; e tu nem então te tornaste mais misericordioso» (238).",
+            "paragrafo": 1397
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1398. A Eucaristia e a unidade dos cristãos. Perante a grandeza deste mistério, Santo Agostinho exclama: «O sacramentum pietatis! O signum unitatis! O vinculum caritatis! – Ó sacramento da piedade, ó sinal da unidade, ó vínculo da caridade!» Quanto mais dolorosas se fazem sentir as divisões da Igreja que rompem a comum participação na mesa do Senhor, tanto mais prementes são as orações que fazemos ao Senhor para que voltem os dias da unidade completa de todos os que crêem n' Ele.",
+            "paragrafo": 1398
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1399. As Igrejas orientais que não estão em comunhão plena com a Igreja Católica celebram a Eucaristia com um grande amor. «Essas Igrejas, embora separadas, têm verdadeiros sacramentos; e principalmente, em virtude da sucessão apostólica, o sacerdócio e a Eucaristia, por meio dos quais continuam unidos a nós por vínculos estreitíssimos» (240). Portanto, «uma certa comunhão in sacris é não só possível, mas até aconselhável em circunstâncias oportunas e com aprovação da autoridade eclesiástica» (241).",
+            "paragrafo": 1399
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1400. As comunidades eclesiais saídas da Reforma, separadas da Igreja Católica, «não [conservaram] a genuína e íntegra substância do mistério eucarístico, sobretudo por causa da falta do sacramento da Ordem» (242). É por esse motivo que a intercomunhão eucarística com estas comunidades não é possível para a Igreja Católica. No entanto, estas comunidades eclesiais, «quando na santa ceia fazem memória da morte e ressurreição do Senhor, professam que a vida é significada na comunhão com Cristo e esperam a sua vinda gloriosa» (243).",
+            "paragrafo": 1400
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1401. Se urgir uma grave necessidade, segundo o juízo do Ordinário os ministros católicos podem ministrar os sacramentos (Eucaristia, Penitência, Unção dos Enfermos) aos outros cristãos que não estão em plena comunhão com a Igreja Católica, mas que os pedem por sua livre vontade: requer-se, nesse caso, que manifestem a fé católica em relação a estes sacramentos e que se encontrem nas devidas disposições (244).",
+            "paragrafo": 1401
+        },
+        {
+            "tipo": "tópico",
+            "texto": "VII. A Eucaristia – «Penhor da futura glória»"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1402. Numa antiga oração, a Igreja aclama assim o mistério da Eucaristia: «O sacrum convivium in quo Christus sumitur: recolitur memoria passionis eius; mens impletur gratia et futurae gloriae nobis pignus datur – Ó sagrado banquete, em que se recebe Cristo e se comemora a sua paixão, em que a alma se enche de graça e nos é dado o penhor da futura glória» (245). Se a Eucaristia é o memorial da Páscoa da Senhor, se pela nossa comunhão no altar somos cumulados da «plenitude das bênçãos se graças do céu» (246), a Eucaristia é também a antecipação da glória celeste.",
+            "paragrafo": 1402
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1403. Na última ceia, o próprio Senhor chamou a atenção dos seus discípulos para a consumação da Páscoa no Reino de Deus: «Eu vos digo que não voltarei a beber deste fruto da videira, até o dia em que beberei convosco o vinho novo no Reino do meu Pai» (Mt 26, 29) (247). Sempre que a Igreja celebra a Eucaristia, lembra-se desta promessa, e o seu olhar volta-se para «Aquele que vem» (Ap 1, 4). Na sua oração, ela clama pela sua vinda: «Marana tha» (1Cor 16, 22), «Vem, Senhor Jesus!» (Ap 22, 20), «que a Tua graça venha e que este mundo passe!» (248).",
+            "paragrafo": 1403
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1404. A Igreja sabe que, desde já, o Senhor vem na sua Eucaristia e que está ali, no meio de nós. Mas esta presença é velada. E é por isso que nós celebramos a Eucaristia «expectantes beatam spem et adventum Salvatoris nostri Jesu Christi – enquanto aguardamos a feliz esperança e a vinda de Jesus Cristo nosso Salvador» (249), pedindo a graça de ser acolhidos «com bondade no vosso Reino, onde também nós esperamos ser ser recebidos, para vivermos [...] eternamente na vossa glória, quando enxugardes todas as lágrimas dos nossos olhos; e, vendo-Vos tal como sois, Senhor nosso Deus, seremos para sempre semelhantes a Vós e cantaremos sem fim os vossos louvores, por Jesus Cristo nosso Senhor» (250).",
+            "paragrafo": 1404
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1405. Desta grande esperança – dos novos céus e da nova terra, onde habitará a justiça (251) – não temos garantia mais segura nem sinal mais manifesto do que a Eucaristia. Com efeito, cada vez que se celebra este mistério, «realiza-se a obra da nossa redenção» (252) e nós «partimos o mesmo pão, que é remédio de imortalidade, antídoto para não morrer, mas viver em Jesus Cristo para sempre» (253).",
+            "paragrafo": 1405
+        },
+        {
+            "tipo": "tópico",
+            "texto": "Resumindo:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1406. Jesus diz: «Eu sou o pão vivo descido do céu. Quem comer deste pão viverá eternamente [...] Quem come a minha carne e bebe o meu sangue tem a vida eterna [...], permanece em Mim, e Eu nele» (Jo 6, 51.54.56).",
+            "paragrafo": 1406
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1407. A Eucaristia é o coração e o cume da vida da Igreja, porque nela Cristo associa a sua Igreja e todos os seus membros ao seu sacrifício de louvor e de acção de graças, oferecido ao Pai uma vez por todas na cruz; por este sacrifício, Ele derrama as graças da salvação sobre o seu corpo, que é a Igreja.",
+            "paragrafo": 1407
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1408. A celebração eucarística inclui sempre: a proclamação da Palavra de Deus, a acção de graças a Deus Pai por todos os seus benefícios, sobretudo pelo dom do seu Filho, a consagração do pão e do vinho e a participação no banquete litúrgico pela recepção do corpo e do sangue do Senhor Estes elementos constituem um só e mesmo acto de culto.",
+            "paragrafo": 1408
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1409. A Eucaristia é o memorial da Páscoa de Cristo, isto é, da obra do salvação realizada pela vida, morte e ressurreição de Cristo, obra tornada presente pela acção litúrgica.",
+            "paragrafo": 1409
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1410. É o próprio Cristo, sumo e eterno sacerdote da Nova Aliança, que, agindo pelo ministério dos sacerdotes, oferece o sacrifício eucarístico. E é ainda o mesmo Cristo, realmente presente sob as espécies do pão e do vinho, que é a oferenda do sacrifício eucarístico.",
+            "paragrafo": 1410
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1411. Só os sacerdotes validamente ordenados podem presidir à Eucaristia e consagrar o pão e o vinho, para que se tornem o corpo e o sangue do Senhor:",
+            "paragrafo": 1411
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1412. Os sinais essenciais do sacramento eucarístico são o pão de trigo e o vinho da videira, sobre os quais é invocada a bênção do Espírito Santo, e o sacerdote pronuncia as palavras da consagração ditas por Jesus durante a última ceia: «Isto é o meu corpo, que será entregue por vós... Este é o cálice do meu sangue...».",
+            "paragrafo": 1412
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1413. Pela consagração, opera-se a transubstanciação do pão e do vinho no corpo e no sangue de Cristo. Sob as espécies consagradas do pão e do vinho, o próprio Cristo, vivo e glorioso, está presente de modo verdadeiro, real e substancial, com o seu corpo e o seu sangue, com a sua alma e a sua divindade (254).",
+            "paragrafo": 1413
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1414. Enquanto sacrifício, a Eucaristia é oferecida também em reparação dos pecados dos vivos e dos defuntos e para obter de Deus benefícios espirituais ou temporais.",
+            "paragrafo": 1414
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1415. Aquele que quiser receber Cristo na Comunhão eucarística deve encontrar-se em estado de graça. Se alguém tiver consciência de ter pecado mortalmente, não deve aproximar-se da Eucaristia sem primeiro ter recebido a absolvição no sacramento da Penitência.",
+            "paragrafo": 1415
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1416. A sagrada Comunhão do corpo e sangue de Cristo aumenta a união do comungante com o Senhor perdoa-lhe os pecados veniais e preserva-o dos pecados graves. E uma vez que os laços da caridade entre o comungante e Cristo são reforçados, a recepção deste sacramento reforça a unidade da Igreja, corpo Místico de Cristo.",
+            "paragrafo": 1416
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1417. A Igreja recomenda vivamente aos fiéis que recebam a sagrada Comunhão quando participam na celebração da Eucaristia; e impõe-lhes a obrigação de o fazerem ao menos uma vez por ano.",
+            "paragrafo": 1417
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1418. Uma vez que Cristo em pessoa está presente no Sacramento do Altar; devemos honrá-Lo com culto de adoração. «A visita ao Santíssimo Sacramento é uma prova de gratidão, um sinal de amor e um dever de adoração para com Cristo nosso Senhor» (255).",
+            "paragrafo": 1418
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1419. Tendo passado deste mundo para o Pai, Cristo deixou-nos na Eucaristia o penhor da glória junto d'Ele: a participação no santo sacrifício identifica-nos com o seu coração, sustenta as nossas forças ao longo da peregrinação desta vida, faz-nos desejar a vida eterna e desde já nos une à Igreja do céu, à Santíssima Virgem e a todos os santos.",
+            "paragrafo": 1419
+        }
+    ],
+    "referencias": [
+        {
+            "tipo": "referência",
+            "texto": "1. São Tomás de Aquino, Summa theologiae, 3. q. 65, a. 1. c: Ed. Leon. 12, 56-57."
+        },
+        {
+            "tipo": "referência",
+            "texto": "2. São Tomás de Aquino, Summa theologiae, 3. q. 65. a. 3. c: Ed. Leon. 12, 60."
+        },
+        {
+            "tipo": "referência",
+            "texto": "3. Paulo VI, Const. Ap. Divinae consortium naturae: AAS 63 (1971) 657: cf. Ordo initiationis christianae adultorum, Praenotanda 1-2 (Typis Polyglottis Vaticanis 1972) p. 7 [Iniciação cristã dos adultos, Segunda Edição, Preliminares, 1-2 (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa, 1996) p. 9-10]"
+        },
+        {
+            "tipo": "referência",
+            "texto": "4. Cf. Concílio de Florença, Decretum pro Armenis: DS 1314: CIC can 204, § 1. 849; CCEO can 675 § 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "5. CatRom 2, 2, 5, p. 179."
+        },
+        {
+            "tipo": "referência",
+            "texto": "6. Cf. Rm 6, 3-4; Cl 2, 12."
+        },
+        {
+            "tipo": "referência",
+            "texto": "7. São Justino, Apologia 1, 61: CA 1, 168 (PG 6, 421)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "8. Cf. Heb 10, 32."
+        },
+        {
+            "tipo": "referência",
+            "texto": "9 Cf. 1 Ts 5, 5."
+        },
+        {
+            "tipo": "referência",
+            "texto": "10. São Gregório Nazianzo, Oratio 40, 3-4: SC 358, 202-204 (PG 36, 361-364)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "11. Vigília Pascal, Bênção da água: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p. 283 [Missal Romano, Gráfica de Coimbra 1992, 315]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "12. Cf. Gn 1, 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "13. Vigília Pascal, Bênção da água: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970). p. 283 [A tradução oficial portuguesa desta oração não inclui a metáfora da «concepção»: «Logo no princípio do mundo, o vosso Espírito pairava sobre as águas, prefigurando o seu poder de santificar»: Missal Romano, Gráfica de Coimbra 1992, 315]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "14. Vigília Pascal, Bênção da água: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p. 283 [Missal Romano, Gráfica de Coimbra 1992. 3151."
+        },
+        {
+            "tipo": "referência",
+            "texto": "15. Vigília Pascal, Bênção da água: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p. 283 [Missal Romano, Gráfica de Coimbra 1992, 315]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "16. Cf. Mt 3, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "17. Cf. Mc 16, 15-16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "18. Cf. Mt 3, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "19. CL Fl 2, 7."
+        },
+        {
+            "tipo": "referência",
+            "texto": "20. Cf. Mt 3, 16-17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "21. Cf. Mc 10, 38; Lc 12, 50."
+        },
+        {
+            "tipo": "referência",
+            "texto": "22. Cf. Jo 19, 34."
+        },
+        {
+            "tipo": "referência",
+            "texto": "23. Cf.. 1 Jo 5, 6-8."
+        },
+        {
+            "tipo": "referência",
+            "texto": "24. Santo Ambrósio, De sacramentis 2, 2, 6: CSEL73, 27-28 (PL16, 425-426)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "25. Cf. Act 2, 41: 8, 12-13; 10, 48; 16, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "26. Cf. Cl 2, 12."
+        },
+        {
+            "tipo": "referência",
+            "texto": "27. Cf. Gl 3, 27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "28. Cf. 1 Cor 6, 11; 12, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "29. Cf. 1 Pe 23; Ef  5, 26."
+        },
+        {
+            "tipo": "referência",
+            "texto": "30. Santo Agostinho, In Iohannis evangelium tractatus 80, 3: CCL 36, 529 (PL 35, 1840)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "31. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 64: AAS 56 (1964) 117."
+        },
+        {
+            "tipo": "referência",
+            "texto": "32. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 65: AAS 56 (1964) 117; cf. Ibid., 37-40: AAS 56 (1964) 110-111."
+        },
+        {
+            "tipo": "referência",
+            "texto": "33. Cf. II Concílio do Vaticano, Decr. Ad gentes, 14: AAS 58 (1966) 963: CIC can. 851.865 866."
+        },
+        {
+            "tipo": "referência",
+            "texto": "34. Cf. CIC can. 851, 2. 868."
+        },
+        {
+            "tipo": "referência",
+            "texto": "35. Cf. Rm 6, 17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "36. Cf. Ordo Baptismi parvulorum, 62 (Typis Polyglottis Vaticanis 1969) p. 32 [Celebração do Baptismo das crianças, 62, Segunda edição típica (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa, 1994), p.61)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "37. Cf. Gl 3, 27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "38. Cf. Fl 2, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "39. CIC can.864; cf. CCEO. can.679."
+        },
+        {
+            "tipo": "referência",
+            "texto": "40. II Concílio do Vaticano, Decr. Ad gentes, 14: AAS 58 (1966) 962-963; cf. Ordo initiationis christianae adultorum, Praenotanda 19 (Typis Polyglottis Vaticanis 1972) p. 11 Iniciação cristã dos adultos. Segunda Edição, Preliminares, 19 (Coimbra, Gráfica de Coimbra - Conferência Episcopal Portuguesa. 1996) p. 26-27); Ibid., De tempore catechumenatus eiusque ritibus 98, p. 36 [Ibid.. O tempo do catecumenado e os seus ritos 98. p. 66]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "41. II Concílio do Vaticano, Decr. Ad gentes, 14: AAS 58 (1966) 963."
+        },
+        {
+            "tipo": "referência",
+            "texto": "42. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 14: AAS 57 (1965) 19: cf. CIC can. 206.788."
+        },
+        {
+            "tipo": "referência",
+            "texto": "43. Cf. Concílio de Trento, Sess. 5ª, Decretum de peccato originali, can. 4: DS 1514."
+        },
+        {
+            "tipo": "referência",
+            "texto": "44. Cf. Cl 1, 12-14."
+        },
+        {
+            "tipo": "referência",
+            "texto": "45. Cf. CIC can. 867: CCEO can. 868. § 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "46. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 11: AAS 57 (1965) 15-16; Ibid., 41: AAS 57 (1965) 47; Id., Const. past. Gaudium et spes, 48: AAS 58 (1966) 1067-1069; CIC can. 774. § 2. 1136."
+        },
+        {
+            "tipo": "referência",
+            "texto": "47. Cf. Act 16, 15. 33; 18, 8; 1 Cor 1, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "48. Cf. Sagrada Congregação da Doutrina da Fé, Instr. Pastoralis actio, 4: AAS 72 (1980) 1139."
+        },
+        {
+            "tipo": "referência",
+            "texto": "49. Cf. Mc 16, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "50. Cf. CIC can. 872-874."
+        },
+        {
+            "tipo": "referência",
+            "texto": "51. Cf. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 67: AAS 56 (1964) 118."
+        },
+        {
+            "tipo": "referência",
+            "texto": "52. Cf. CIC can. 861, § 1; CCEO can. 677, § 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "53. Cf. CIC can. 861, § 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "54. Cf. 1 Tm 2, 4."
+        },
+        {
+            "tipo": "referência",
+            "texto": "55 Cf. Mc 16, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "56. Cf. Jo 3, 5."
+        },
+        {
+            "tipo": "referência",
+            "texto": "57. Cf. Mt 28, 20. Cf. Concílio de Trento, Sess. 7°, Decretum de sacramentis, Canones de sacramento Baptismi, can. 5: DS 1618; II Concílio do Vaticano, Const. dogm. Lumen Gentium, 14: AAS 57 (1965) 18: ID., Decr. Ad gentes, 5: AAS 58 (1966) 951-952."
+        },
+        {
+            "tipo": "referência",
+            "texto": "58. Cf. Mc 16, 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "59. II Concílio do Vaticano, Const. past. Gaudium et spes. 22: AAS 58 (1966) 1043; cf. In.. Const. dogm. Lumen Gentium, 16: AAS 57 (1965) 20; In. Decr. Ad gentes, 7: AAS 58 (1966) 955."
+        },
+        {
+            "tipo": "referência",
+            "texto": "60. Cf. Act 2, 38: Jo 3, 5."
+        },
+        {
+            "tipo": "referência",
+            "texto": "61. Cf. Concílio de Florença, Decretum pro Armenis: DS 1316."
+        },
+        {
+            "tipo": "referência",
+            "texto": "62. Concílio de Trento, Decretum de peccato originali, can. 5: DS 1515."
+        },
+        {
+            "tipo": "referência",
+            "texto": "63. Cf. 2 Cor 5, 17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "64. Cf. Gl  4, 5-7."
+        },
+        {
+            "tipo": "referência",
+            "texto": "65. Cf. 2 Pe 1, 4."
+        },
+        {
+            "tipo": "referência",
+            "texto": "66. Cf. 1 Cor 6, 15; 12, 27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "67. Cf. Rm 8, 17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "68. Cf. 1 Cor 6, 19."
+        },
+        {
+            "tipo": "referência",
+            "texto": "69. Cf. 1 Cor 6, 19."
+        },
+        {
+            "tipo": "referência",
+            "texto": "70. Cf. 2 Cor 5, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "71. Cf. Ef 5, 21: 1 Cor 16, 15-16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "72. Cf. Jo 13, 12-15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "73. Cf. Heb 13, 17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "74. Cf. 1 Ts 5, 12-13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "75. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 37: AAS 57 (1965) 42-43; CIC can. 208-223: CCEO can 675, § 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "76. II Concílio do Vaticano, Const. dogm. Lumen Gentium. 11: AAS 57 (1965) 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "77. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 17: AAS 57 (1965) 21; Id., Decr. Ad gentes. 7: AAS 58 (1966) 956; Ibid., 23: AAS 58 (1966) 974-975."
+        },
+        {
+            "tipo": "referência",
+            "texto": "78. II Concílio do Vaticano, Decr. Unitatis redintegratio, 3: AAS 57 (1965) 93."
+        },
+        {
+            "tipo": "referência",
+            "texto": "79. II Concílio do Vaticano, Decr. Unitatis redintegratio, 22: AAS 57 (1965)105."
+        },
+        {
+            "tipo": "referência",
+            "texto": "80. Cf. Rm 8, 29."
+        },
+        {
+            "tipo": "referência",
+            "texto": "81. Cf. Concílio de Trento, Sess. 7ª, Decretum de sacramentis, Canones de sacramentis in genere, can. 9: DS 1609: Ibid., Canones de sacramento Baptismi. can. 6: DS 1619."
+        },
+        {
+            "tipo": "referência",
+            "texto": "82. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 11:AAS 57 (1965) 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "83. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 10: AAS 57 (1965) 15-16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "84. Cf. Santo Agostinho, Epistula 98, 5: CSEL 34, 527 (PL 33, 362)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "85. Cf. Ef  1, 13-14; 2 Cor 1, 21-22."
+        },
+        {
+            "tipo": "referência",
+            "texto": "86. Santo Ireneu de Lião, Demonstratio praedicationis apostolicae, 3: SC 62, 32."
+        },
+        {
+            "tipo": "referência",
+            "texto": "87. Oração Eucarística I ou Cânone Romano: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p. 454 [Missal Romano, Gráfica de Coimbra 1992, 521]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "88. Cf. Concílio de Trento, Sess. Decretum de sacramentis, Canones de sacramentis in genere, can. 9: DS 1609; Ibid., Canones de sacramento Baptismi. can.11: DS 1624."
+        },
+        {
+            "tipo": "referência",
+            "texto": "89. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 16: AAS 57 (1965) 20."
+        },
+        {
+            "tipo": "referência",
+            "texto": "90. Cf. Ordo Confirmationis, Praenotanda 1 (Typis Polyglottis Vaticanas 1973) p. 16 [Celebração da Confirmação, Preliminares 1 (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa, 1991) p. 21]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "91. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 11: AAS 57 (1965) 15: cf. Ordo Confirmationis, Praenotanda 2 (Typis Polyglottis Vaticanis 1973) p. 16 [Celebração da Confirmação, Preliminares 2 (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa, 1991) p. 21]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "92. Cf. Is 11. 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "93. Cf. Lc 4, 16-22; Is 61, 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "94. Cf. Mt 3, 13-17; Jo 1, 33-34."
+        },
+        {
+            "tipo": "referência",
+            "texto": "95. Cf. Ez 36, 25-27; Jo 3, 1-2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "96. Cf. Lc 12, 12; Jo 3, 5-8: 7, 37-39; 16, 7-15; Act 1, 8."
+        },
+        {
+            "tipo": "referência",
+            "texto": "97. Cf. Jo 20, 22."
+        },
+        {
+            "tipo": "referência",
+            "texto": "98. Cf. Act 2, 1-4."
+        },
+        {
+            "tipo": "referência",
+            "texto": "99. Cf. Act 2, 17-18."
+        },
+        {
+            "tipo": "referência",
+            "texto": "100. Cf. Act 2, 38."
+        },
+        {
+            "tipo": "referência",
+            "texto": "101. Cf. Act 8, 15-17; 19, 5-6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "102. Cf. Heb 6, 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "103. Paulo VI. Const. ap. Divinae consortium naturae: AAS 63 (1971) 659."
+        },
+        {
+            "tipo": "referência",
+            "texto": "104. Cf. São Cipriano de Cartago, Epistula 73, 21: CSEL 3/2, 795; (1996), CCL 3C. 556 (PL 3, 1169)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "105. Cf. CCEO can. 695, § 1. 696. § 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "106. Cf. Santo Hipólito de Roma, Traditio apostolica, 21: ed. B. Botte (Münster i.W. 1989) p. 50 e 52."
+        },
+        {
+            "tipo": "referência",
+            "texto": "107. Cf. Dt 11, 14; etc."
+        },
+        {
+            "tipo": "referência",
+            "texto": "108. Cf. Sl 23, 5: 104, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "109. Cf. Is 1, 6: Lc 10, 34."
+        },
+        {
+            "tipo": "referência",
+            "texto": "110. Cf. 2 Cor 2, 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "111. Cf. Gn 38, 18; Cf . 8, 6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "112. Cf. Gn 41, 42."
+        },
+        {
+            "tipo": "referência",
+            "texto": "113. Cf. Dt 32. 34."
+        },
+        {
+            "tipo": "referência",
+            "texto": "114. Cf. 1 Rs 21, 8."
+        },
+        {
+            "tipo": "referência",
+            "texto": "115. Cf. Jr 32, 10."
+        },
+        {
+            "tipo": "referência",
+            "texto": "116. Cf. Is 29, 11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "117. Cf. Jo 6, 27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "118. Cf. Ef 1, 13; 4, 30."
+        },
+        {
+            "tipo": "referência",
+            "texto": "119. Cf. Ap 7, 2-3; 9. 4; Ez 9, 4-6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "120. Pontificale iuxta ritum Syrorum Occidentalium id est Antiochiae, Pars I, Versio latina (Typis Polyglottis Vaticanis 1941) p. 36-37."
+        },
+        {
+            "tipo": "referência",
+            "texto": "121. Cf. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 71: AAS 56 (1964) 118."
+        },
+        {
+            "tipo": "referência",
+            "texto": "122. Cf. CIC can. 866."
+        },
+        {
+            "tipo": "referência",
+            "texto": "123. Ordo Confirmationis, 25 (Typis Polyglottis Vaticanis 1973). p. 26 [Celebração da Confirmação, 25 (Coimbra, Gráfica de Coimbra — Conferência Episcopal Portuguesa, 1991) p. 33]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "124. Paulo VI. Const. Ap. Divinae consortium naturae: AAS 63 (1971) 657 [Celebração da Confïrmação, Const. ap. sobre o Sacramento da Confirmação (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa. 1991) p. 19]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "125. Rituale per le Chiese orientali di rito bizantino in lingua greca, Pars 1 (Libreria Editrice Vaticana 1954) p. 36."
+        },
+        {
+            "tipo": "referência",
+            "texto": "126 Cf. Santo Hipólito, Traditio apostolica, 21: ed. B. Botte (Münster i.W. 1989) p. 54."
+        },
+        {
+            "tipo": "referência",
+            "texto": "127. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 11: AAS 57 (1965) 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "128. Cf. Concílio de Florença, Decretum por Armenis: DS 1319: II Concílio do Vaticano, Const. dogm. Lumen Gentium, 11: AAS 57 (1965) 15; Ibid., 12: AAS 57 (1965) 16."
+        },
+        {
+            "tipo": "referência",
+            "texto": "129. Santo Ambrósio, De mysteriis, 7, 42: CSEL 73, 106 (PL 16, 402-403)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "130. Cf. Concílio de Trento, Decretum de sacramentis. Canones de sacramentis in genere, can. 9: DS 1609."
+        },
+        {
+            "tipo": "referência",
+            "texto": "131.Cf. Lc 24, 48-49."
+        },
+        {
+            "tipo": "referência",
+            "texto": "132. São Tomás de Aquino, Summa theologiae 3, q. 72, a. 5. ad 2: Ed. Leon. 12. 130."
+        },
+        {
+            "tipo": "referência",
+            "texto": "133. Cf. CIC can. 889. § 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "134. CIC can. 890."
+        },
+        {
+            "tipo": "referência",
+            "texto": "135. Cf. CIC can. 891.883. 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "136. São Tomás de Aquino, Summa theologiae 3, q. 72. a. 8, ad 2: Ed. Leon. 12. 133."
+        },
+        {
+            "tipo": "referência",
+            "texto": "137. Ordo Confirmationis, Praenotanda 3 (Typis Polyglottis Vaticanis 1973) p. 16 [Celebração da Confirmação, Preliminares 3 (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa. 1991) p. 12]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "138. Cf. Act 1, 14."
+        },
+        {
+            "tipo": "referência",
+            "texto": "139. Cf. Ordo Confirmationis, Praenotanda 5 (Typis Polyglottis Vaticanis 1973) p. 17 [Celebração da Confirmação, Preliminares 5 (Coimbra, Gráfica de Coimbra – Conferência Episcopal Portuguesa. 1991) p. 22]: Ibid., 6: (Typis Polyglottis Vaticanis 1973) p. 17 [(Coimbra, Gráfica de Coimbra - Conferência Episcopal Portuguesa. 1991) 22]: CIC can 893, § 1-2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "140. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 26: AAS 57 (1465) 32."
+        },
+        {
+            "tipo": "referência",
+            "texto": "141. Cf. CIC can. 883, § 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "142. Cf. CIC can. 882."
+        },
+        {
+            "tipo": "referência",
+            "texto": "143. Cf. CIC. can. 884, § 2."
+        },
+        {
+            "tipo": "referência",
+            "texto": "144. Cf. CIC can 883, 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "145. II Concílio do Vaticano, Sacrosactum concilium, 47: .AAS 56 (1964) 113."
+        },
+        {
+            "tipo": "referência",
+            "texto": "146. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 11: AAS 57 (1965) 15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "147. II Concílio do Vaticano, Decr. Presbyterorum ordinis, 5: AAS 58 (1966) 997."
+        },
+        {
+            "tipo": "referência",
+            "texto": "148. Sagrada Congregação dos Ritos, Instr. Eucharisticum mysterium, 6: AAS 59 (1967) 545."
+        },
+        {
+            "tipo": "referência",
+            "texto": "149. Santo Ireneu de Lião, Adversus haereses 4, 18, 5: SC 100, 610 (PG 7, 1028)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "150. Cf. 1 Cor 11, 20."
+        },
+        {
+            "tipo": "referência",
+            "texto": "151. Cf. Ap 19, 9."
+        },
+        {
+            "tipo": "referência",
+            "texto": "152. Cf. Mt 14, 19; 15, 36; Mc 8, 6.19."
+        },
+        {
+            "tipo": "referência",
+            "texto": "153. Cf. Mt 26, 26: 1 Cor 11, 24."
+        },
+        {
+            "tipo": "referência",
+            "texto": "154. Cf. Lc 24, 13-35."
+        },
+        {
+            "tipo": "referência",
+            "texto": "155. Cf. Act 2, 42.46: 20, 7.11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "156. Cf. 1 Cor 10, 16-17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "157. Cf. 1 Cor 11, 17-34."
+        },
+        {
+            "tipo": "referência",
+            "texto": "158. Cf. Sl 116, 13.17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "159. Cf. 1 Pe 2, 5. '"
+        },
+        {
+            "tipo": "referência",
+            "texto": "160. Cf. Ml 1, 11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "161. Cf. 1 Cor 10, 16-17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "162. Cf. Constitutiones apostolicae 8, 13, 12: SC: 336, 208 (Funk, Didascalia et Constitutiones Apostolorum 1, 516); Didaké 9,5: SC 248, 178 (Funk, Patres apostolici 1, 22); Ibid. 10, 6: SC 248. 180 (Funk, Patres apostolici 1, 24)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "163. Santo Inácio de Antioquia, Epistula ad Ephesios 20, 2: SC 10 bis, 76 (Funk 1, 230)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "164. Cf. Sl 104, 13-15."
+        },
+        {
+            "tipo": "referência",
+            "texto": "165. Cf. Oração Eucarística 1 ou Cânone Romano, 95: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970). p. 453 [Missal Romano, Gráfica de Coimbra 1992. 521]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "166. Cf. Dt 8, 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "167. Cf. Mt 14, 13-21; 15, 32-39."
+        },
+        {
+            "tipo": "referência",
+            "texto": "168. Cf. Jo 2, 11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "169. Cf. Mc 14, 25."
+        },
+        {
+            "tipo": "referência",
+            "texto": "170. Cf. Jo 13, 1-17."
+        },
+        {
+            "tipo": "referência",
+            "texto": "171. Concílio de Trento, Sess. 22ª, Doctrina de ss. Missae Sacrificio, c. 1: DS 1740."
+        },
+        {
+            "tipo": "referência",
+            "texto": "172. Cf. Jo 6, 13"
+        },
+        {
+            "tipo": "referência",
+            "texto": "173. Cf. Mt 26, 17-29; Mc 14, 12-25; 1 Cor 11, 23-25."
+        },
+        {
+            "tipo": "referência",
+            "texto": "174. II Concílio do Vaticano, Decr. Ad gentes, 1: AAS 58 (1966) 947."
+        },
+        {
+            "tipo": "referência",
+            "texto": "175. São Justino, Apologia, 1. 67: CA 1. 184-186 (PG 6. 429)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "176. São Justino, Apologia, 1. 65: CA 1, 176-180 (PG 6. 428)"
+        },
+        {
+            "tipo": "referência",
+            "texto": "177. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 56: AAS 56 (1964) 115."
+        },
+        {
+            "tipo": "referência",
+            "texto": "178. Cf. III Concílio do Vaticano, Const. dogm. Dei Verbum, 21: AAS 58 (1966) 827."
+        },
+        {
+            "tipo": "referência",
+            "texto": "179. Cf. Lc 24, 13-35."
+        },
+        {
+            "tipo": "referência",
+            "texto": "180. Cf. 1 Ts 2, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "181. Santo Ireneu de Lião, Adversus haereses 4. 18, 4: SC 100, 606 (PG 7, 1027): cf. Mt 1. 11."
+        },
+        {
+            "tipo": "referência",
+            "texto": "182. Cf. 1 Cor 16, 1."
+        },
+        {
+            "tipo": "referência",
+            "texto": "183. Cf. 2 Cor 8, 9."
+        },
+        {
+            "tipo": "referência",
+            "texto": "184. São Justino, Apologia, 1. 67, 6: CA 1, 186-188 (PG 6, 429)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "185. Cf. Oração Eucarística 1 ou Cânone Romano, 90: Missale Romarum, editio typica (Typis Polyglottis Vaticanis 1970). p.451 [Missal Romano, Gráfica de Coimbra 1992, 518]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "186 São Justino, Apologia, 1, 65: CA 1, 180 (PG 6, 428)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "187. São Justino, Apologia, 1, 66, 1-2: CA 1. 180 (PG 6, 428)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "188. Cf. Ex 13. 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "189. Cf. Heb 7, 25-27."
+        },
+        {
+            "tipo": "referência",
+            "texto": "190. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 3: AAS 57 (1965) 6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "191. Concílio de Trento, Sess. 22ª, Doctrina de ss. Missae Sacrificio, c. 1: DS 1740."
+        },
+        {
+            "tipo": "referência",
+            "texto": "192. Concílio de Trento, Sess. 22ª, Doctrina de ss. Missae Sacrificio, c. 2: DS 1743."
+        },
+        {
+            "tipo": "referência",
+            "texto": "193. Ibid."
+        },
+        {
+            "tipo": "referência",
+            "texto": "194. Santo Inácio de Antioquia, Epistula Ad Smyrnaeos 8, 1: SC 10bis. 138 (Funk 1, 282)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "195. II Concílio do Vaticano, Decr. Presbyterorum ordinis, 2: AAS 58 (1966) 993."
+        },
+        {
+            "tipo": "referência",
+            "texto": "196. Concílio de Trento, Sess. 22ª, Doctrina de ss. Missae Sacrificio, c. 2: DS 1743."
+        },
+        {
+            "tipo": "referência",
+            "texto": "197. Santo Agostinho, Confissões 9, II, 27: CCL 27, 149 (PL 32, 775): palavras de Santa Mónica, antes de morrer, a Santo Agostinho e ao seu irmão."
+        },
+        {
+            "tipo": "referência",
+            "texto": "198. São Cirilo de Jerusalém, Catecheses mystagogicae 5, 9-10: SC 126, 158-160 (PG 30, 1116-1117)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "199. Santo Agostinho, De Civitate Dei 10, 6: CSEL 40/1, 456 (PL 41, 284)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "200. Cf. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 48: AAS 57 (1965) 53."
+        },
+        {
+            "tipo": "referência",
+            "texto": "201. Cf. Mt 25, 31-46"
+        },
+        {
+            "tipo": "referência",
+            "texto": "202. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 7: AAS 56 (1964) 100-101."
+        },
+        {
+            "tipo": "referência",
+            "texto": "203. São Tomás de Aquino, Summa theologiae 3, q. 73, a. 3, c: Ed. Leon. 12, 140."
+        },
+        {
+            "tipo": "referência",
+            "texto": "204. Concílio de Trento, Sess. 13ª, Decretum de s.s. Eucharistia, can. 1: Ds 1651."
+        },
+        {
+            "tipo": "referência",
+            "texto": "205. Paulo VI, Enc. Mysterium fidei: AAS 57 (1965) 764."
+        },
+        {
+            "tipo": "referência",
+            "texto": "206.  São João Crisóstomo, De proditione Iudae homilia 1, 6: PG 49, 380."
+        },
+        {
+            "tipo": "referência",
+            "texto": "207. Santo Ambrósio, De mysteriis 9, 50: CSEL 73, 110 (PL 16, 405)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "208. Ibid.. 9, 52: CSEL 73, 112 (PL 16, 407)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "209. Concílio de Trento, Sess. 13ª, Decretum de ss. Eucharista, c. 4: DS 1642."
+        },
+        {
+            "tipo": "referência",
+            "texto": "210. Cf. Concílio de Trento, Sess. 13ª, Decretum de ss. Eucharista. c. 3: DS 1641."
+        },
+        {
+            "tipo": "referência",
+            "texto": "211. Paulo VI, Enc. Mysterium fidei: AAS 57 (1965) 769."
+        },
+        {
+            "tipo": "referência",
+            "texto": "212. Cf. Gl 2, 20."
+        },
+        {
+            "tipo": "referência",
+            "texto": "213. João Paulo II, Ep. Dominicae Cenae, 3: AAS 72 (1980) 119; cf. Enchiridion Vaticanum 7, 177."
+        },
+        {
+            "tipo": "referência",
+            "texto": "214. Paulo VI, Enc. Mysterium fidei: AAS 57 (1965) 757; cf. São Tomás de Aquino, Summa theologiae, 3. q. 75, a. 1. c: Ed. Leon. 12, 156; São Cirilo de Alexandria, Commentarius in Lucam 22, 19: PG 72, 912."
+        },
+        {
+            "tipo": "referência",
+            "texto": "215.  AHMA 50, 589."
+        },
+        {
+            "tipo": "referência",
+            "texto": "216.  Santo Ambrósio, De Sacramentis, 5, 7: CSEL 73, 61 (PL 16, 447)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "217 Santo Ambrósio, De Sacramentis, 4, 7: CSEL73. 49 (PL 16. 437)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "218. Oração Eucarística I ou Cânone Romano, 96: Missale Romanum, editio typica (Typis Polyglottis Vaticanas 1970). p.453 [Missal Romano, Gráfica de Coimbra 1992. 521]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "219. Cf. Mt 8, 8."
+        },
+        {
+            "tipo": "referência",
+            "texto": "220.  Rito da Comunhão. 133: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p.474 [Missal Romano. Gráfica de Coimbra 1992, 546)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "221. Liturgia Bizantina. Anáfora de São João Crisóstomo, Prece antes da Comunhão: F. E. Brightman, Liturgies Eastern and Western (Oxford 1896) p. 394 (PG 63, 920)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "222. Cf. CIC can. 919."
+        },
+        {
+            "tipo": "referência",
+            "texto": "223. Cf. CIC can. 916-917: AAS 75 (1983 II), pp. 165-166."
+        },
+        {
+            "tipo": "referência",
+            "texto": "224. Os fiéis, no mesmo dia. só podem receber a ss. Eucaristia uma segunda vez. Comissão Pontifícia para a Interpretação Autêntica do Código de Direito Canónico, Responsa ad proposita dubia, 1: AAS 76 (1984) 746."
+        },
+        {
+            "tipo": "referência",
+            "texto": "225. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 55: AAS 56 (1964) 115."
+        },
+        {
+            "tipo": "referência",
+            "texto": "226. Cf. Decr. Ecclesiarum Orientalium, 15: AAS 57 (1965) 81."
+        },
+        {
+            "tipo": "referência",
+            "texto": "227. Cf. CIC can. 920."
+        },
+        {
+            "tipo": "referência",
+            "texto": "228. Instrução geral do Missal Romano, 240: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p.68 [Missal Romano, Gráfica de Coimbra 1992, 51]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "229. Fanqîth. Breviarium iuxta ritum Ecclesiae Antiochenae Syrorum, v. 1 (Mossul 1886) p. 237 a-b."
+        },
+        {
+            "tipo": "referência",
+            "texto": "230. Cf. II Concílio do Vaticano, Decr. Presbyterorum ordinis, 5: AAS 58 (1966)997."
+        },
+        {
+            "tipo": "referência",
+            "texto": "231. Cf. I Cor 11, 26."
+        },
+        {
+            "tipo": "referência",
+            "texto": "232. Santo Ambrósio, De Sacramentis, 4. 28: CSEL 73, 57-58 (PL 16, 446)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "233. Cf. Concílio de Trento, Sess. 13ª. Decretum de ss. Eucharista, c. 2: DS 1638."
+        },
+        {
+            "tipo": "referência",
+            "texto": "234. São Fulgêncio de Ruspas, Contra gesta Fabiani 28, 17: CCL 91A, 813-814 (PL 65, 789)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "235. Cf. 1 Cor 12, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "236. Santo Agostinho, Sermão 272: PL 38, 1247."
+        },
+        {
+            "tipo": "referência",
+            "texto": "237. Cf. Mt 25, 40."
+        },
+        {
+            "tipo": "referência",
+            "texto": "238 São João Crisóstomo, In epistulam I ad Corinthios, homilia 27. 5: PG 61, 230."
+        },
+        {
+            "tipo": "referência",
+            "texto": "239. Santo Agostinho, In Iohannis evangelium tractatus 26, 13: CCL 36. 266 (PL 35, 1613): cf. II Concílio do Vaticano, Const. Sacrosanctum Concilium, 47: AAS 56 (1964) 113."
+        },
+        {
+            "tipo": "referência",
+            "texto": "240. II Concílio do Vaticano, Decr. Unitatis redintegratio, 15: AAS 57 (1965) 102."
+        },
+        {
+            "tipo": "referência",
+            "texto": "241. II Concílio do Vaticano, Decr, Unitatis redintegratio, 15: AAS 57 (1965) 102: ef. CIC can.844, § 3."
+        },
+        {
+            "tipo": "referência",
+            "texto": "242. II Concílio do Vaticano, Decr. Unitatis redintegratio, 22: AAS 57 (1965) 106."
+        },
+        {
+            "tipo": "referência",
+            "texto": "243. II Concílio do Vaticano, Decr. Unitatis redintegratio, 22: AAS 57 (1965) 106."
+        },
+        {
+            "tipo": "referência",
+            "texto": "244. Cf. CIC can. 844. § 4."
+        },
+        {
+            "tipo": "referência",
+            "texto": "245. Na solenidade do santíssimo corpo e sangue de Cristo, Antífona do «Magnificat» das Vésperas II: Liturgia Horarum, editio typica, v. 3 (Typis Polyglottis Vaticanis 1973) p. 502 [Liturgia das Horas. v. 3 (Gráfica de Coimbra 1983) p. 621]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "246. Oração Eucarística I ou Cânone Romano. 96: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p.453 [Missal Romano. Gráfica de Coimbra 1992, 521]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "247. Cf. Lc 22, 18: Mc 14. 25."
+        },
+        {
+            "tipo": "referência",
+            "texto": "248. Didaké 10, 6: SC 248, 180 (Funk, Patres apostolici 1, 24)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "249. Rito de Comunhão, 126 [Embolismo depois do Pai Nosso]: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p.472 [a tradução oficial portuguesa difere um pouco: «enquanto esperamos a vinda gloriosa de Jesus Cristo nosso Salvador»: Missal Romano, Gráfica de Coimbra 1992, 5451: cf. Tt 2, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "250. Oração Eucarística III, 116: Missale Romanum, editio typica (Typis Polyglottis Vaticanis 1970), p. 465 [Missal Romano, Gráfica de Coimbra 1992, 535]."
+        },
+        {
+            "tipo": "referência",
+            "texto": "251. Cf. 2 Pe 3, 13."
+        },
+        {
+            "tipo": "referência",
+            "texto": "252. II Concílio do Vaticano, Const. dogm. Lumen Gentium, 3: AAS 57 (1965) 6."
+        },
+        {
+            "tipo": "referência",
+            "texto": "253. Santo Inácio de Antiquia,  Epistula ad Ephesios, 20, 2: SC l0bis. 76 (Funk 1, 230)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "254. Cf. Concílio de Trento, Sess. 13ª, Decretum de ss. Eucharistae. c. 3: DS 1640; Ibid., can. 1: DS 1651."
+        },
+        {
+            "tipo": "referência",
+            "texto": "255. Paulo VI, Enc. Mysterium fidei: AAS 57 (1965) 771."
+        }
+    ]
+}
