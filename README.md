@@ -1,0 +1,54 @@
+# Catecismo JSON
+O presente repositório contém uma cópia fiel em .json do conteúdo do catecismo disponibilizado gratuitamente no [site do vaticano](https://www.vatican.va/archive/cathechism_po/index_new/prima-pagina-cic_po.html), e foi criado a fim de facilitar a criação de novos sites ou aplicativos que queiram exibir o conteúdo do catecismo.
+Cada arquivo json está localizado nas subpastas finais conforme o próprio site do vaticano
+
+## Objeto json padrão para cada pasta
+O padrão de nomenclatura é sempre o mesmo: "p" + número da parte, "s" + número da seção, "c" + número do capítulo".
+```json
+{
+    "nome": "p2_s2",
+    "primeiroParagrafo": 1210,
+    "ultimoParagrafo": 1211,
+    "conteudo": [
+        {
+            "tipo": "título",
+            "texto": "SEGUNDA PARTE"
+        },
+        {
+            "tipo": "título",
+            "texto": "A CELEBRAÇÃO\nDO MISTÉRIO CRISTÃO\n\n"
+        },
+        {
+            "tipo": "título",
+            "texto": "SEGUNDA SECÇÃO"
+        },
+        {
+            "tipo": "título",
+            "texto": "OS SETE SACRAMENTOS DA IGREJA"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1210. Os sacramentos da nova Lei foram instituídos por Cristo e são em número de sete, a saber: o Baptismo, a Confirmação, a Eucaristia, a Penitência, a Unção dos Enfermos, a Ordem e o Matrimónio. Os sete sacramentos tocam todas as etapas e momentos importantes da vida do cristão: outorgam nascimento e crescimento, cura e missão à vida de fé dos cristãos. Há aqui uma certa semelhança entre as etapas da vida natural e as da vida espiritual (1).",
+            "paragrafo": 1210
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "1211. Seguindo esta analogia, exporemos primeiro os três sacramentos da iniciação cristã (capítulo primeiro), depois os sacramentos de cura (capítulo segundo) e finalmente os que estão ao serviço da comunhão e da missão dos fiéis (capítulo terceiro). Esta ordem não é, certamente, a única possível, mas permite ver que os sacramentos formam um organismo, no qual cada sacramento particular tem o seu lugar vital. Neste organismo, a Eucaristia ocupa um lugar único, como «sacramento dos sacramentos»: «todos os outros sacramentos estão ordenados para este, como para o seu fim» (2).",
+            "paragrafo": 1211
+        }
+    ],
+    "referencias": [
+        {
+            "tipo": "referência",
+            "texto": "1. São Tomás de Aquino, Summa theologiae, 3. q. 65, a. 1. c: Ed. Leon. 12, 56-57."
+        },
+        {
+            "tipo": "referência",
+            "texto": "2. São Tomás de Aquino, Summa theologiae, 3. q. 65. a. 3. c: Ed. Leon. 12, 60."
+        }
+    ]
+}
+```
+
+
+
