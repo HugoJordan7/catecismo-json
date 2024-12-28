@@ -1,0 +1,158 @@
+{
+    "nome": "p1_s2",
+    "primeiroParagrafo": 185,
+    "ultimoParagrafo": 197,
+    "conteudo": [
+        {
+            "tipo": "título",
+            "texto": "PRIMEIRA PARTE"
+        },
+        {
+            "tipo": "título",
+            "texto": "A PROFISSÃO DA FÉ\n\n"
+        },
+        {
+            "tipo": "título",
+            "texto": "SEGUNDA SECÇÃO"
+        },
+        {
+            "tipo": "título",
+            "texto": "A PROFISSÃO DA FÉ CRISTÃ\n\n"
+        },
+        {
+            "tipo": "subtítulo",
+            "texto": "OS SÍMBOLOS DA FÉ"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "185. Quem diz «Creio» afirma: «dou a minha adesão àquilo em que nós cremos». A comunhão na fé tem necessidade duma linguagem comum da fé, normativa para todos e a todos unindo na mesma confissão de fé.",
+            "parágrafo": 185
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "186. Desde a origem, a Igreja apostólica exprimiu e transmitiu a sua própria fé em fórmulas breves e normativas para todos (1). Mas bem cedo a Igreja quis também recolher o essencial da sua fé em resumos orgânicos e articulados, destinados sobretudo aos candidatos ao Baptismo.\n\n«Esta síntese da fé não foi feita segundo as opiniões humanas: mas recolheu-se de toda a Escritura o que nela há de mais importante, para apresentar na integra aquilo e só aquilo que a fé ensina. E, tal como a semente de mostarda contém, num pequeno grão, numerosos ramos, do mesmo modo este resumo da fé encerra em algumas palavras todo o conhecimento da verdadeira piedade contido no Antigo e no Novo Testamento» (2).",
+            "parágrafo": 186
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "187. A estas sínteses da fé chamamos-lhes «profissões de fé», porque resumem a fé professada pelos cristãos. Chamamos-lhes «Credo», pelo facto de elas normalmente começarem pela palavra: «Creio». Igualmente lhes chamamos «símbolos da fé».",
+            "parágrafo": 187
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "188. A palavra grega «symbolon» significava a metade dum objecto partido (por exemplo, um selo), que se apresentava como um sinal de identificação. As duas partes eram justapostas para verificar a identidade do portador. O «símbolo da fé» é, pois, um sinal de identificação e de comunhão entre os crentes. «Symbolon» também significa resumo, colectânea ou sumário. O «símbolo da fé» é o sumário das principais verdades da fé. Por isso, serve de ponto de referência primário e fundamental da catequese.",
+            "parágrafo": 188
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "189. A primeira «profissão de fé» faz-se por ocasião do Baptismo. O «símbolo da fé» é, antes de mais nada, o símbolo baptismal. E uma vez que o Baptismo é conferido «em nome do Pai e do Filho e do Espírito Santo»(Mt 28, 19), as verdades da fé professadas por ocasião do Baptismo articulam-se segundo a sua referência às três pessoas da Santíssima Trindade.",
+            "parágrafo": 189
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "190. O Símbolo divide-se, portanto, em três partes: «na primeira, trata da Primeira Pessoa divina e da obra admirável da criação: na segunda, da Segunda Pessoa divina e do mistério da Redenção dos homens; na terceira, da Terceira Pessoa divina, fonte e princípio da nossa santificação» (3). São estes «os três capítulos do nosso selo [baptismal]» (4).",
+            "parágrafo": 190
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "191. O Símbolo «está estruturado em três partes [...] subdivididas em fórmulas variadas e muito adequadas. Segundo uma comparação frequentemente empregada pelos Padres, chamamos-lhes artigos. De facto, assim como nos nossos membros há certas articulações que os distinguem e separam, do mesmo modo, nesta profissão de fé, foi com razão e propriedade que se deu o nome de artigos às verdades que devemos crer em particular e de modo distinto» (5). Segundo uma antiga tradição, já atestada por Santo Ambrósio, é costume enumerar doze artigos do Credo, simbolizando, com o número dos doze Apóstolos, o conjunto da fé apostólica (6).",
+            "parágrafo": 191
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "192. Foram numerosas, ao longo dos séculos, e correspondendo sempre às necessidades das diferentes épocas, as profissões ou símbolos da fé: os símbolos das diferentes Igrejas apostólicas e antigas (7), o símbolo «Quicumque», chamado de Santo Atanásio (8), as profissões de fé de certos concílios (Toledo (9); Latrão (10): Lião (11) Trento (12)) ou de certos papas, como a «Fides Damasi» (13) ou o «Credo do Povo de Deus», de Paulo VI (1968) (14).",
+            "parágrafo": 192
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "193. Nenhum dos símbolos dos diferentes períodos da vida da Igreja pode ser considerado ultrapassado ou inútil. Todos nos ajudam a abraçar e a aprofundar hoje a fé de sempre, através dos diversos resumos que dela se fizeram.\n\nEntre todos os símbolos da fé, há dois que têm um lugar muito especial na vida da Igreja:",
+            "parágrafo": 193
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "194. O Símbolo dos Apóstolos, assim chamado porque se considera, com justa razão, o resumo fiel da fé dos Apóstolos. É o antigo símbolo baptismal da Igreja de Roma. A sua grande autoridade vem-lhe deste facto: «É o símbolo adoptado pela Igreja romana, aquela em que Pedro, o primeiro dos Apóstolos, teve a sua cátedra, e para a qual ele trouxe a expressão da fé comum» (15).",
+            "parágrafo": 194
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "195. O Símbolo dito de Niceia-Constantinopla deve a sua grande autoridade ao facto de ser proveniente desses dois primeiros concílios ecuménicos (dos anos de 325 e 381). Ainda hoje continua a ser comum a todas as grandes Igrejas do Oriente e do Ocidente.",
+            "parágrafo": 195
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "196. A exposição da fé, que vamos fazer, seguirá o Símbolo dos Apóstolos, que constitui, por assim dizer, «o mais antigo catecismo romano». Entretanto, a nossa exposição será completada por constantes referências ao Símbolo Niceno-Constantinopolitano, muitas vezes mais explícito e pormenorizado.",
+            "parágrafo": 196
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "197. Como no dia do nosso Baptismo, quando toda a nossa vida foi confiada «a esta regra de doutrina» (Rm 6, 17), acolhemos o Símbolo da nossa fé que dá a vida. Recitar com fé o Credo é entrar em comunhão com Deus Pai, Filho e Espírito Santo. E é também entrar em comunhão com toda a Igreja, que nos transmite a fé e em cujo seio nós acreditamos:\n\n«Este Símbolo é o selo espiritual [...], é a meditação do nosso coração e a sentinela sempre presente; é, sem dúvida, o tesouro da nossa alma» (16).",
+            "parágrafo": 197
+        }
+    ],
+    "referencias": [
+        {
+            "tipo": "referência",
+            "texto": "1. Cf. Rm 10, 9; 1 Cor 15, 3-5; etc."
+        },
+        {
+            "tipo": "referência",
+            "texto": "2. São Cirilo de Jerusalém, Catechese illuminandorum 5, 12: Opera, v. 1. ed. G. C. Reischl  (Monaci 1848), p. 150 (PG 33. 521-524)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "3. Cat Rom I, I, 4. p. 20."
+        },
+        {
+            "tipo": "referência",
+            "texto": "4. Santo Ireneo, Demonstratio apostolicae praedicationis, 100: SC 62. 170."
+        },
+        {
+            "tipo": "referência",
+            "texto": "5. Cat Rom I. 1, 4. p. 20."
+        },
+        {
+            "tipo": "referência",
+            "texto": "6. Cf. Santo Ambrósio10, Explanatio Symboli, 8: CSEL 73, 10-11 (PL 17. 1196)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "7. Cf. Symbola fidei ab Ecclesia antiqua recepta: DS 1-64."
+        },
+        {
+            "tipo": "referência",
+            "texto": "8. Cf. DS 75-76."
+        },
+        {
+            "tipo": "referência",
+            "texto": "9.  XI Concílio de Toledo: DS 525-541."
+        },
+        {
+            "tipo": "referência",
+            "texto": "10. IV Concílio de Latrão: DS 800-802."
+        },
+        {
+            "tipo": "referência",
+            "texto": "11. II Concílio de Lião: DS 851-861."
+        },
+        {
+            "tipo": "referência",
+            "texto": "12.  Professio ftdei Tridentina: DS 1862-1870."
+        },
+        {
+            "tipo": "referência",
+            "texto": "13. Cf. DS 71-72."
+        },
+        {
+            "tipo": "referência",
+            "texto": "14. Sollemnis Professio fidei: AAS 60 (1968) 433-445."
+        },
+        {
+            "tipo": "referência",
+            "texto": "15. Santo Ambrósio, Explanatio Symboli, 7: CSEL 73. 10 (PL 17, 1196)."
+        },
+        {
+            "tipo": "referência",
+            "texto": "16. Santo Ambrósio, Explanatio Symboli, 7: CSEL 73. 3 (PL 17, 1193)."
+        }
+    ]
+}
